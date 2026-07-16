@@ -1,5 +1,3 @@
-# 正念減壓（MBSR）綜述
-
 ## 1. 定位與歷史脈絡
 
 正念減壓（Mindfulness-Based Stress Reduction, MBSR）由 Jon Kabat-Zinn 於 1979 年在美國麻州大學醫學院（University of Massachusetts Medical School）附設的「減壓門診」（Stress Reduction Clinic，今「正念中心」Center for Mindfulness）創立，是現代西方醫療與心理介入史上首次將佛教內觀傳統有系統地世俗化、納入醫院結構的嘗試 🟢【來源等級 B：Kabat-Zinn, J. (2003). "Mindfulness-Based Interventions in Context: Past, Present, and Future", Clinical Psychology: Science and Practice】。

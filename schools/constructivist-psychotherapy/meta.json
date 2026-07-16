@@ -1,0 +1,26 @@
+{
+  "slug": "constructivist-psychotherapy",
+  "name_zh": "建構主義心理治療",
+  "name_en": "Constructivist Psychotherapy",
+  "category": "八 後現代",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "George Kelly"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D2",
+    "D11"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:57:46"
+}
