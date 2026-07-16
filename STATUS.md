@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 13:47
+> 引擎自動更新。最後更新：2026-07-16 13:49
 
 ## 進度
 
@@ -8,8 +8,8 @@
 
 - 🟢 已校核 reviewed：0
 - 🟡 草稿 draft（待校核）：1
-- ⬜ 待產 queued：46
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：1
+- ⬜ 待產 queued：45
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
 
@@ -17,7 +17,7 @@
 |---|------|------|------|------|------|
 | 🔴 | `structuralism` | 結構主義 | 一 早期學院派 | error | 0KB |
 | 🟡 | `functionalism` | 功能主義 | 一 早期學院派 | draft | 38KB |
-| ⬜ | `psychoanalysis` | 精神分析 | 二 精神分析 | queued | 0KB |
+| 🔴 | `psychoanalysis` | 精神分析 | 二 精神分析 | error | 0KB |
 | ⬜ | `analytical-psychology` | 分析心理學 | 二 精神分析 | queued | 0KB |
 | ⬜ | `individual-psychology` | 個體心理學 | 二 精神分析 | queued | 0KB |
 | ⬜ | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | queued | 0KB |
