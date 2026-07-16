@@ -27,16 +27,17 @@
 
 引擎逐一跑一遍後 exit；MISSING / <400B 的檔只在 **watchdog 重啟引擎重掃**時才重生（skip-if-exists 只跳 ≥400B）。目前待重生：
 
-| slug | 狀態 | 失敗型態 | 已連續失敗輪數 |
-|------|------|----------|----------------|
-| ego-psychology | MISSING（已刪） | m3 非 UTF-8 / 截斷，UTF-8 guard 刪除 | 1 |
-| existential-psychology | MISSING（已刪） | m3 吐 bare 0x85（非 UTF-8） | 2 |
-| cognitive-psychology | 28B | m3 吐近空 | 2 |
-| person-centered-therapy | 1B | m3 吐近空 | 2 |
+| slug | 狀態 | 失敗型態 |
+|------|------|----------|
+| ego-psychology | MISSING（已刪） | m3 非 UTF-8 / 截斷，UTF-8 guard 刪除 |
+| existential-psychology | MISSING（已刪） | m3 吐 bare 0x85（非 UTF-8） |
+| cognitive-psychology | 28B | m3 吐近空 |
+| person-centered-therapy | 1B | m3 吐近空 |
+| dbt | 已刪 | **新型態**：m3 沒寫正文，改吐「自我修訂便條」（`回頭檢查發現…以下是修訂版`），只有 `### 8.3/8.4` 片段、零 `## 1.` 標題；fix-preamble 抓不到，靠人工刪 |
 
-- `evolutionary-psychology` 生成中（in-flight），不列。
-- **判準**：某篇連續 ≥3 輪監控仍 <400B → 認定 m3 對它持續失敗，停止自動重試，改人工/Opus 補或換 prompt；勿讓 watchdog 無限重掃燒時間。
-- cognitive-psychology / person-centered-therapy 已 2 輪 → 下一輪引擎重啟後若仍失敗，達門檻，記此表並停重試。
+- **重要**：以上這些**尚未被引擎重試過**——引擎首輪一次過，跑到就跑到，<400B/MISSING 的檔只在**引擎跑完 exit → watchdog 偵測 heartbeat 過期 + 隊列未滿 → 重啟重掃**時才由 skip-if-exists 補生。所以「連續 N 輪監控 <400B」不等於「m3 失敗 N 次」，多半是還沒輪到重試。
+- **判準（改良）**：以**實際重生嘗試次數**計，非監控輪數。引擎重啟重掃後，某篇再生一次仍 <400B/壞內容 → 才算 m3 對它真正持續失敗 → 記此表標「達門檻」，停自動重試，改人工/Opus 補或換 prompt。
+- 目前策略：**不強制重啟健康引擎**（避免多引擎競爭事故重演），讓引擎自然跑完 + watchdog 重啟補生。約 rest-of-queue(~1.5h) + watchdog(~15min) + 補生(~30min) ≈ 完成。
 
 ## 下次接手先做
 

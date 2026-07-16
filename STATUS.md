@@ -1,15 +1,15 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:48
+> 引擎自動更新。最後更新：2026-07-16 15:53
 
 ## 進度
 
-`████████░░░░░░░░░░░░` **21/48** (43%) 已產綜述
+`████████░░░░░░░░░░░░` **20/48** (41%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：21
+- 🟡 草稿 draft（待校核）：20
 - ⬜ 待產 queued：25
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：3
 
 ## 明細
 
@@ -35,12 +35,12 @@
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
 | 🟡 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | draft | 46KB |
 | 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
-| 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 1KB |
+| ⬜ | `dbt` | 辯證行為治療 | 七 第三波 | queued | 0KB |
 | 🟡 | `act` | 接納與承諾治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbsr` | 正念減壓 | 七 第三波 | draft | 31KB |
 | 🟡 | `rebt` | 理情行為治療 | 七 第三波 | draft | 22KB |
-| ⬜ | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | queued | 0KB |
+| 🔴 | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | error | 0KB |
 | ⬜ | `narrative-therapy` | 敘事治療 | 八 後現代 | queued | 0KB |
 | ⬜ | `sfbt` | 焦點解決短期治療 | 八 後現代 | queued | 0KB |
 | ⬜ | `transactional-analysis` | 溝通分析 | 八 後現代 | queued | 0KB |
