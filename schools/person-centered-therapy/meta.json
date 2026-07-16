@@ -1,0 +1,27 @@
+{
+  "slug": "person-centered-therapy",
+  "name_zh": "個人中心治療",
+  "name_en": "Person-Centered Therapy",
+  "category": "五 人本與存在",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Carl Rogers"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D2",
+    "D13",
+    "D3"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:09:44"
+}
