@@ -1,0 +1,28 @@
+{
+  "slug": "positive-psychology",
+  "name_zh": "正向心理學",
+  "name_en": "Positive Psychology",
+  "category": "十三 當代整合",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Seligman",
+    "Csikszentmihalyi"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D8",
+    "D13",
+    "D1"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T17:32:55"
+}
