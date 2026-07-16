@@ -90,6 +90,12 @@ python -c "import json;[print('\t'.join([e['slug'],e['name_zh'],e['name_en'],e['
     log "gen $slug ..."
     prompt="$(build_prompt "$slug" "$name_zh" "$name_en" "$category" "$figures" "$domains")"
     if gen_one "$slug" "$prompt"; then
+      # UTF-8 驗證：m3 偶爾吐 bare 0x85 等非法位元組 → 刪掉當失敗，下輪重生
+      if ! python -c "open('schools/$slug/synthesis.md',encoding='utf-8').read()" 2>/dev/null; then
+        log "WARN $slug 非 UTF-8 輸出，刪除待重生"; rm -f "schools/$slug/synthesis.md"
+        python tools/gen-status.py >> logs/engine.log 2>&1 || true
+        continue
+      fi
       python tools/fix-preamble.py "$slug" >> logs/engine.log 2>&1 || true
       sz=$(wc -c < "schools/$slug/synthesis.md" 2>/dev/null || echo 0)
       if [ "$sz" -lt 400 ]; then

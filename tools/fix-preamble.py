@@ -12,7 +12,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SIG = re.compile(r"synthesis\.md|已寫入|寫入 `|寫入了|[0-9]+\s*段|字；|字，|KB）|KB\)|行 /|行/|綜述已|已完成|以下是|已為|全齊|齊全")
 
 def fix_one(path):
-    txt = open(path, encoding="utf-8").read()
+    try:
+        txt = open(path, encoding="utf-8").read()
+    except UnicodeDecodeError:
+        return False  # 非 UTF-8 交給 verify.py 報告 / 由監控刪除重生
     lines = txt.split("\n")
     if lines and lines[0].lstrip().startswith("## 1."):
         return False

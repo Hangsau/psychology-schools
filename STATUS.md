@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:19
+> 引擎自動更新。最後更新：2026-07-16 15:26
 
 ## 進度
 
@@ -29,11 +29,11 @@
 | 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
 | 🟡 | `gestalt-therapy` | 完形治療 | 四 完形取向 | draft | 41KB |
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
-| 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 68KB |
+| ⬜ | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | queued | 0KB |
 | 🔴 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | error | 0KB |
 | 🔴 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | error | 0KB |
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
-| ⬜ | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | queued | 0KB |
+| 🟡 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | draft | 46KB |
 | ⬜ | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | queued | 0KB |
 | ⬜ | `dbt` | 辯證行為治療 | 七 第三波 | queued | 0KB |
 | ⬜ | `act` | 接納與承諾治療 | 七 第三波 | queued | 0KB |

@@ -1,5 +1,3 @@
-# 人本心理學（Humanistic Psychology）學派綜述
-
 ## 1. 定位與歷史脈絡
 
 人本心理學（Humanistic Psychology）是二十世紀五〇至六〇年代在美國形成的心理學取向，被其倡議者自我定位為繼行為主義（behaviorism, 第一勢力）與精神分析（psychoanalysis, 第二勢力）之後的**「第三勢力」（the Third Force）**——一個關注人的主觀經驗、潛能與意義的取向。（🟢 B 級，A. J. Sutich 1962〈Humanistic Psychology: A New Introduction〉；Bugental 1964 期刊導言；Schneider 等人 2008 教科書性回顧《The Handbook of Humanistic Psychology》。）
