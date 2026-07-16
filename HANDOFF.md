@@ -22,6 +22,8 @@
 - **m3 呼叫 bug 已修**：原本 `env VAR=x command claude` 會爆 `env: 'command': No such file or directory`（`command` 是 bash builtin，`env` 不能 exec）。已改為直接 `claude`（binary 在 `/c/Users/hangs/.local/bin/claude`，在 PATH 上）。
 - **preamble 缺陷已修**：m3 初版會在開頭加「已寫入…8 段全齊」自我摘要，並漏掉 `## 1.` 標題（內容裸接）。已在 `build_prompt` 加強：第一字元必須是 `#`、8 段標題一個都不能省。修後 `structuralism` 開頭正是 `## 1. 定位與歷史脈絡`，8 標題齊。
 - **多引擎競爭事故**：`nohup ... & disown` 在 Windows 其實會存活（MSYS `ps`/`pkill` 看不到 → 誤判已死 → 重複啟動 → 多引擎搶同檔）。用 PowerShell `Get-CimInstance` + `taskkill /F /T` 才清得掉。之後加了單例鎖防復發。**教訓：查引擎死活用 PowerShell CIM，不要只信 MSYS `ps`。**
+- **當前運轉引擎 = 加鎖前的舊腳本（pid 30800，13:52 啟動至今）**：它載入的是「修好 m3 呼叫 + 強化 prompt」但**沒有單例鎖 / 沒有 fix-preamble 整合 / 沒有 UTF-8 guard** 的版本。所以：① 監控時**必須手動**跑 `fix-preamble.py` / `verify.py`（引擎不會自動修）；② 它不會自刪非 UTF-8 檔（要手動判刪，如 dbt）。新版腳本（含這些）只在引擎**重啟後**才生效。
+- **pid 檔曾殘留錯值**：`logs/engine.pid` 一度是 `515`（已死的短命 process 寫的），但真正在跑的是 30800。舊腳本不寫 pid，故未被覆蓋。**已手動改回 30800**，避免 watchdog 用新（加鎖）腳本重啟時檢查到死 pid 515→誤判可啟動→與 30800 並存競爭。`logs/` 是 gitignore，pid 只是 runtime state。
 
 ## 待重生 / 頑固失敗清單（2026-07-16 15:xx 監控快照）
 
