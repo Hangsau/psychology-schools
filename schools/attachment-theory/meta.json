@@ -1,0 +1,29 @@
+{
+  "slug": "attachment-theory",
+  "name_zh": "依附理論",
+  "name_en": "Attachment Theory",
+  "category": "十 系統與關係",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Bowlby",
+    "Ainsworth"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D3",
+    "D4",
+    "D2",
+    "D10"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T16:59:09"
+}
