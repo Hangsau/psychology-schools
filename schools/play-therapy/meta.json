@@ -1,0 +1,28 @@
+{
+  "slug": "play-therapy",
+  "name_zh": "遊戲治療",
+  "name_en": "Play Therapy",
+  "category": "十一 表達性藝術",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Axline",
+    "Landreth"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D6",
+    "D4",
+    "D2"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T17:06:49"
+}
