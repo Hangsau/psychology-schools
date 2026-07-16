@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 20:04
+> 引擎自動更新。最後更新：2026-07-16 22:21
 
 ## 進度
 
@@ -62,7 +62,7 @@
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
 | 🟡 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | draft | 25KB |
 | 🟡 | `social-psychology` | 社會心理學 | 十三 當代整合 | draft | 28KB |
-| 🟡 | `health-psychology` | 健康心理學 | 十三 當代整合 | draft | 11KB |
+| 🟡 | `health-psychology` | 健康心理學 | 十三 當代整合 | draft | 12KB |
 
 ---
 > 🟡 草稿由 `claude-m3` 產生，事實需 P3 人工/Opus 校核（見 methodology/verification-sop.md）。

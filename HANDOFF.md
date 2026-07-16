@@ -1,13 +1,21 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-16 18:xx（P0/P1 完成，P2 引擎首輪跑完 37/48 → 崩潰重啟，新版自癒引擎補生 backfill 中；本 session 手動補完 person-centered-therapy）
+> 最後更新：2026-07-16 22:xx（**P2 完成：48/48 全部產出、verify ALL PASS**。引擎與 watchdog 已停。下一步＝P3 校核 + 推 GitHub）
 
 ## 現況
 
 - **P0 骨架**：✓ repo + 四份文件 + 方法論 + schema
 - **P1 inventory**：✓ classification（13 類 / ~48 學派）+ 三張清單 + 13 領域對接表 + 概念詞彙
-- **P2 綜述**：✓ 引擎穩定運轉中 — `tools/run-engine.sh` 用 `claude-m3` 逐學派產草稿，`structuralism` 已完成（乾淨 8 段），其餘隊列跑中。
+- **P2 綜述**：✅ **48/48 完成，verify ALL PASS**。46 篇由 m3 引擎產（🟡 待校核）、person-centered-therapy 與 health-psychology 由 Opus 直寫（品質較高，仍標 🟡 待 P3）。
+- **引擎狀態**：**已停止**（m3 引擎 process 已 kill、`psych-schools-watchdog` schtasks 已 DISABLE、engine.pid 已清）。原因見下「配額路由事故」。系統現進 idle，不會自行重啟。
+
+## 配額路由事故 + 計費結論（2026-07-16，重要）
+
+- **事故：撞 Claude 5H 牆，用戶不滿。** m3 引擎本身零 Claude 配額（走 MiniMax）跑完 47 篇——這部分成功。但配額被兩件事燒掉：① **把機械式監控放在 Opus 跑**（每 ~25 分 ScheduleWakeup 叫醒一個完整 Opus session 做 CIM/verify/commit 等純腳本雜活，一輪輪累積）；② **person-centered-therapy 用 Opus 手寫**（違反 CLAUDE.md「產草稿派 m3、Opus 只校核」的分工）。**教訓：機械監控要零-LLM（靠 watchdog／純腳本），不要用 Opus 定時輪詢；Opus/Claude 配額只留給 P3 校核與規劃，且由用戶明確觸發。**
+- **M3 池衝突**：MiniMax token 與 `religions-history/scripts/auto-pipeline.py` 共用；M3 已排到 ~800 小時後才有空，psychology-schools 不能再靠 m3。
+- **`claude -p` 計費結論（已查證）**：環境無 `ANTHROPIC_API_KEY`/`ANTHROPIC_AUTH_TOKEN`；`~/.claude/.credentials.json` 是 `claudeAiOauth`、`subscriptionType=pro`。故不掛 MiniMax 覆蓋時，**`claude -p` 走 Pro 訂閱 OAuth＝無額外金錢消費**，只吃訂閱速率視窗（與互動 session 同池）。舊記憶「-p 走 API per-token 額外付費」**已過期作廢**。→ 之後 P3 批次或補寫可用 `claude -p`（訂閱、免費），但仍會吃 5H 視窗，量大時分批。
+- **health-psychology 補寫**：因 m3 不可用，由 Opus（互動 session）直寫 ~12.8KB 完整 8 段（verify PASS），使 48/48。單篇直寫比起 `claude -p` 子程序更省（不重載 context）。
 
 ## 引擎怎麼運作
 
