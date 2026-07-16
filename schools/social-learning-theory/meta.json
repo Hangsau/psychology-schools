@@ -4,16 +4,11 @@
   "name_en": "Social Learning Theory",
   "category": "三 行為主義",
   "category_id": 0,
-  "era": "1959-1986",
-  "region": "美國（Stanford）",
-  "lineage": ["Miller & Dollard 1941", "Skinner 激進行為主義", "Rotter 控制源", "認知革命"],
+  "era": "",
+  "region": "",
+  "lineage": [],
   "figures": [
-    "Albert Bandura",
-    "Richard Walters",
-    "Neal Miller",
-    "John Dollard",
-    "Julian Rotter",
-    "Walter Mischel"
+    "Bandura"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -21,29 +16,12 @@
     "D11",
     "D8"
   ],
-  "concept_tags": [
-    "reciprocal-determinism",
-    "observational-learning",
-    "modeling",
-    "vicarious-reinforcement",
-    "self-efficacy",
-    "self-regulation",
-    "moral-disengagement",
-    "human-agency"
-  ],
-  "keywords": [
-    "Bandura",
-    "Bobo doll",
-    "social cognitive theory",
-    "自我效能",
-    "觀察學習",
-    "示範",
-    "社會認知理論"
-  ],
+  "concept_tags": [],
+  "keywords": [],
   "status": "draft",
   "review_state": "pending",
-  "confidence_overall": "high",
-  "sources_tier_summary": "A 級原典為主（Bandura 1977, 1986, 1997 等多部著作及期刊論文）；B 級學術教科書與同儕審查回顧補充；Wikipedia/SEP 條目用於交叉確認時間線。",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
   "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T15:00:00"
+  "generated_at": "2026-07-16T14:34:06"
 }

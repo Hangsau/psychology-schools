@@ -6,7 +6,7 @@ import os, glob, sys, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCHOOLS = os.path.join(ROOT, "schools")
 
-SECTIONS = ["定位", "代表人物", "核心理論", "著作", "方法", "批評", "13 領域", "缺口"]
+SECTIONS = ["定位", "代表人物", "核心理論", "著作", "方法", "批評", "問題領域", "缺口"]
 # 少量常見簡體字偵測（非窮舉，粗篩）
 SIMP = set("们这样对说时会来国过学习实现设计问题头亲书语")
 
