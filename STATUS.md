@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 16:27
+> 引擎自動更新。最後更新：2026-07-16 16:42
 
 ## 進度
 
-`██████████░░░░░░░░░░` **26/48** (54%) 已產綜述
+`███████████░░░░░░░░░` **27/48** (56%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：26
-- ⬜ 待產 queued：20
+- 🟡 草稿 draft（待校核）：27
+- ⬜ 待產 queued：19
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -47,7 +47,7 @@
 | ⬜ | `reality-therapy` | 現實治療 | 八 後現代 | queued | 0KB |
 | 🟡 | `social-constructionism` | 社會建構論 | 九 社會文化 | draft | 34KB |
 | 🟡 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | draft | 39KB |
-| ⬜ | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | queued | 0KB |
+| 🟡 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | draft | 35KB |
 | ⬜ | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | queued | 0KB |
 | ⬜ | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | queued | 0KB |
 | ⬜ | `attachment-theory` | 依附理論 | 十 系統與關係 | queued | 0KB |

@@ -1,0 +1,24 @@
+{
+  "slug": "multicultural-feminist-therapy",
+  "name_zh": "多元文化／女性主義治療",
+  "name_en": "Multicultural / Feminist Therapy",
+  "category": "九 社會文化",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D5",
+    "D2"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T16:42:00"
+}
