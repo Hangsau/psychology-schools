@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 18:24
+> 引擎自動更新。最後更新：2026-07-16 18:29
 
 ## 進度
 
-`█████████████████░░░` **41/48** (85%) 已產綜述
+`█████████████████░░░` **42/48** (87%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：41
-- ⬜ 待產 queued：6
+- 🟡 草稿 draft（待校核）：42
+- ⬜ 待產 queued：5
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：1
 
 ## 明細
@@ -52,7 +52,7 @@
 | 🔴 | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | error | 0KB |
 | 🟡 | `attachment-theory` | 依附理論 | 十 系統與關係 | draft | 29KB |
 | 🟡 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | draft | 33KB |
-| ⬜ | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | queued | 0KB |
+| 🟡 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | draft | 38KB |
 | 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
 | 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
 | ⬜ | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | queued | 0KB |
