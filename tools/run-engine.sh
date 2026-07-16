@@ -7,6 +7,15 @@ ROOT="C:/claudehome/projects/psychology-schools"
 cd "$ROOT" || exit 1
 export PYTHONIOENCODING=utf-8
 mkdir -p logs
+
+# 單例鎖：若已有活著的引擎，直接退出（防止 watchdog / 手動重複啟動造成多引擎競爭）
+if [ -f logs/engine.pid ]; then
+  oldpid="$(cat logs/engine.pid 2>/dev/null || echo)"
+  if [ -n "$oldpid" ] && kill -0 "$oldpid" 2>/dev/null; then
+    echo "[engine] already running (pid $oldpid), exit" >> logs/engine.log
+    exit 0
+  fi
+fi
 echo $$ > logs/engine.pid
 TOKEN="$(cat ~/.minimax-token)"
 
