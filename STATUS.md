@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 17:49
+> 引擎自動更新。最後更新：2026-07-16 17:57
 
 ## 進度
 
-`███████████████░░░░░` **38/48** (79%) 已產綜述
+`████████████████░░░░` **39/48** (81%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：38
-- ⬜ 待產 queued：8
+- 🟡 草稿 draft（待校核）：39
+- ⬜ 待產 queued：7
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -29,7 +29,7 @@
 | 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
 | 🟡 | `gestalt-therapy` | 完形治療 | 四 完形取向 | draft | 41KB |
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
-| ⬜ | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | queued | 0KB |
+| 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 38KB |
 | 🔴 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | error | 0KB |
 | 🔴 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | error | 0KB |
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
