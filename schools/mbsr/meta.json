@@ -1,0 +1,27 @@
+{
+  "slug": "mbsr",
+  "name_zh": "正念減壓",
+  "name_en": "Mindfulness-Based Stress Reduction",
+  "category": "七 第三波",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Jon Kabat-Zinn"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D6",
+    "D13",
+    "D9"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:45:58"
+}

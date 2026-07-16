@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:41
+> 引擎自動更新。最後更新：2026-07-16 15:45
 
 ## 進度
 
-`███████░░░░░░░░░░░░░` **19/48** (39%) 已產綜述
+`████████░░░░░░░░░░░░` **20/48** (41%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：19
-- ⬜ 待產 queued：27
+- 🟡 草稿 draft（待校核）：20
+- ⬜ 待產 queued：26
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -38,7 +38,7 @@
 | 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 1KB |
 | 🟡 | `act` | 接納與承諾治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
-| ⬜ | `mbsr` | 正念減壓 | 七 第三波 | queued | 0KB |
+| 🟡 | `mbsr` | 正念減壓 | 七 第三波 | draft | 31KB |
 | ⬜ | `rebt` | 理情行為治療 | 七 第三波 | queued | 0KB |
 | ⬜ | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | queued | 0KB |
 | ⬜ | `narrative-therapy` | 敘事治療 | 八 後現代 | queued | 0KB |
