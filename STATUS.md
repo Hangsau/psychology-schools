@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 17:41
+> 引擎自動更新。最後更新：2026-07-16 17:44
 
 ## 進度
 
-`███████████████░░░░░` **38/48** (79%) 已產綜述
+`███████████████░░░░░` **37/48** (77%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：38
-- ⬜ 待產 queued：8
+- 🟡 草稿 draft（待校核）：37
+- ⬜ 待產 queued：9
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -57,12 +57,12 @@
 | 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
 | ⬜ | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | queued | 0KB |
 | 🟡 | `morita-therapy` | 森田療法 | 十二 本土非西方 | draft | 32KB |
-| 🟡 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | draft | 12KB |
-| 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 11KB |
+| ⬜ | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | queued | 0KB |
+| ⬜ | `positive-psychology` | 正向心理學 | 十三 當代整合 | queued | 0KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
 | 🟡 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | draft | 25KB |
 | 🟡 | `social-psychology` | 社會心理學 | 十三 當代整合 | draft | 28KB |
-| ⬜ | `health-psychology` | 健康心理學 | 十三 當代整合 | queued | 0KB |
+| 🟡 | `health-psychology` | 健康心理學 | 十三 當代整合 | draft | 11KB |
 
 ---
 > 🟡 草稿由 `claude-m3` 產生，事實需 P3 人工/Opus 校核（見 methodology/verification-sop.md）。
