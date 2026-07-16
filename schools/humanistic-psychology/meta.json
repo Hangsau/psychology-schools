@@ -1,0 +1,29 @@
+{
+  "slug": "humanistic-psychology",
+  "name_zh": "人本心理學",
+  "name_en": "Humanistic Psychology",
+  "category": "五 人本與存在",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Maslow",
+    "Rogers"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D1",
+    "D2",
+    "D8",
+    "D13"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:02:58"
+}

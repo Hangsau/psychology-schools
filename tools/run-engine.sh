@@ -90,6 +90,7 @@ python -c "import json;[print('\t'.join([e['slug'],e['name_zh'],e['name_en'],e['
     log "gen $slug ..."
     prompt="$(build_prompt "$slug" "$name_zh" "$name_en" "$category" "$figures" "$domains")"
     if gen_one "$slug" "$prompt"; then
+      python tools/fix-preamble.py "$slug" >> logs/engine.log 2>&1 || true
       sz=$(wc -c < "schools/$slug/synthesis.md" 2>/dev/null || echo 0)
       if [ "$sz" -lt 400 ]; then
         log "WARN $slug output too small ($sz B) — will retry next run"

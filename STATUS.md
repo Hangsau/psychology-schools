@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:50
+> 引擎自動更新。最後更新：2026-07-16 15:02
 
 ## 進度
 
-`█████░░░░░░░░░░░░░░░` **12/48** (25%) 已產綜述
+`█████░░░░░░░░░░░░░░░` **13/48** (27%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：12
-- ⬜ 待產 queued：36
+- 🟡 草稿 draft（待校核）：13
+- ⬜ 待產 queued：35
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -17,7 +17,7 @@
 |---|------|------|------|------|------|
 | 🟡 | `structuralism` | 結構主義 | 一 早期學院派 | draft | 27KB |
 | 🟡 | `functionalism` | 功能主義 | 一 早期學院派 | draft | 22KB |
-| 🟡 | `psychoanalysis` | 精神分析 | 二 精神分析 | draft | 33KB |
+| 🟡 | `psychoanalysis` | 精神分析 | 二 精神分析 | draft | 32KB |
 | 🟡 | `analytical-psychology` | 分析心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `individual-psychology` | 個體心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | draft | 30KB |
@@ -28,7 +28,7 @@
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
 | 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
 | 🟡 | `gestalt-therapy` | 完形治療 | 四 完形取向 | draft | 41KB |
-| ⬜ | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | queued | 0KB |
+| 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
 | ⬜ | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | queued | 0KB |
 | ⬜ | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | queued | 0KB |
 | ⬜ | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | queued | 0KB |

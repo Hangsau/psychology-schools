@@ -1,5 +1,4 @@
-寫入 `C:\claudehome\projects\psychology-schools\schools\gestalt-therapy\synthesis.md`，357 行 / 21,073 字；8 段齊全（A/B 級來源、🟢–🔴 確定性標記），§8 已列已知缺口、爭議與三項常見扭曲澄清。
-，標誌性著作《Gestalt Therapy: Excitement and Growth in the Human Personality》於 1951 年由 Julian Press 出版。（🟢 B 級，Yontef 1993; Wheeler 1991《Gestalt Reconsidered》；Strümpfel 2004。）
+## 1. 定位與歷史脈絡
 
 這個學派**不是**完形心理學（Gestalt Psychology）的應用版——柏林完形心理學（Wertheimer、Köhler、Koffka）研究的是知覺與思維的結構，皮爾斯一系的治療取向則承襲自精神分析、現象學、存在主義與場論（field theory），借用「完形」、「圖與地」、「接觸邊界」等術語，卻已徹底改換語意場域。把兩者混為一談是本專案已記錄的常見扭曲（見 `schools/gestalt-psychology/synthesis.md` §8 與本篇 §8.3）。🟢
 
