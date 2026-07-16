@@ -20,7 +20,7 @@ gen_one(){
         ANTHROPIC_AUTH_TOKEN="$TOKEN" \
         ANTHROPIC_MODEL="MiniMax-M3" \
         ANTHROPIC_SMALL_FAST_MODEL="MiniMax-M3" \
-        command claude -p --permission-mode bypassPermissions \
+        claude -p --permission-mode bypassPermissions \
     > "schools/$slug/synthesis.md" 2>> logs/engine.log
 }
 
