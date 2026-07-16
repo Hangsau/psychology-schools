@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:09
+> 引擎自動更新。最後更新：2026-07-16 15:15
 
 ## 進度
 
@@ -8,8 +8,8 @@
 
 - 🟢 已校核 reviewed：0
 - 🟡 草稿 draft（待校核）：14
-- ⬜ 待產 queued：33
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：1
+- ⬜ 待產 queued：32
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
 
@@ -31,7 +31,7 @@
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
 | 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 68KB |
 | 🔴 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | error | 0KB |
-| ⬜ | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | queued | 0KB |
+| 🔴 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | error | 0KB |
 | ⬜ | `cbt` | 認知行為學派 | 六 認知與科學 | queued | 0KB |
 | ⬜ | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | queued | 0KB |
 | ⬜ | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | queued | 0KB |
