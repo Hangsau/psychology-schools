@@ -1,0 +1,26 @@
+{
+  "slug": "functionalism",
+  "name_zh": "功能主義",
+  "name_en": "Functionalism",
+  "category": "一 早期學院派",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "William James"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D8",
+    "D11"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T13:47:45"
+}
