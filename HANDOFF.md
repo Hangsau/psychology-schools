@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-16 17:47（P0/P1 完成，P2 引擎首輪跑完 37/48 → 崩潰重啟，新版自癒引擎補生 backfill 中）
+> 最後更新：2026-07-16 18:xx（P0/P1 完成，P2 引擎首輪跑完 37/48 → 崩潰重啟，新版自癒引擎補生 backfill 中；本 session 手動補完 person-centered-therapy）
 
 ## 現況
 
@@ -48,9 +48,16 @@
 - **現況（17:47 後）**：首輪已跑完，backfill 共 11 篇 0KB（9 queued + 2 error：ego-psychology / existential-psychology / dbt / reality-therapy / systems-family-therapy / play-therapy / indigenous-psychology / naikan-therapy / positive-psychology / person-centered-therapy / cognitive-psychology）。**新版自癒引擎（pid 926）正逐一補生**，垃圾自動刪。此輪跑完仍 0KB 的才算「該篇真失敗」，交 watchdog 再重啟重試；**連兩次實際重生嘗試仍壞** → 記「達門檻·停自動重試」，改人工/Opus 補。
 - 目前策略：引擎既已確認死亡才重啟（無多引擎競爭風險）；之後不強制重啟健康引擎，靠 watchdog 補後續輪。
 
+## 本 session 手動介入
+
+- **2026-07-16 18:xx — `person-centered-therapy` 由 Opus 手動產出（~26KB 完整 8 段）**：
+  - 觸發：引擎 backfill 仍將其留在 0KB（status 🔴 error），但本篇概念史清楚、書目可定錨、且無重大爭議（Rogers 是 20 世紀臨床心理學家之一），適合手動補完。
+  - 內容要點：① 學派名稱三階段演變（non-directive→client-centered→person-centered）；② 19 命題 + 6 條件 + 充分發揮功能人格三層架構；③ 主要回應 D2/D13/D3；④ §8 明確列已避開的常見扭曲（Rogers 太軟、UPR=縱容、人本=反主流文化副產品等）；⑤ Raskin/Truax/Carkhuff 等次要人物以 🟠 標出生卒年待補。
+  - 後續：下次引擎重啟時 skip-if-exists（≥400B）會跳過此篇；STATUS.md 的 🔴 → 🟡 轉換等下次 gen-status.py 跑時自動更新（不手動改以免和引擎狀態衝突）。
+
 ## 下次接手先做
 
-1. 看 `STATUS.md` 進度：哪些學派已產草稿、哪些失敗（❌）。
+1. 看 `STATUS.md` 進度：哪些學派已產草稿、哪些失敗（❌）。**注意**：person-centered-therapy 雖本檔已產出，但 STATUS.md 仍標 🔴 error（引擎尚未重生 STATUS.md），下次引擎跑 gen-status.py 會自動轉 🟡；若引擎未跑且需立即同步，可手動 `python tools/gen-status.py`。
 2. `logs/engine.log` 查失敗原因（注意 log 每行會重複兩次，是 `tee` + nohup 雙重導向，無害）。
 3. **P3 校核**：m3 草稿全是 🟡 pending-review，逐篇比對 `methodology/verification-sop.md` 校事實（尤其年代 / 歸屬 / 數字）、比對 known-distortions 清單、🟡→🟢 升級。
 4. **推 GitHub**：目前只本地 commit。`gh repo create <owner>/psychology-schools --public` 後 push（先問用戶帳號 / repo 名）。
