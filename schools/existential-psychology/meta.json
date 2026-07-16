@@ -1,0 +1,30 @@
+{
+  "slug": "existential-psychology",
+  "name_zh": "存在主義心理學",
+  "name_en": "Existential Psychology",
+  "category": "五 人本與存在",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Rollo May",
+    "Frankl",
+    "Yalom"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D1",
+    "D10",
+    "D11",
+    "D12"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:08:59"
+}
