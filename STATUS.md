@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 18:29
+> 引擎自動更新。最後更新：2026-07-16 18:34
 
 ## 進度
 
-`█████████████████░░░` **42/48** (87%) 已產綜述
+`█████████████████░░░` **43/48** (89%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：42
-- ⬜ 待產 queued：5
+- 🟡 草稿 draft（待校核）：43
+- ⬜ 待產 queued：4
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：1
 
 ## 明細
@@ -55,7 +55,7 @@
 | 🟡 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | draft | 38KB |
 | 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
 | 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
-| ⬜ | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | queued | 0KB |
+| 🟡 | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | draft | 32KB |
 | 🟡 | `morita-therapy` | 森田療法 | 十二 本土非西方 | draft | 32KB |
 | ⬜ | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | queued | 0KB |
 | ⬜ | `positive-psychology` | 正向心理學 | 十三 當代整合 | queued | 0KB |
