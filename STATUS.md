@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:39
+> 引擎自動更新。最後更新：2026-07-16 15:41
 
 ## 進度
 
-`███████░░░░░░░░░░░░░` **18/48** (37%) 已產綜述
+`███████░░░░░░░░░░░░░` **19/48** (39%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：18
-- ⬜ 待產 queued：28
+- 🟡 草稿 draft（待校核）：19
+- ⬜ 待產 queued：27
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -37,7 +37,7 @@
 | 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
 | 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 1KB |
 | 🟡 | `act` | 接納與承諾治療 | 七 第三波 | draft | 31KB |
-| ⬜ | `mbct` | 正念認知治療 | 七 第三波 | queued | 0KB |
+| 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
 | ⬜ | `mbsr` | 正念減壓 | 七 第三波 | queued | 0KB |
 | ⬜ | `rebt` | 理情行為治療 | 七 第三波 | queued | 0KB |
 | ⬜ | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | queued | 0KB |
