@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 16:59
+> 引擎自動更新。最後更新：2026-07-16 17:04
 
 ## 進度
 
-`████████████░░░░░░░░` **29/48** (60%) 已產綜述
+`████████████░░░░░░░░` **30/48** (62%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：29
-- ⬜ 待產 queued：17
+- 🟡 草稿 draft（待校核）：30
+- ⬜ 待產 queued：16
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -51,7 +51,7 @@
 | 🟡 | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | draft | 32KB |
 | ⬜ | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | queued | 0KB |
 | 🟡 | `attachment-theory` | 依附理論 | 十 系統與關係 | draft | 29KB |
-| ⬜ | `art-therapy` | 藝術治療 | 十一 表達性藝術 | queued | 0KB |
+| 🟡 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | draft | 33KB |
 | ⬜ | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | queued | 0KB |
 | ⬜ | `psychodrama` | 心理劇 | 十一 表達性藝術 | queued | 0KB |
 | ⬜ | `music-therapy` | 音樂治療 | 十一 表達性藝術 | queued | 0KB |

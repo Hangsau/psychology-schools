@@ -1,0 +1,28 @@
+{
+  "slug": "art-therapy",
+  "name_zh": "藝術治療",
+  "name_en": "Art Therapy",
+  "category": "十一 表達性藝術",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Naumburg",
+    "Kramer"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D6",
+    "D13",
+    "D2"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T17:04:05"
+}
