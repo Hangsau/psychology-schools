@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 17:36
+> 引擎自動更新。最後更新：2026-07-16 17:38
 
 ## 進度
 
-`███████████████░░░░░` **36/48** (75%) 已產綜述
+`███████████████░░░░░` **37/48** (77%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：36
-- ⬜ 待產 queued：10
+- 🟡 草稿 draft（待校核）：37
+- ⬜ 待產 queued：9
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -60,7 +60,7 @@
 | 🟡 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | draft | 12KB |
 | 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 11KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
-| ⬜ | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | queued | 0KB |
+| 🟡 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | draft | 25KB |
 | ⬜ | `social-psychology` | 社會心理學 | 十三 當代整合 | queued | 0KB |
 | ⬜ | `health-psychology` | 健康心理學 | 十三 當代整合 | queued | 0KB |
 
