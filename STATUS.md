@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:34
+> 引擎自動更新。最後更新：2026-07-16 14:44
 
 ## 進度
 
-`████░░░░░░░░░░░░░░░░` **10/48** (20%) 已產綜述
+`████░░░░░░░░░░░░░░░░` **11/48** (22%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：10
-- ⬜ 待產 queued：38
+- 🟡 草稿 draft（待校核）：11
+- ⬜ 待產 queued：37
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -26,7 +26,7 @@
 | 🟡 | `self-psychology` | 自體心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `behaviorism` | 古典行為主義 | 三 行為主義 | draft | 26KB |
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
-| ⬜ | `gestalt-psychology` | 完形心理學 | 四 完形取向 | queued | 0KB |
+| 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
 | ⬜ | `gestalt-therapy` | 完形治療 | 四 完形取向 | queued | 0KB |
 | ⬜ | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | queued | 0KB |
 | ⬜ | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | queued | 0KB |
