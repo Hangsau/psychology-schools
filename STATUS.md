@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 16:05
+> 引擎自動更新。最後更新：2026-07-16 16:10
 
 ## 進度
 
-`█████████░░░░░░░░░░░` **22/48** (45%) 已產綜述
+`█████████░░░░░░░░░░░` **23/48** (47%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：22
-- ⬜ 待產 queued：24
+- 🟡 草稿 draft（待校核）：23
+- ⬜ 待產 queued：23
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
 
 ## 明細
@@ -42,7 +42,7 @@
 | 🟡 | `rebt` | 理情行為治療 | 七 第三波 | draft | 22KB |
 | 🟡 | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | draft | 27KB |
 | 🟡 | `narrative-therapy` | 敘事治療 | 八 後現代 | draft | 41KB |
-| ⬜ | `sfbt` | 焦點解決短期治療 | 八 後現代 | queued | 0KB |
+| 🟡 | `sfbt` | 焦點解決短期治療 | 八 後現代 | draft | 29KB |
 | ⬜ | `transactional-analysis` | 溝通分析 | 八 後現代 | queued | 0KB |
 | ⬜ | `reality-therapy` | 現實治療 | 八 後現代 | queued | 0KB |
 | ⬜ | `social-constructionism` | 社會建構論 | 九 社會文化 | queued | 0KB |

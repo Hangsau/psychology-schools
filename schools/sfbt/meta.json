@@ -1,0 +1,28 @@
+{
+  "slug": "sfbt",
+  "name_zh": "焦點解決短期治療",
+  "name_en": "Solution-Focused Brief Therapy",
+  "category": "八 後現代",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "de Shazer",
+    "Insoo Kim Berg"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D11",
+    "D13",
+    "D8"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T16:10:40"
+}
