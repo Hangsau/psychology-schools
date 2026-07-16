@@ -1,22 +1,20 @@
 {
-  "slug": "psychoanalysis",
-  "name_zh": "精神分析",
-  "name_en": "Psychoanalysis",
+  "slug": "analytical-psychology",
+  "name_zh": "分析心理學",
+  "name_en": "Analytical Psychology",
   "category": "二 精神分析",
   "category_id": 0,
   "era": "",
   "region": "",
   "lineage": [],
   "figures": [
-    "Sigmund Freud"
+    "Carl Jung"
   ],
   "is_therapy_school": false,
   "domain_tags": [
+    "D1",
     "D2",
-    "D6",
-    "D3",
-    "D4",
-    "D7"
+    "D12"
   ],
   "concept_tags": [],
   "keywords": [],
