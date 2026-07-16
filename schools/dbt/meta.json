@@ -1,0 +1,27 @@
+{
+  "slug": "dbt",
+  "name_zh": "辯證行為治療",
+  "name_en": "Dialectical Behavior Therapy",
+  "category": "七 第三波",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Marsha Linehan"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D6",
+    "D13",
+    "D2"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T15:34:33"
+}
