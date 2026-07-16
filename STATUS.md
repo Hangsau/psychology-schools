@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:06
+> 引擎自動更新。最後更新：2026-07-16 14:10
 
 ## 進度
 
-`█░░░░░░░░░░░░░░░░░░░` **4/48** (8%) 已產綜述
+`██░░░░░░░░░░░░░░░░░░` **5/48** (10%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：4
-- ⬜ 待產 queued：44
+- 🟡 草稿 draft（待校核）：5
+- ⬜ 待產 queued：43
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -19,7 +19,7 @@
 | 🟡 | `functionalism` | 功能主義 | 一 早期學院派 | draft | 22KB |
 | 🟡 | `psychoanalysis` | 精神分析 | 二 精神分析 | draft | 33KB |
 | 🟡 | `analytical-psychology` | 分析心理學 | 二 精神分析 | draft | 24KB |
-| ⬜ | `individual-psychology` | 個體心理學 | 二 精神分析 | queued | 0KB |
+| 🟡 | `individual-psychology` | 個體心理學 | 二 精神分析 | draft | 24KB |
 | ⬜ | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | queued | 0KB |
 | ⬜ | `object-relations` | 客體關係理論 | 二 精神分析 | queued | 0KB |
 | ⬜ | `ego-psychology` | 自我心理學 | 二 精神分析 | queued | 0KB |
