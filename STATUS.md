@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:13
+> 引擎自動更新。最後更新：2026-07-16 14:17
 
 ## 進度
 
-`██░░░░░░░░░░░░░░░░░░` **6/48** (12%) 已產綜述
+`██░░░░░░░░░░░░░░░░░░` **7/48** (14%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：6
-- ⬜ 待產 queued：42
+- 🟡 草稿 draft（待校核）：7
+- ⬜ 待產 queued：41
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -21,7 +21,7 @@
 | 🟡 | `analytical-psychology` | 分析心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `individual-psychology` | 個體心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | draft | 30KB |
-| ⬜ | `object-relations` | 客體關係理論 | 二 精神分析 | queued | 0KB |
+| 🟡 | `object-relations` | 客體關係理論 | 二 精神分析 | draft | 29KB |
 | ⬜ | `ego-psychology` | 自我心理學 | 二 精神分析 | queued | 0KB |
 | ⬜ | `self-psychology` | 自體心理學 | 二 精神分析 | queued | 0KB |
 | ⬜ | `behaviorism` | 古典行為主義 | 三 行為主義 | queued | 0KB |

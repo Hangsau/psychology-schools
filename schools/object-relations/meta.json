@@ -1,0 +1,28 @@
+{
+  "slug": "object-relations",
+  "name_zh": "客體關係理論",
+  "name_en": "Object Relations",
+  "category": "二 精神分析",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Klein",
+    "Winnicott"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D3",
+    "D4",
+    "D2"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T14:17:05"
+}
