@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 18:34
+> 引擎自動更新。最後更新：2026-07-16 18:47
 
 ## 進度
 
-`█████████████████░░░` **43/48** (89%) 已產綜述
+`██████████████████░░` **44/48** (91%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：43
-- ⬜ 待產 queued：4
+- 🟡 草稿 draft（待校核）：44
+- ⬜ 待產 queued：3
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：1
 
 ## 明細
@@ -58,7 +58,7 @@
 | 🟡 | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | draft | 32KB |
 | 🟡 | `morita-therapy` | 森田療法 | 十二 本土非西方 | draft | 32KB |
 | ⬜ | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | queued | 0KB |
-| ⬜ | `positive-psychology` | 正向心理學 | 十三 當代整合 | queued | 0KB |
+| 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 36KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
 | 🟡 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | draft | 25KB |
 | 🟡 | `social-psychology` | 社會心理學 | 十三 當代整合 | draft | 28KB |
