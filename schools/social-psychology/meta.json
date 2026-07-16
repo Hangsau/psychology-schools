@@ -1,0 +1,29 @@
+{
+  "slug": "social-psychology",
+  "name_zh": "社會心理學",
+  "name_en": "Social Psychology",
+  "category": "十三 當代整合",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Lewin",
+    "Festinger",
+    "Asch"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D5",
+    "D3",
+    "D7"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T17:41:37"
+}
