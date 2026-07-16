@@ -1,0 +1,27 @@
+{
+  "slug": "cultural-historical-psychology",
+  "name_zh": "文化歷史心理學",
+  "name_en": "Cultural-Historical Psychology",
+  "category": "九 社會文化",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Lev Vygotsky"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D2",
+    "D5",
+    "D11"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T16:27:00"
+}
