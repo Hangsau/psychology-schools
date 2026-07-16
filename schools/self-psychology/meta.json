@@ -1,0 +1,26 @@
+{
+  "slug": "self-psychology",
+  "name_zh": "自體心理學",
+  "name_en": "Self Psychology",
+  "category": "二 精神分析",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Heinz Kohut"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D2",
+    "D3"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T14:21:33"
+}
