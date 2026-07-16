@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:21
+> 引擎自動更新。最後更新：2026-07-16 14:26
 
 ## 進度
 
-`███░░░░░░░░░░░░░░░░░` **9/48** (18%) 已產綜述
+`████░░░░░░░░░░░░░░░░` **10/48** (20%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：9
-- ⬜ 待產 queued：39
+- 🟡 草稿 draft（待校核）：10
+- ⬜ 待產 queued：38
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -24,7 +24,7 @@
 | 🟡 | `object-relations` | 客體關係理論 | 二 精神分析 | draft | 29KB |
 | 🟡 | `ego-psychology` | 自我心理學 | 二 精神分析 | draft | 17KB |
 | 🟡 | `self-psychology` | 自體心理學 | 二 精神分析 | draft | 24KB |
-| ⬜ | `behaviorism` | 古典行為主義 | 三 行為主義 | queued | 0KB |
+| 🟡 | `behaviorism` | 古典行為主義 | 三 行為主義 | draft | 26KB |
 | ⬜ | `social-learning-theory` | 社會學習理論 | 三 行為主義 | queued | 0KB |
 | ⬜ | `gestalt-psychology` | 完形心理學 | 四 完形取向 | queued | 0KB |
 | ⬜ | `gestalt-therapy` | 完形治療 | 四 完形取向 | queued | 0KB |

@@ -1,0 +1,27 @@
+{
+  "slug": "behaviorism",
+  "name_zh": "古典行為主義",
+  "name_en": "Behaviorism",
+  "category": "三 行為主義",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Watson",
+    "Skinner"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D11",
+    "D6"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T14:26:09"
+}
