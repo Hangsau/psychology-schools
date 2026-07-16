@@ -4,23 +4,45 @@
   "name_en": "Functionalism",
   "category": "一 早期學院派",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1890s–1920s",
+  "region": "美國",
   "lineage": [],
   "figures": [
-    "William James"
+    "William James",
+    "John Dewey",
+    "James Rowland Angell",
+    "Harvey Carr",
+    "Robert S. Woodworth"
   ],
   "is_therapy_school": false,
   "domain_tags": [
     "D8",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "motivation-drive",
+    "adaptation-evolution",
+    "self-concept",
+    "emotion-regulation",
+    "behavior-change",
+    "consciousness"
+  ],
+  "keywords": [
+    "功能主義",
+    "意識流",
+    "習慣",
+    "適應行為",
+    "實用主義",
+    "S-O-R",
+    "達爾文演化論",
+    "應用心理學",
+    "詹姆斯-蘭格情緒理論",
+    "進步主義教育"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（James、Dewey、Angell 著作），B 史學研究輔助，版權狀態部分待查（🟠）",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T13:59:06"
 }

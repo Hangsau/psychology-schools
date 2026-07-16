@@ -4,13 +4,15 @@
   "name_en": "Psychoanalysis",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1890s–1939",
+  "region": "奧地利、德國、英國",
   "lineage": [],
   "figures": [
-    "Sigmund Freud"
+    "Sigmund Freud",
+    "Anna Freud",
+    "Josef Breuer"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D2",
     "D6",
@@ -18,12 +20,31 @@
     "D4",
     "D7"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "unconscious",
+    "defense-mechanism",
+    "developmental-stages",
+    "early-experience",
+    "insight-oriented",
+    "psychopathology",
+    "therapeutic-relationship"
+  ],
+  "keywords": [
+    "精神分析",
+    "無意識",
+    "壓抑",
+    "夢的解析",
+    "本我自我超我",
+    "力比多",
+    "伊底帕斯情結",
+    "自由聯想",
+    "移情",
+    "防衛機轉"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Freud 全集），B 史學與臨床研究（Shedler、Sulloway）輔助，冰山扭曲已正確避開",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:01:31"
 }

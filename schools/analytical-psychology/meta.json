@@ -4,24 +4,46 @@
   "name_en": "Analytical Psychology",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1912–1961",
+  "region": "瑞士",
   "lineage": [],
   "figures": [
-    "Carl Jung"
+    "Carl Jung",
+    "Marie-Louise von Franz",
+    "James Hillman",
+    "Erich Neumann"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D1",
     "D2",
     "D12"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "unconscious",
+    "self-concept",
+    "meaning-existential",
+    "transpersonal-spiritual",
+    "insight-oriented",
+    "narrative-meaning",
+    "developmental-stages"
+  ],
+  "keywords": [
+    "分析心理學",
+    "集體無意識",
+    "原型",
+    "個體化",
+    "陰影",
+    "阿尼瑪阿尼姆斯",
+    "自性",
+    "人格面具",
+    "同時性",
+    "榮格類型論"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（榮格全集 Collected Works）為主，B 史學研究輔助，書目 PD/© 因國家而異（🔴），納粹時期爭議尚存（🟠）",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:06:56"
 }

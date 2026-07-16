@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 22:21
+> 引擎自動更新。最後更新：2026-07-16 22:59
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：48
+- 🟢 已校核 reviewed：5
+- 🟡 草稿 draft（待校核）：43
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -15,11 +15,11 @@
 
 | | slug | 學派 | 大類 | 狀態 | 大小 |
 |---|------|------|------|------|------|
-| 🟡 | `structuralism` | 結構主義 | 一 早期學院派 | draft | 27KB |
-| 🟡 | `functionalism` | 功能主義 | 一 早期學院派 | draft | 22KB |
-| 🟡 | `psychoanalysis` | 精神分析 | 二 精神分析 | draft | 32KB |
-| 🟡 | `analytical-psychology` | 分析心理學 | 二 精神分析 | draft | 24KB |
-| 🟡 | `individual-psychology` | 個體心理學 | 二 精神分析 | draft | 24KB |
+| 🟢 | `structuralism` | 結構主義 | 一 早期學院派 | reviewed | 27KB |
+| 🟢 | `functionalism` | 功能主義 | 一 早期學院派 | reviewed | 23KB |
+| 🟢 | `psychoanalysis` | 精神分析 | 二 精神分析 | reviewed | 32KB |
+| 🟢 | `analytical-psychology` | 分析心理學 | 二 精神分析 | reviewed | 25KB |
+| 🟢 | `individual-psychology` | 個體心理學 | 二 精神分析 | reviewed | 24KB |
 | 🟡 | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | draft | 30KB |
 | 🟡 | `object-relations` | 客體關係理論 | 二 精神分析 | draft | 29KB |
 | 🟡 | `ego-psychology` | 自我心理學 | 二 精神分析 | draft | 24KB |

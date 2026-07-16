@@ -4,8 +4,8 @@
   "name_en": "Structuralism",
   "category": "一 早期學院派",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1870s–1920s",
+  "region": "德國、美國",
   "lineage": [],
   "figures": [
     "Wundt",
@@ -16,12 +16,29 @@
     "D2",
     "D6"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "consciousness",
+    "perception-gestalt",
+    "emotion-regulation",
+    "cognition-processing",
+    "self-concept"
+  ],
+  "keywords": [
+    "結構主義",
+    "內省法",
+    "意識元素",
+    "感覺",
+    "意象",
+    "情感",
+    "統覺",
+    "直接經驗",
+    "刺激錯誤",
+    "實驗心理學"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（馮特、鐵欽納著作），B 史學研究（Blumenthal、Danziger）輔助，無 C/D",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T13:57:16"
 }

@@ -4,24 +4,45 @@
   "name_en": "Individual Psychology",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1911–1937",
+  "region": "奧地利、美國",
   "lineage": [],
   "figures": [
-    "Alfred Adler"
+    "Alfred Adler",
+    "Rudolf Dreikurs",
+    "Heinz Ansbacher"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D2",
     "D5",
     "D8"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "self-concept",
+    "motivation-drive",
+    "social-influence",
+    "therapeutic-relationship",
+    "early-experience",
+    "resilience-wellbeing",
+    "meaning-existential"
+  ],
+  "keywords": [
+    "個體心理學",
+    "自卑感",
+    "補償",
+    "社會情懷",
+    "創造性自我",
+    "生活風格",
+    "出生順序",
+    "卓越追求",
+    "鼓勵",
+    "虛構最終目標"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（Adler 著作、Ansbacher 選集）與 B 史學（Ellenberger 1970）並重；出生順序命題已有大型樣本反駁（🟠）",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:10:06"
 }
