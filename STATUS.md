@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 18:13
+> 引擎自動更新。最後更新：2026-07-16 18:22
 
 ## 進度
 
-`████████████████░░░░` **40/48** (83%) 已產綜述
+`█████████████████░░░` **41/48** (85%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：40
-- ⬜ 待產 queued：8
+- 🟡 草稿 draft（待校核）：41
+- ⬜ 待產 queued：7
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -44,7 +44,7 @@
 | 🟡 | `narrative-therapy` | 敘事治療 | 八 後現代 | draft | 41KB |
 | 🟡 | `sfbt` | 焦點解決短期治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `transactional-analysis` | 溝通分析 | 八 後現代 | draft | 18KB |
-| ⬜ | `reality-therapy` | 現實治療 | 八 後現代 | queued | 0KB |
+| 🟡 | `reality-therapy` | 現實治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `social-constructionism` | 社會建構論 | 九 社會文化 | draft | 34KB |
 | 🟡 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | draft | 39KB |
 | 🟡 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | draft | 35KB |
