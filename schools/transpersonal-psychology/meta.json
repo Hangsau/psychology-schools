@@ -1,0 +1,28 @@
+{
+  "slug": "transpersonal-psychology",
+  "name_zh": "跨個人心理學",
+  "name_en": "Transpersonal Psychology",
+  "category": "十三 當代整合",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Ken Wilber",
+    "Grof"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D12",
+    "D1",
+    "D10"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T17:36:29"
+}
