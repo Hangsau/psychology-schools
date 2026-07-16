@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-16 22:xx（**P2 完成：48/48 全部產出、verify ALL PASS**。引擎與 watchdog 已停。下一步＝P3 校核 + 推 GitHub）
+> 最後更新：2026-07-16 22:xx（**P2 完成：48/48、verify ALL PASS**。引擎與 watchdog 已停。已推 GitHub（Hangsau/psychology-schools，public）。當前＝P3 Sonnet 批次校核）
 
 ## 現況
 
@@ -65,15 +65,12 @@
 
 ## 下次接手先做
 
-1. 看 `STATUS.md` 進度：哪些學派已產草稿、哪些失敗（❌）。**注意**：person-centered-therapy 雖本檔已產出，但 STATUS.md 仍標 🔴 error（引擎尚未重生 STATUS.md），下次引擎跑 gen-status.py 會自動轉 🟡；若引擎未跑且需立即同步，可手動 `python tools/gen-status.py`。
-2. `logs/engine.log` 查失敗原因（注意 log 每行會重複兩次，是 `tee` + nohup 雙重導向，無害）。
-3. **P3 校核**：m3 草稿全是 🟡 pending-review，逐篇比對 `methodology/verification-sop.md` 校事實（尤其年代 / 歸屬 / 數字）、比對 known-distortions 清單、🟡→🟢 升級。
-4. **推 GitHub**：目前只本地 commit。`gh repo create <owner>/psychology-schools --public` 後 push（先問用戶帳號 / repo 名）。
-5. 隊列全跑完後引擎自動 exit、watchdog 見「queue complete」不動作 → 系統進 idle，屬正常。
+1. 看 `STATUS.md`：48/48 全 🟡 draft，P2 已完成，引擎與 watchdog 已停（不會自行重啟）。
+2. **P3 校核（當前階段）**：規格在 `methodology/p3-batch-spec.md`，派 **Sonnet 5** sub-agent 批次執行（每批 5–8 篇，驗收即 commit+push）；Opus 只仲裁分歧。校核重點：年代 / 歸屬 / 數字三角驗證、known-distortions 比對、`meta.json` 補 `concept_tags`（目前 48 篇全空，是 P4 前置缺口）、🟡→🟢 升級。
+3. GitHub 遠端已存在：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。每批做完直接 push，不用問。
 
 ## 已知限制
 
 - m3 草稿事實可靠度＝科普等級，需校核（尤其年代、歸屬、數字；m3 會捏造數字）。
 - 部分學派（本土 / 非西方 / 表達性藝術）英文二手資料多於一手，缺口較多，已在各篇「已知缺口」區標。
-- 未推遠端；本地 git 是目前唯一真實來源。
-- 引擎存活依賴本機開機 + Git Bash + `~/.minimax-token` 有效；MiniMax 月費若到期 m3 會失敗，log 會出現 auth 錯誤。
+- M3 額度被 religions-history 佔用約 800 小時，本專案不再依賴 m3；後續批次工作走 Sonnet 5 sub-agent。

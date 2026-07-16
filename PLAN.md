@@ -54,17 +54,22 @@ religions-history 已確立一根軸：**人從生到死的 13 個問題領域**
 |------|------|------|
 | **P0** | repo 骨架 + 方法論 + schema | ✓ |
 | **P1** | inventory 三張表（學派 / 人物 / 著作）+ 13 領域對接表 | ✓ |
-| **P2** | 逐學派綜述（~48 學派）— m3 引擎持續產生草稿 | 進行中 |
-| **P3** | 人工/Opus 校核 m3 草稿，升級為驗證版 | 待 |
-| **P4** | 語義索引（domain-index / concept-index）+ 網站 | 待 |
+| **P2** | 逐學派綜述（48 學派）— m3 引擎產草稿 | ✓（48/48，2026-07-16，verify ALL PASS）|
+| **P3** | 批次校核草稿，升級為驗證版 — **Sonnet 5 批次為主，Opus 只做仲裁** | 進行中 |
+| **P4** | 語義索引（domain-index / concept-index）+ 網站 | 待（**前置缺口**：48 篇 `meta.json` 的 `concept_tags` 全空，P3 批次須順手補齊，否則 concept-index 是 0 條目）|
 
-**引擎**：`tools/run-engine.sh` 用 `claude-m3`（MiniMax 月費，零 Claude 配額）逐學派產生綜述草稿，每篇 commit + 更新 `STATUS.md`。撞不到 5H 牆，持續運作。
+**引擎已退役**：`tools/run-engine.sh`（claude-m3）已跑完全隊列並停止，watchdog 排程已停用。M3 額度被 religions-history 佔用約 800 小時，本專案後續不再依賴 m3。
+
+**配額路由（P3 起適用）**：
+- `claude -p`（無 env 覆蓋）走 Pro 訂閱 OAuth ＝ **無額外金錢消費**，只吃 5H 訂閱窗（2026-07-16 查 credentials 證實；舊認知「-p 走 API per-token 額外付費」作廢）。
+- 批次校核派 **Sonnet 5** sub-agent；Opus 只用於仲裁分歧與用戶觸發的判斷工作。
+- 機械性監控（輪詢 / 心跳 / 重啟）一律零 LLM（純 script），不准用任何模型的排程喚醒去輪詢——2026-07-16 曾因 Opus 輪詢燒穿 5H 窗。
 
 ---
 
 ## 5. 工作方法
 
-- **1 學派 = 1 檔 = 1 次 m3 呼叫**（`schools/<slug>/synthesis.md`）
+- **1 學派 = 1 檔**（`schools/<slug>/synthesis.md`）；P2 由 m3 引擎產出（已完成），P3 由 Sonnet 5 批次校核（每批 5–8 篇，驗收即 commit+push）
 - 每篇強制含「已知缺口 / 未驗證 / 爭議」區
 - 確定性標記 🔵確定 🟢高 🟡中 🟠低 🔴存疑
 - 來源等級 A原典 / B同儕審查·SEP·學術教科書 / C百科 / D科普

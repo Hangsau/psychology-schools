@@ -9,11 +9,12 @@
 
 ## 當前階段
 
-**P2 逐學派綜述（m3 引擎持續跑）+ P3 校核 並行。**
+**P2 完成（48/48，2026-07-16）。當前＝P3 批次校核。**
 
-- ~48 學派清單見 `00-overview/schools-inventory.md`
-- 引擎 `tools/run-engine.sh` 用 `claude-m3` 逐一產草稿，每篇 commit + 更新 `STATUS.md`
-- 引擎草稿全標 🟡 draft-pending-review，校核後升級
+- 48 學派清單見 `00-overview/schools-inventory.md`；狀態看 `STATUS.md`
+- 引擎（`tools/run-engine.sh` + claude-m3）已退役；M3 額度被 religions-history 佔用，本專案不再用 m3
+- P3 執行者＝**Sonnet 5 sub-agent 批次**（規格 `methodology/p3-batch-spec.md`），Opus 只仲裁；每批驗收即 commit+push
+- 草稿全標 🟡 draft，校核後升級 🟢；`meta.json` 的 `concept_tags` 須在 P3 補齊（P4 前置）
 
 ## 工作守則
 
@@ -37,11 +38,12 @@
 - 缺口顯性：不確定寫「資料待補」，不用「我不確定」當免責符。
 - **禁捏造引用 / 假書目**：查不到出處的宣稱一律刪或降級 🔴。
 
-### 5. m3 派工原則
-- 適合派 m3：逐學派產綜述草稿（1 檔 = 1 呼叫）。
-- 不適合派 m3：設計 schema、寫 crosswalk、校核事實、debug。
-- m3 產物是**草稿**，需 Opus/人工校核才升級；m3 會捏造數字，一律 grep/查證。
-- 引擎函式定義內嵌於 `tools/run-engine.sh`，不依賴 `~/.bashrc` alias。
+### 5. 派工與配額路由
+- 批次校核 / 補寫 → **Sonnet 5 sub-agent**（Agent tool，禁 git 操作寫進 prompt，主 session 驗收後才 commit）。
+- Opus 只用於仲裁分歧、用戶觸發的判斷工作。
+- m3 已退役（額度被 religions-history 佔用）；m3 產物是草稿，會捏造數字，校核一律查證。
+- `claude -p`（無 env 覆蓋）走 Pro 訂閱 OAuth＝無額外金錢消費，只吃 5H 訂閱窗。
+- 機械性監控一律零 LLM（純 script），禁任何模型排程輪詢。
 
 ### 6. commit + 文件對齊
 - 每完成一學派即 commit（引擎自動）。
@@ -51,7 +53,7 @@
 - Windows 11 + Git Bash + Python 3.12
 - Encoding：console 是 cp950，Python 一律 `PYTHONIOENCODING=utf-8 python ...`
 - EOL：`.gitattributes` 強制 LF
-- 引擎引擎：`claude-m3`（MiniMax 月費，token 在 `~/.minimax-token`，零 Claude 配額）
+- 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入），改動做完直接 push 不用問
 
 ## Anti-pattern（禁止）
 - ❌ 硬塞做不到的內容（圖 / 製圖 / 看圖）
