@@ -1,15 +1,15 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 17:57
+> 引擎自動更新。最後更新：2026-07-16 18:13
 
 ## 進度
 
-`████████████████░░░░` **39/48** (81%) 已產綜述
+`████████████████░░░░` **40/48** (83%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：39
-- ⬜ 待產 queued：7
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
+- 🟡 草稿 draft（待校核）：40
+- ⬜ 待產 queued：8
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
 
@@ -30,8 +30,8 @@
 | 🟡 | `gestalt-therapy` | 完形治療 | 四 完形取向 | draft | 41KB |
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
 | 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 38KB |
-| 🔴 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | error | 0KB |
-| 🔴 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | error | 0KB |
+| ⬜ | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | queued | 0KB |
+| 🟡 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | draft | 32KB |
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
 | 🟡 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | draft | 46KB |
 | 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
