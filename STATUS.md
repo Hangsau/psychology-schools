@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 15:26
+> 引擎自動更新。最後更新：2026-07-16 15:28
 
 ## 進度
 
@@ -8,8 +8,8 @@
 
 - 🟢 已校核 reviewed：0
 - 🟡 草稿 draft（待校核）：15
-- ⬜ 待產 queued：31
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
+- ⬜ 待產 queued：30
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：3
 
 ## 明細
 
@@ -34,7 +34,7 @@
 | 🔴 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | error | 0KB |
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
 | 🟡 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | draft | 46KB |
-| ⬜ | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | queued | 0KB |
+| 🔴 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | error | 0KB |
 | ⬜ | `dbt` | 辯證行為治療 | 七 第三波 | queued | 0KB |
 | ⬜ | `act` | 接納與承諾治療 | 七 第三波 | queued | 0KB |
 | ⬜ | `mbct` | 正念認知治療 | 七 第三波 | queued | 0KB |
