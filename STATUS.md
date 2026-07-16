@@ -1,15 +1,15 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 17:17
+> 引擎自動更新。最後更新：2026-07-16 17:22
 
 ## 進度
 
-`█████████████░░░░░░░` **33/48** (68%) 已產綜述
+`█████████████░░░░░░░` **32/48** (66%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：33
+- 🟡 草稿 draft（待校核）：32
 - ⬜ 待產 queued：13
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：3
 
 ## 明細
 
@@ -55,8 +55,8 @@
 | ⬜ | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | queued | 0KB |
 | 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
 | 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
-| 🟡 | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | draft | 9KB |
-| ⬜ | `morita-therapy` | 森田療法 | 十二 本土非西方 | queued | 0KB |
+| ⬜ | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | queued | 0KB |
+| 🔴 | `morita-therapy` | 森田療法 | 十二 本土非西方 | error | 0KB |
 | ⬜ | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | queued | 0KB |
 | ⬜ | `positive-psychology` | 正向心理學 | 十三 當代整合 | queued | 0KB |
 | ⬜ | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | queued | 0KB |
