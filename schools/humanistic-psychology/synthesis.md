@@ -331,7 +331,7 @@ Rogers 本人在 1970 年《On Encounter Groups》中已預見此風險，強調
 
 **二、第三波認知行為治療（ACT、MBCT、MBSR、DBT）**。ACT（Steven Hayes, 1987 起）直接從 Rogers 與 Gendlin 的經驗哲學出發，將「接受」（acceptance）與「認知脫鉤」（cognitive defusion）整合入認知行為框架；MBCT 與 MBSR 的正念技術雖然源自佛教內觀傳統，但其「非判斷、注意當下」的態度與 Rogers 的「對經驗的開放性」契合。
 
-**三、多元文化心理學與本土心理學**。1980–2000 年代的人本心理學本土化（中國的「人本主義心理學」、日本「森田療法」與「内観療法」、韓國「自我心理學」、非洲 adinkra 象徵心理學）對西方主流人本心理學做了重要修正。特別是中國心理學界 1980 年代以後對人本心理學的引進（陳仲庚、張世富、樂國安、林崇德、彭運石等）。（🟡 B 級，需更多原始文獻確認。）
+**三、多元文化心理學與本土心理學**。1980–2000 年代的人本心理學本土化（中國的「人本主義心理學」、日本「森田療法」與「內觀療法」、韓國「自我心理學」、非洲 adinkra 象徵心理學）對西方主流人本心理學做了重要修正。特別是中國心理學界 1980 年代以後對人本心理學的引進（陳仲庚、張世富、樂國安、林崇德、彭運石等）。（🟡 B 級，需更多原始文獻確認。）
 
 **四、超個人心理學（transpersonal psychology）**。1969 年從 AHP 分出獨立，由 Maslow 與 Sutich 在其晚年推動；Sutich 1969〈Transpersonal Psychology: An Introduction〉為其宣言。代表性學者：Stanislav Grof、Ken Wilber、Frances Vaughan、Michael Washburn。超個人心理學將人本心理學對「高峰經驗」、「自我實現」的關注延伸到宗教、神秘經驗、超個人意識。Wilber 2000《Integral Psychology》嘗試整合人本、存在、超個人、心理分析的層級化模型。（🟡 B 級，Wilber 2000。）
 

@@ -12,7 +12,7 @@
 
 ## 2. 代表人物
 
-- **Anna Freud**（1895–1982）維也納生，Sigmund Freud 么女。1936 年出版《自我與防衛機制》（*Das Ich und die Abwehrmechanismen*），首次系統化列舉十種防衛機制；1938 創立倫敦 Hampstead War Nurseries 與 Hampstead Child Therapy Course（後改名 Hampstead Clinic），把兒童分析、發展觀察與日間照護三者結合。🟢 [來源 B]
+- **Anna Freud**（1895–1982）維也納生，Sigmund Freud 麼女。1936 年出版《自我與防衛機制》（*Das Ich und die Abwehrmechanismen*），首次系統化列舉十種防衛機制；1938 創立倫敦 Hampstead War Nurseries 與 Hampstead Child Therapy Course（後改名 Hampstead Clinic），把兒童分析、發展觀察與日間照護三者結合。🟢 [來源 B]
 
 - **Heinz Hartmann**（1894–1970）維也納生，精神分析師。1939 年出版《自我心理學與適應問題》（*Ego Psychology and the Problem of Adaptation*），提出「**衝突無涉的自我領域**」（conflict-free ego sphere）、「**次級自主性**」（secondary autonomy）、「**中性化**」（neutralization of energy）等核心概念，是自我心理學最常被引用的理論奠基者。🟢 [來源 B]
 

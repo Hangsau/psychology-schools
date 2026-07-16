@@ -4,7 +4,7 @@
 
 1912 年起，榮格與佛洛伊德之理論裂痕公開化：榮格反對佛洛伊德將「libido」窄化為純粹性驅力，主張其為廣義心理能量；並質疑佛洛伊德以幼年性創傷與俄狄浦斯情結為人格主軸之還原論立場。1912 年榮格出版《變遷中的象徵》（*Wandlungen und Symbole der Libido*；英譯 *Psychology of the Unconscious*, 1916；1952 修訂版改名 *Symbols of Transformation*），公開宣示其與佛洛伊德之路線分歧；其後榮格開始以「分析心理學」一詞區別於「精神分析」。🔵 來源等級 A（榮格本人著作）。
 
-第一次世界大戰期間（1914–1918），榮格經歷個人心靈危機，著手《紅書》（*Liber Novus*，約 1914–1930 完成，原稿封存多年，2009 由 Sonu Shamdasani 編輯出版）之內在工作被視為分析心理學「個體化」理論之內在起源。一戰後榮格於蘇黎世發展獨立學派，1921 年出版《心理類型》（*Psychologische Typen*），奠立其類型論體系。1933 年他與追隨者在蘇黎世成立「分析心理學俱乐部」（Analytical Psychology Club）；1948 年「C. G. 榮格學院」（C. G. Jung Institute Zürich）正式成立，提供訓練與分析治療。🟢 來源等級 B
+第一次世界大戰期間（1914–1918），榮格經歷個人心靈危機，著手《紅書》（*Liber Novus*，約 1914–1930 完成，原稿封存多年，2009 由 Sonu Shamdasani 編輯出版）之內在工作被視為分析心理學「個體化」理論之內在起源。一戰後榮格於蘇黎世發展獨立學派，1921 年出版《心理類型》（*Psychologische Typen*），奠立其類型論體系。1933 年他與追隨者在蘇黎世成立「分析心理學俱樂部」（Analytical Psychology Club）；1948 年「C. G. 榮格學院」（C. G. Jung Institute Zürich）正式成立，提供訓練與分析治療。🟢 來源等級 B
 
 學派興起之核心回應：對歐洲戰後個人身分破碎、傳統宗教世界觀退場、現代理性與科學主義對心靈（Seele / psyche）維度壓縮之問題，榮格主張擴大無意識範疇，將神話、宗教、東西方神秘傳統納入心理學對象。其對象不只是個人心理病徵，而是「人作為符號性存有」之整體處境。
 
@@ -40,7 +40,7 @@
 
 **3.3 情結（Complex / Komplex）**
 
-情結是「心靈中可與自我分離之小人格」（eine abgespaltene Teilpersönlichkeit）。榮格由 1904–1906 年在蘇黎世布爾戈赫爾茲利（Burghölzli）醫院之「詞聯想實驗」（*Assoziationsexperiment*，與 Franz Riklin、Eugen Bleuler 合作）發現：受試者面對特定詞彙時之反應延宕與生理變化（呼吸、皮電）指向某種自主運作之次人格。1907 年論文《論早發性痴呆之心理學》（*Über die Psychologie der Dementia Praecox*）首度系統提出情結為「分裂意識單位」。🔵 A
+情結是「心靈中可與自我分離之小人格」（eine abgespaltene Teilpersönlichkeit）。榮格由 1904–1906 年在蘇黎世布爾戈赫爾茲利（Burghölzli）醫院之「詞聯想實驗」（*Assoziationsexperiment*，與 Franz Riklin、Eugen Bleuler 合作）發現：受試者面對特定詞彙時之反應延宕與生理變化（呼吸、皮電）指向某種自主運作之次人格。1907 年論文《論早發性癡呆之心理學》（*Über die Psychologie der Dementia Praecox*）首度系統提出情結為「分裂意識單位」。🔵 A
 
 **3.4 心理類型（*Psychologische Typen*, 1921）**
 
@@ -68,7 +68,7 @@
 
 - 《變遷中的象徵》（*Wandlungen und Symbole der Libido*）/ *Symbols of Transformation*, 1912/1952。C. W. Vol. 5。© 商業版（原始德文文本部分進入學術引用 PD 條件因國家而異）。
 - 《心理類型》（*Psychologische Typen*）/ *Psychological Types*, 1921。C. W. Vol. 6。©。
-- 《早發性痴呆之心理學》（*Über die Psychologie der Dementia Praecox*）/ *The Psychology of Dementia Praecox*, 1907。© 為主。
+- 《早發性癡呆之心理學》（*Über die Psychologie der Dementia Praecox*）/ *The Psychology of Dementia Praecox*, 1907。© 為主。
 - 《詞聯想研究》（*Experimentelle Untersuchungen über Assoziationen Gesunder und Geisteskranker*, 與 F. Riklin）/ *Studies in Word Association*, 1904–1906 原文、1918 英譯。©。
 - 《分析心理學之兩篇論文》（*Zwei Essays über Analytische Psychologie*）/ *Two Essays on Analytical Psychology*, 1928（含〈論集體無意識之概念〉）。C. W. Vol. 7。©。
 - 《心理學與煉金術》（*Psychologie und Alchemie*）/ *Psychology and Alchemy*, 1944。C. W. Vol. 12。©。
