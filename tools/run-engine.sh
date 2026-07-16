@@ -98,6 +98,20 @@ python -c "import json;[print('\t'.join([e['slug'],e['name_zh'],e['name_en'],e['
       fi
       python tools/fix-preamble.py "$slug" >> logs/engine.log 2>&1 || true
       sz=$(wc -c < "schools/$slug/synthesis.md" 2>/dev/null || echo 0)
+      # 結構驗證：m3 偶爾吐 plan-check 計劃(## 步驟 N)/自我修訂便條(### 8.x)/截斷冒充綜述，
+      # UTF-8 合法但缺編號標題 ## 1.~## 8. → 垃圾，刪掉待重生（允許額外附錄標題）。
+      if [ "$sz" -ge 400 ] && ! python -c "
+import sys
+t=open('schools/$slug/synthesis.md',encoding='utf-8').read()
+hs=[l for l in t.split(chr(10)) if l.startswith('## ')]
+miss=[n for n in range(1,9) if not any(h.startswith('## %d.'%n) for h in hs)]
+sys.exit(1 if miss else 0)
+" 2>/dev/null; then
+        log "WARN $slug 缺編號標題(疑 plan-check/修訂便條/截斷垃圾)，刪除待重生"
+        rm -f "schools/$slug/synthesis.md"
+        python tools/gen-status.py >> logs/engine.log 2>&1 || true
+        continue
+      fi
       if [ "$sz" -lt 400 ]; then
         log "WARN $slug output too small ($sz B) — will retry next run"
       else
