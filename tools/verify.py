@@ -19,6 +19,15 @@ def check(path):
     if len(txt) < 400:
         issues.append("過小(<400B)疑失敗")
         return issues
+    # 結構檢查：m3 偶爾吐 plan-check 計劃(## 步驟 N)或自我修訂便條(### 8.x)冒充綜述，
+    # UTF-8 合法且 8 段關鍵字以子字串藏在內文 → SECTIONS 子字串檢查抓不到，靠標題把關。
+    # 要求 `## 1.`～`## 8.` 八個編號標題都在（允許額外附錄標題，如「## 主要出處彙整」）。
+    heads = [l.strip() for l in txt.split("\n") if l.startswith("## ")]
+    miss_num = [n for n in range(1, 9) if not any(h.startswith(f"## {n}.") for h in heads)]
+    if miss_num:
+        issues.append("缺編號標題:" + "/".join(f"§{n}" for n in miss_num) + "(疑非綜述/截斷)")
+    if not txt.lstrip().startswith("## 1."):
+        issues.append("開頭非「## 1.」(疑 preamble/計劃文件)")
     missing = [s for s in SECTIONS if s not in txt]
     if missing:
         issues.append("缺段:" + "/".join(missing))
