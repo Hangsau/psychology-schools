@@ -23,6 +23,21 @@
 - **preamble 缺陷已修**：m3 初版會在開頭加「已寫入…8 段全齊」自我摘要，並漏掉 `## 1.` 標題（內容裸接）。已在 `build_prompt` 加強：第一字元必須是 `#`、8 段標題一個都不能省。修後 `structuralism` 開頭正是 `## 1. 定位與歷史脈絡`，8 標題齊。
 - **多引擎競爭事故**：`nohup ... & disown` 在 Windows 其實會存活（MSYS `ps`/`pkill` 看不到 → 誤判已死 → 重複啟動 → 多引擎搶同檔）。用 PowerShell `Get-CimInstance` + `taskkill /F /T` 才清得掉。之後加了單例鎖防復發。**教訓：查引擎死活用 PowerShell CIM，不要只信 MSYS `ps`。**
 
+## 待重生 / 頑固失敗清單（2026-07-16 15:xx 監控快照）
+
+引擎逐一跑一遍後 exit；MISSING / <400B 的檔只在 **watchdog 重啟引擎重掃**時才重生（skip-if-exists 只跳 ≥400B）。目前待重生：
+
+| slug | 狀態 | 失敗型態 | 已連續失敗輪數 |
+|------|------|----------|----------------|
+| ego-psychology | MISSING（已刪） | m3 非 UTF-8 / 截斷，UTF-8 guard 刪除 | 1 |
+| existential-psychology | MISSING（已刪） | m3 吐 bare 0x85（非 UTF-8） | 2 |
+| cognitive-psychology | 28B | m3 吐近空 | 2 |
+| person-centered-therapy | 1B | m3 吐近空 | 2 |
+
+- `evolutionary-psychology` 生成中（in-flight），不列。
+- **判準**：某篇連續 ≥3 輪監控仍 <400B → 認定 m3 對它持續失敗，停止自動重試，改人工/Opus 補或換 prompt；勿讓 watchdog 無限重掃燒時間。
+- cognitive-psychology / person-centered-therapy 已 2 輪 → 下一輪引擎重啟後若仍失敗，達門檻，記此表並停重試。
+
 ## 下次接手先做
 
 1. 看 `STATUS.md` 進度：哪些學派已產草稿、哪些失敗（❌）。
