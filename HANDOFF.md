@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-16（P0/P1 完成，P2 引擎穩定運轉中）
+> 最後更新：2026-07-16 17:47（P0/P1 完成，P2 引擎首輪跑完 37/48 → 崩潰重啟，新版自癒引擎補生 backfill 中）
 
 ## 現況
 
@@ -24,6 +24,7 @@
 - **多引擎競爭事故**：`nohup ... & disown` 在 Windows 其實會存活（MSYS `ps`/`pkill` 看不到 → 誤判已死 → 重複啟動 → 多引擎搶同檔）。用 PowerShell `Get-CimInstance` + `taskkill /F /T` 才清得掉。之後加了單例鎖防復發。**教訓：查引擎死活用 PowerShell CIM，不要只信 MSYS `ps`。**
 - **當前運轉引擎 = 加鎖前的舊腳本（pid 30800，13:52 啟動至今）**：它載入的是「修好 m3 呼叫 + 強化 prompt」但**沒有單例鎖 / 沒有 fix-preamble 整合 / 沒有 UTF-8 guard** 的版本。所以：① 監控時**必須手動**跑 `fix-preamble.py` / `verify.py`（引擎不會自動修）；② 它不會自刪非 UTF-8 檔（要手動判刪，如 dbt）。新版腳本（含這些）只在引擎**重啟後**才生效。
 - **pid 檔曾殘留錯值**：`logs/engine.pid` 一度是 `515`（已死的短命 process 寫的），但真正在跑的是 30800。舊腳本不寫 pid，故未被覆蓋。**已手動改回 30800**，避免 watchdog 用新（加鎖）腳本重啟時檢查到死 pid 515→誤判可啟動→與 30800 並存競爭。`logs/` 是 gitignore，pid 只是 runtime state。
+- **舊引擎（30800）已崩潰、新版自癒引擎已接手（17:47, pid 926）**：舊引擎跑完首輪 37/48（health-psychology 是隊列最後一篇）後，在 17:44 撞 `run-engine.sh: line 107: syntax error`。**根因＝我在引擎運轉中編輯了 run-engine.sh**（加自癒驗證塊），bash 對執行中腳本是「按需逐塊讀檔」不是一次載入記憶體，我一改檔它續讀時 byte offset 錯位、讀到半行 → `#` 不在行首 → 把註解裡的 `(` 當語法 token 爆掉。`bash -n` 事後驗證磁碟上的檔本身 OK（純屬 mid-edit 讀檔錯位）。**教訓：絕不編輯執行中的 bash 腳本；要改先停引擎或改副本。** 已 `rm engine.pid`（清死 pid 30800）+ `nohup bash tools/run-engine.sh` 重啟 → 新引擎（Windows pid 15480/21952、MSYS pid 926）跳過 37 篇已完成、逐一補生 11 篇 backfill，**且這次載入的是含 UTF-8 guard + 缺編號標題檢查的自癒版**，垃圾輸出會自動刪待下輪重生（不再需人工刪）。
 
 ## 待重生 / 頑固失敗清單（2026-07-16 15:xx 監控快照）
 
@@ -43,7 +44,9 @@
 
 - **重要**：以上這些**尚未被引擎重試過**——引擎首輪一次過，跑到就跑到，<400B/MISSING 的檔只在**引擎跑完 exit → watchdog 偵測 heartbeat 過期 + 隊列未滿 → 重啟重掃**時才由 skip-if-exists 補生。所以「連續 N 輪監控 <400B」不等於「m3 失敗 N 次」，多半是還沒輪到重試。
 - **判準（改良）**：以**實際重生嘗試次數**計，非監控輪數。引擎重啟重掃後，某篇再生一次仍 <400B/壞內容 → 才算 m3 對它真正持續失敗 → 記此表標「達門檻」，停自動重試，改人工/Opus 補或換 prompt。
-- 目前策略：**不強制重啟健康引擎**（避免多引擎競爭事故重演），讓引擎自然跑完 + watchdog 重啟補生。約 rest-of-queue(~1.5h) + watchdog(~15min) + 補生(~30min) ≈ 完成。
+- （2026-07-16 17:32–17:44 監控又刪 2 篇 plan-check 垃圾：`naikan-therapy`、`positive-psychology`；`morita-therapy` 就地修簡體 `学→學`（結構完整不重生）。）
+- **現況（17:47 後）**：首輪已跑完，backfill 共 11 篇 0KB（9 queued + 2 error：ego-psychology / existential-psychology / dbt / reality-therapy / systems-family-therapy / play-therapy / indigenous-psychology / naikan-therapy / positive-psychology / person-centered-therapy / cognitive-psychology）。**新版自癒引擎（pid 926）正逐一補生**，垃圾自動刪。此輪跑完仍 0KB 的才算「該篇真失敗」，交 watchdog 再重啟重試；**連兩次實際重生嘗試仍壞** → 記「達門檻·停自動重試」，改人工/Opus 補。
+- 目前策略：引擎既已確認死亡才重啟（無多引擎競爭風險）；之後不強制重啟健康引擎，靠 watchdog 補後續輪。
 
 ## 下次接手先做
 
