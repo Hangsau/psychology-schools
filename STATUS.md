@@ -1,14 +1,14 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 14:44
+> 引擎自動更新。最後更新：2026-07-16 14:50
 
 ## 進度
 
-`████░░░░░░░░░░░░░░░░` **11/48** (22%) 已產綜述
+`█████░░░░░░░░░░░░░░░` **12/48** (25%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：11
-- ⬜ 待產 queued：37
+- 🟡 草稿 draft（待校核）：12
+- ⬜ 待產 queued：36
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
 ## 明細
@@ -27,7 +27,7 @@
 | 🟡 | `behaviorism` | 古典行為主義 | 三 行為主義 | draft | 26KB |
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
 | 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
-| ⬜ | `gestalt-therapy` | 完形治療 | 四 完形取向 | queued | 0KB |
+| 🟡 | `gestalt-therapy` | 完形治療 | 四 完形取向 | draft | 41KB |
 | ⬜ | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | queued | 0KB |
 | ⬜ | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | queued | 0KB |
 | ⬜ | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | queued | 0KB |

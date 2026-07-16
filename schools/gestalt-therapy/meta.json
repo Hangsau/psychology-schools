@@ -1,0 +1,27 @@
+{
+  "slug": "gestalt-therapy",
+  "name_zh": "完形治療",
+  "name_en": "Gestalt Therapy",
+  "category": "四 完形取向",
+  "category_id": 0,
+  "era": "",
+  "region": "",
+  "lineage": [],
+  "figures": [
+    "Fritz Perls"
+  ],
+  "is_therapy_school": false,
+  "domain_tags": [
+    "D2",
+    "D6",
+    "D13"
+  ],
+  "concept_tags": [],
+  "keywords": [],
+  "status": "draft",
+  "review_state": "pending",
+  "confidence_overall": "",
+  "sources_tier_summary": "",
+  "generated_by": "claude-m3 (MiniMax-M3)",
+  "generated_at": "2026-07-16T14:50:50"
+}
