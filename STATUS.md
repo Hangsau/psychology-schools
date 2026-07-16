@@ -1,15 +1,15 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-16 16:18
+> 引擎自動更新。最後更新：2026-07-16 16:20
 
 ## 進度
 
-`██████████░░░░░░░░░░` **25/48** (52%) 已產綜述
+`██████████░░░░░░░░░░` **24/48** (50%) 已產綜述
 
 - 🟢 已校核 reviewed：0
-- 🟡 草稿 draft（待校核）：25
+- 🟡 草稿 draft（待校核）：24
 - ⬜ 待產 queued：21
-- 🔴 疑失敗 error（<400B，查 logs/engine.log）：2
+- 🔴 疑失敗 error（<400B，查 logs/engine.log）：3
 
 ## 明細
 
@@ -44,8 +44,8 @@
 | 🟡 | `narrative-therapy` | 敘事治療 | 八 後現代 | draft | 41KB |
 | 🟡 | `sfbt` | 焦點解決短期治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `transactional-analysis` | 溝通分析 | 八 後現代 | draft | 18KB |
-| 🟡 | `reality-therapy` | 現實治療 | 八 後現代 | draft | 31KB |
-| ⬜ | `social-constructionism` | 社會建構論 | 九 社會文化 | queued | 0KB |
+| ⬜ | `reality-therapy` | 現實治療 | 八 後現代 | queued | 0KB |
+| 🔴 | `social-constructionism` | 社會建構論 | 九 社會文化 | error | 0KB |
 | ⬜ | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | queued | 0KB |
 | ⬜ | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | queued | 0KB |
 | ⬜ | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | queued | 0KB |

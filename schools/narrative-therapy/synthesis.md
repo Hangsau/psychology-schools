@@ -1,3 +1,5 @@
+## 1. 定位與歷史脈絡
+
 1. 定位與歷史脈絡
 
 敘事治療（Narrative Therapy）於 1980 年代在澳洲與紐西蘭成形，主要由 Michael White 與 David Epston 共同發展。其興起背後有四股交織的推力：
