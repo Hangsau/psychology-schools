@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-17（**P3 進行中：reviewed 10/48**。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。半成品：ego-psychology / systems-family-therapy / mbct / morita-therapy 有部分修改待做完）
+> 最後更新：2026-07-17（**P3 進行中：reviewed 33/48**（batch 7 完成））。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。批次進度：1–7 已推 master，剩 15 篇待校核。STATUS.md 由 gen-status.py 自動生（引擎已停，本批未重跑），會滯後於實際 review_state——以 meta.json / HANDOFF 為準。
 
 ## 現況
 
