@@ -4,11 +4,11 @@
   "name_en": "Solution-Focused Brief Therapy",
   "category": "八 後現代",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1980s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
-    "de Shazer",
+    "Steve de Shazer",
     "Insoo Kim Berg"
   ],
   "is_therapy_school": false,
@@ -17,12 +17,31 @@
     "D13",
     "D8"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "solution-focused",
+    "narrative-meaning",
+    "social-construction",
+    "therapeutic-relationship",
+    "behavior-change",
+    "resilience-wellbeing",
+    "family-systems"
+  ],
+  "keywords": [
+    "焦點解決短期治療",
+    "SFBT",
+    "奇蹟問題",
+    "例外探索",
+    "量尺問題",
+    "BFTC",
+    "de Shazer",
+    "Insoo Kim Berg",
+    "後現代治療",
+    "短期治療"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級 de Shazer／Berg 原典為主幹，B 級 de Jong & Berg 教科書與後設分析文獻定錨實證，C 少量百科人物確認",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:10:40"
 }

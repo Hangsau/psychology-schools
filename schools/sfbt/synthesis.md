@@ -19,10 +19,10 @@ Madanes、Haley、Watzlawick 等人的策略派強調「介入設計」、矛盾
 ## 2. 代表人物
 
 **Steve de Shazer（1940–2005）** 🔵  
-美國密爾瓦基短期家庭治療中心創辦人。原習音樂與數學，1970 年代因閱讀 Watzlawick 而進入家庭治療領域。1978 年與同事（包括 Berg）在密爾瓦基成立 BFTC。1982 年發表〈Patterns of Brief Family Therapy〉（*Family Process*）開啟「solution-focused」用語。🔵 1985 年起連續出版六本主要著作，是 SFBT 理論骨幹的塑造者。🔵 2005 年因病辭世。🔵 個人自述其方法受維根斯坦語言哲學、差異哲學（Deleuze 影響）啟發——「doing things differently」「difference makes a difference」是其口號。
+美國密爾瓦基短期家庭治療中心創辦人。原習音樂（Fine Arts 學士）與社會工作（MSSW，威斯康辛大學密爾瓦基分校），曾任爵士薩克斯風手，1970 年代因閱讀 Watzlawick 而進入家庭治療領域。🔵 C（Wikipedia「Steve de Shazer」條目）1978 年與同事（包括 Berg）在密爾瓦基成立 BFTC。1982 年發表〈Patterns of Brief Family Therapy〉（*Family Process*）開啟「solution-focused」用語。🔵 1985 年起連續出版六本主要著作，是 SFBT 理論骨幹的塑造者。🔵 2005 年因病辭世。🔵 個人自述其方法受維根斯坦語言哲學、差異哲學（Deleuze 影響）啟發——「doing things differently」「difference makes a difference」是其口號。
 
 **Insoo Kim Berg（1934–2007）** 🔵  
-韓裔美國治療師，1976 年起加入 BFTC。1970 年代從個案工作中發展出對兒童、青少年、家庭的具體作法，被視為 SFBT 實務面（特別是兒少、家庭、物質使用場域）的集大成者。🔵 1994 年出版 *Family Based Services*，1992 年與 Scott D. Miller 合作 *Working with the Problem Drinker*，將 SFBT 系統帶入物質使用領域。🔵 與 Peter De Jong 合著 *Interviewing for Solutions*（1998, 2002, 2008, 2013）至今仍是 SFBT 教科書中最被廣泛使用者。🔵
+韓裔美國治療師，與 de Shazer 共同於 1978 年創立 BFTC。🔵 C（Wikipedia「Insoo Kim Berg」條目；Berg 為 BFTC 共同創辦人，非晚於 de Shazer 加入）1970 年代從個案工作中發展出對兒童、青少年、家庭的具體作法，被視為 SFBT 實務面（特別是兒少、家庭、物質使用場域）的集大成者。🔵 1994 年出版 *Family Based Services*，1992 年與 Scott D. Miller 合作 *Working with the Problem Drinker*，將 SFBT 系統帶入物質使用領域。🔵 與 Peter De Jong 合著 *Interviewing for Solutions*（1998, 2002, 2008, 2013）至今仍是 SFBT 教科書中最被廣泛使用者。🔵
 
 **第二代重要推手（按領域貢獻）**：  
 - **Michele Weiner-Davis**：1980 年代 BFTC 成員，*In Search of Solutions*（與 O'Hanlon 合著, 1989）、*Divorce Busting*（1992），推廣至親密關係議題。🟢  
@@ -91,7 +91,7 @@ de Shazer 1988 年提出三條 SFBT 的「rule of thumb」🔵：
 - de Shazer, S. (1994). *Words Were Originally Magic*. Norton. © 🟢 — 語言學轉向。
 - Berg, I. K. (1994). *Family Based Services: A Solution-Focused Approach*. Norton. © 🔵
 - Berg, I. K. & Miller, S. D. (1992). *Working with the Problem Drinker: A Solution-Focused Approach*. Norton. © 🟢
-- de Shazer, S. & Berg, I. K. (1997). *Tricks*（即 *More Than Miracles*, 2007, Haworth Press）. © 🔵
+- de Shazer, S., Dolan, Y., & Korman, H. (2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Haworth Press. © 🟢（de Shazer 遺著，與 Dolan、Korman 合著，非 1997 年「Tricks」單行本；兩者可能為不同文本，🔴 *Tricks* 之獨立書目資料待補）
 - O'Hanlon, B. & Weiner-Davis, M. (1989). *In Search of Solutions*. Norton. © 🟢
 - Miller, S. D., Hubble, M. A. & Duncan, B. L. (eds.) (1996). *Handbook of Solution-Focused Brief Therapy*. Jossey-Bass. © 🟢
 
@@ -273,3 +273,5 @@ SFBT 主要回應 **D11（自由命運改變）、D13（安頓修復平安）、
 - 與華人文化中「不尚自我探索」「集體和諧」傾向之間的調整研究（Song, S.-H., 2008; Wong, P., 2009）可強化跨文化應用評估。
 
 資料來源等級摘要：本篇以 🟢 / 🔵 級學術與一手著作為主幹；🟡 級延伸應用與跨文化研究為次級；🟠 級針對爭議與未解處明示不確定性。所有具體年份與出版資訊以 A/B 級為依據，C 級（百科）僅用於確認通識，數字宣稱（療效、後設分析）皆附作者—年份—期刊三段標示，便於讀者回溯查核。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（§2 de Shazer 學歷「音樂與數學」→「Fine Arts 學士與 MSSW 社會工作」；§2 Berg「1976 年加入 BFTC」→「1978 年共同創辦 BFTC」；§4 書目「1997 *Tricks* 即 More Than Miracles」→ 拆為 2007 年 de Shazer/Dolan/Korman 合著，*Tricks* 另標 🔴 待補）/ 刪 0 條可疑書目 / concept_tags 已填。

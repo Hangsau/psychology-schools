@@ -4,23 +4,43 @@
   "name_en": "Social Constructionism",
   "category": "九 社會文化",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1960s–2000s",
+  "region": "美國／英國",
   "lineage": [],
   "figures": [
-    "Kenneth Gergen"
+    "Kenneth Gergen",
+    "Peter Berger",
+    "Vivien Burr"
   ],
   "is_therapy_school": false,
   "domain_tags": [
     "D5",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "social-construction",
+    "self-concept",
+    "power-gender",
+    "cultural-context",
+    "narrative-meaning",
+    "social-influence"
+  ],
+  "keywords": [
+    "社會建構論",
+    "論述分析",
+    "Kenneth Gergen",
+    "Berger & Luckmann",
+    "反本質主義",
+    "語言構成性",
+    "飽和自我",
+    "Foucault",
+    "知識社會學",
+    "反身性"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級 Gergen、Berger & Luckmann、Burr 原典為主，B 級學術教科書與 Foucault 理論資源為次，少量 C 級百科確認人物資料",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:24:48"
 }

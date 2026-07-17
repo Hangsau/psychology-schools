@@ -9,9 +9,9 @@ REBT 的思想淵源可分三條：
 
 REBT 直接回應的核心問題是：「為什麼在客觀條件類似的情境下，人會出現功能失調的情緒（unhealthy negative emotions）？」它主張情緒困擾主要不是事件（A）造成，而是當事人對事件的非理性信念（B）造成；因此治療目標是辨識、辯駁、改寫這些非理性信念。
 
-機構發展軸線：1959 年 Ellis 設立 **Institute for Rational Living**（紐約），1965 年擴展為 **Albert Ellis Institute**（AEI），成為全球 REBT 訓練與推廣中心🔵 C 維基百科「Albert Ellis」條目；2021 年起改名 **Center for Rational Emotive and Cognitive Behavior Therapy**。
+機構發展軸線：1959 年 Ellis 設立 **Institute for Rational Living**（紐約）🔵 C Albert Ellis Institute 官方機構史；1967 年更名 **Center for Emotional Education**；1996 年改名 **Albert Ellis Institute**（AEI），成為全球 REBT 訓練與推廣中心🔵 C 維基百科「Albert Ellis」條目；AEI 後續名稱是否再次正式更名，目前查無一手確認，此前「2021 年改名」宣稱降為 🔴 資料待補。
 
-REBT 在 1962 年原名為 Rational Therapy（RT），1993 年為呼應行為技術比重，正式更名 Rational Emotive Behavior Therapy🔵 A Ellis, *Reason and Emotion in Psychotherapy*, revised 1994 版前言。本派曾長期被列入 CBT 「第二波」先驅；本知識庫依使用者約定歸於「第三波」，詳見 §8。
+REBT 的名稱演變：Ellis 1955 年創立時以「Rational Therapy（RT）」為名；1961 年改名「Rational Emotive Therapy（RET）」以強調其情緒面向；1993 年為呼應行為技術比重，正式更名「Rational Emotive Behavior Therapy（REBT）」🔵 A Ellis, *Reason and Emotion in Psychotherapy*, revised 1994 版前言；🔵 C Wikipedia「REBT」條目。本派曾長期被列入 CBT 「第二波」先驅；本知識庫依使用者約定歸於「第三波」，詳見 §8。
 
 ## 2. 代表人物
 
@@ -193,6 +193,8 @@ REBT 起源於美國 1950 年代白人男性學者脈絡，對「個人主動改
 1. Maultsby 出生年（1932 是否精確）需原典驗證
 2. 1961/1975 *A Guide to Rational Living* 各版本差異與現版權狀態
 3. REBT 在中文世界（港台陸）的 RCT 數量與品質系統回顧
-4. Albert Ellis Institute 2021 年改名後的最新組織結構與訓練認證制度
+4. Albert Ellis Institute 當前組織名稱：P3 校核已查，機構名稱維持「Albert Ellis Institute」（AEI），無法核實「2021 年改名」宣稱，§1 已更新並標 🔴。🔴 資料待補。
 
-來源等級彙整：🔵確定 共 28 處（A 級原典 14、B 級學術 9、C 級百科 5）；🟢高 0 處；🟡中 5 處；🟠低 4 處；🔴存疑 0 處。
+來源等級彙整：🔵確定 共 28 處（A 級原典 14、B 級學術 9、C 級百科 5）；🟢高 0 處；🟡中 5 處；🟠低 4 處；🔴存疑 1 處（AEI 改名宣稱）。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 2 處事實（REBT 名稱演變年代：「1962 年 RT」→ 正確時間線「1955 RT→1961 RET→1993 REBT」；機構史：「1965 年 AEI」→「1967 年更名 Center for Emotional Education，1996 年改名 AEI」；「2021 年改名」降 🔴 待補）/ 刪 0 條可疑書目 / concept_tags 已填。

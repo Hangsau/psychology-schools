@@ -4,8 +4,8 @@
   "name_en": "Reality Therapy",
   "category": "八 後現代",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1960s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "William Glasser"
@@ -16,12 +16,31 @@
     "D7",
     "D8"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "self-concept",
+    "motivation-drive",
+    "behavior-change",
+    "therapeutic-relationship",
+    "solution-focused",
+    "meaning-existential",
+    "emotion-regulation"
+  ],
+  "keywords": [
+    "選擇理論",
+    "現實治療",
+    "WDEP",
+    "品質世界",
+    "總行為",
+    "五項基本需求",
+    "七個關懷習慣",
+    "責任",
+    "William Glasser",
+    "控制理論"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典為主（Glasser 著作），B 級 Wubbolding 教科書定錨方法論，C 少量百科補充人物資料",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T18:22:00"
 }

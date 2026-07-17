@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 20:33
+> 引擎自動更新。最後更新：2026-07-17 20:41
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：38
-- 🟡 草稿 draft（待校核）：10
+- 🟢 已校核 reviewed：43
+- 🟡 草稿 draft（待校核）：5
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -23,7 +23,7 @@
 | 🟢 | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | reviewed | 31KB |
 | 🟢 | `object-relations` | 客體關係理論 | 二 精神分析 | reviewed | 29KB |
 | 🟢 | `ego-psychology` | 自我心理學 | 二 精神分析 | reviewed | 24KB |
-| 🟡 | `self-psychology` | 自體心理學 | 二 精神分析 | draft | 24KB |
+| 🟢 | `self-psychology` | 自體心理學 | 二 精神分析 | reviewed | 24KB |
 | 🟢 | `behaviorism` | 古典行為主義 | 三 行為主義 | reviewed | 27KB |
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
 | 🟢 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | reviewed | 28KB |
@@ -39,13 +39,13 @@
 | 🟢 | `act` | 接納與承諾治療 | 七 第三波 | reviewed | 31KB |
 | 🟢 | `mbct` | 正念認知治療 | 七 第三波 | reviewed | 32KB |
 | 🟢 | `mbsr` | 正念減壓 | 七 第三波 | reviewed | 32KB |
-| 🟡 | `rebt` | 理情行為治療 | 七 第三波 | draft | 22KB |
+| 🟢 | `rebt` | 理情行為治療 | 七 第三波 | reviewed | 23KB |
 | 🟢 | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | reviewed | 27KB |
 | 🟢 | `narrative-therapy` | 敘事治療 | 八 後現代 | reviewed | 41KB |
-| 🟡 | `sfbt` | 焦點解決短期治療 | 八 後現代 | draft | 29KB |
+| 🟢 | `sfbt` | 焦點解決短期治療 | 八 後現代 | reviewed | 30KB |
 | 🟡 | `transactional-analysis` | 溝通分析 | 八 後現代 | draft | 18KB |
-| 🟡 | `reality-therapy` | 現實治療 | 八 後現代 | draft | 29KB |
-| 🟡 | `social-constructionism` | 社會建構論 | 九 社會文化 | draft | 34KB |
+| 🟢 | `reality-therapy` | 現實治療 | 八 後現代 | reviewed | 29KB |
+| 🟢 | `social-constructionism` | 社會建構論 | 九 社會文化 | reviewed | 34KB |
 | 🟢 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | reviewed | 39KB |
 | 🟢 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | reviewed | 35KB |
 | 🟢 | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | reviewed | 32KB |

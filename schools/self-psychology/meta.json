@@ -4,8 +4,8 @@
   "name_en": "Self Psychology",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1970s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Heinz Kohut"
@@ -15,12 +15,31 @@
     "D2",
     "D3"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "self-concept",
+    "unconscious",
+    "therapeutic-relationship",
+    "attachment-bond",
+    "early-experience",
+    "insight-oriented",
+    "emotion-regulation"
+  ],
+  "keywords": [
+    "自體心理學",
+    "自體客體",
+    "鏡映移情",
+    "理想化移情",
+    "凝聚性自體",
+    "碎裂焦慮",
+    "轉化性內化",
+    "Heinz Kohut",
+    "替代內省",
+    "自戀型人格"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級 Kohut 原典為主，B 級 Mitchell & Black、Stolorow 等學術教科書定錨史脈與理論，C 少量百科人物確認",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:21:33"
 }

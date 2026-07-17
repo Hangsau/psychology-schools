@@ -78,6 +78,9 @@
 - **mbct**：Mark Williams 具體生年查無確認來源，已降 🟡 待補（批次 6，2026-07-17）。
 - **morita-therapy**：中村恆子 1990 英文著作（UC Press）查無確認，已降 🔴；建議以 WorldCat 查 Nakamura Tsuneko（批次 7，2026-07-17）。
 - **music-therapy**：台灣音樂治療學會成立年份（常見引用 2002）未以登記資料核實，標 🟡（批次 7，2026-07-17）。
+- **rebt**：Albert Ellis Institute「2021 改名」宣稱查無來源已降 🔴，建議向 albertellis.org 一手核實（批次 9，2026-07-17）。
+- **sfbt**：《Tricks》獨立書目資料待補；Kim 2008 / Stams 2006 效應量數字需原 PDF 核對（批次 9，2026-07-17）。
+- **social-constructionism**：§4 🔴 條目（Shotter 部分著作、Harré《The Discursive Mind》年份、Latour/Woolgar 版本差異）待逐一核對原典（批次 9，2026-07-17）。
 
 ## 已知限制
 

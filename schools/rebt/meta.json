@@ -4,8 +4,8 @@
   "name_en": "Rational Emotive Behavior Therapy",
   "category": "七 第三波",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1955s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Albert Ellis"
@@ -16,12 +16,31 @@
     "D7",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "cognition-processing",
+    "cognitive-restructuring",
+    "emotion-regulation",
+    "psychopathology",
+    "self-concept",
+    "meaning-existential",
+    "behavior-change"
+  ],
+  "keywords": [
+    "理情行為治療",
+    "REBT",
+    "ABC模型",
+    "非理性信念",
+    "辯駁",
+    "無條件接納",
+    "Albert Ellis",
+    "認知行為治療",
+    "絕對化要求",
+    "斯多噶哲學"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級 Ellis 原典為主幹，B 級 Dryden／DiGiuseppe 學術教科書定錨技術面，C 級百科補充人物與機構史",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:48:02"
 }
