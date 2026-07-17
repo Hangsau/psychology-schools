@@ -4,8 +4,8 @@
   "name_en": "Gestalt Psychology",
   "category": "四 完形取向",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1910s–1940s",
+  "region": "德國（法蘭克福、柏林）／美國（流亡）",
   "lineage": [],
   "figures": [
     "Wertheimer",
@@ -16,12 +16,29 @@
   "domain_tags": [
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "perception-gestalt",
+    "cognition-processing",
+    "consciousness",
+    "self-concept",
+    "motivation-drive"
+  ],
+  "keywords": [
+    "完形心理學",
+    "整體非部分之和",
+    "似動現象",
+    "圖與地",
+    "優形律",
+    "頓悟學習",
+    "場論",
+    "元素主義批判",
+    "韋特海默",
+    "科勒"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典（Wertheimer 1912/1923、Köhler 1917/1929、Koffka 1935）為主，B 級歷史文獻與 SEP 教科書輔助",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:44:25"
 }

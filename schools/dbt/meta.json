@@ -4,8 +4,8 @@
   "name_en": "Dialectical Behavior Therapy",
   "category": "七 第三波",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1980s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Marsha Linehan"
@@ -16,12 +16,31 @@
     "D13",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "mindfulness-acceptance",
+    "emotion-regulation",
+    "therapeutic-relationship",
+    "behavior-change",
+    "psychopathology",
+    "self-concept",
+    "resilience-wellbeing"
+  ],
+  "keywords": [
+    "辯證行為治療",
+    "DBT",
+    "邊緣型人格障礙",
+    "情緒失調節",
+    "生物社會理論",
+    "正念",
+    "痛苦容忍",
+    "辯證哲學",
+    "自殺預防",
+    "第三波認知行為治療"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典（Linehan 原始 RCT 及手冊）為主，B 級 Cochrane 及學術研究支撐，C–D 級僅 §2 個人史部分",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T20:03:59"
 }

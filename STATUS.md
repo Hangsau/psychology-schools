@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 11:38
+> 引擎自動更新。最後更新：2026-07-17 11:47
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：20
-- 🟡 草稿 draft（待校核）：28
+- 🟢 已校核 reviewed：25
+- 🟡 草稿 draft（待校核）：23
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -22,20 +22,20 @@
 | 🟢 | `individual-psychology` | 個體心理學 | 二 精神分析 | reviewed | 24KB |
 | 🟢 | `neo-freudian` | 新佛洛伊德學派 | 二 精神分析 | reviewed | 31KB |
 | 🟢 | `object-relations` | 客體關係理論 | 二 精神分析 | reviewed | 29KB |
-| 🟡 | `ego-psychology` | 自我心理學 | 二 精神分析 | draft | 24KB |
+| 🟢 | `ego-psychology` | 自我心理學 | 二 精神分析 | reviewed | 24KB |
 | 🟡 | `self-psychology` | 自體心理學 | 二 精神分析 | draft | 24KB |
 | 🟢 | `behaviorism` | 古典行為主義 | 三 行為主義 | reviewed | 27KB |
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
-| 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
+| 🟢 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | reviewed | 28KB |
 | 🟢 | `gestalt-therapy` | 完形治療 | 四 完形取向 | reviewed | 42KB |
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
-| 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 38KB |
+| 🟢 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | reviewed | 38KB |
 | 🟡 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | draft | 28KB |
 | 🟢 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | reviewed | 32KB |
 | 🟢 | `cbt` | 認知行為學派 | 六 認知與科學 | reviewed | 29KB |
 | 🟢 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | reviewed | 46KB |
-| 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
-| 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 27KB |
+| 🟢 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | reviewed | 28KB |
+| 🟢 | `dbt` | 辯證行為治療 | 七 第三波 | reviewed | 28KB |
 | 🟢 | `act` | 接納與承諾治療 | 七 第三波 | reviewed | 31KB |
 | 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbsr` | 正念減壓 | 七 第三波 | draft | 31KB |

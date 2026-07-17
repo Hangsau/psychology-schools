@@ -4,8 +4,8 @@
   "name_en": "Existential Psychology",
   "category": "五 人本與存在",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1940s–1980s",
+  "region": "歐洲（瑞士、奧地利、德國）／美國",
   "lineage": [],
   "figures": [
     "Rollo May",
@@ -19,12 +19,31 @@
     "D11",
     "D12"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "meaning-existential",
+    "self-actualization",
+    "therapeutic-relationship",
+    "narrative-meaning",
+    "consciousness",
+    "self-concept",
+    "transpersonal-spiritual"
+  ],
+  "keywords": [
+    "存在主義心理學",
+    "意義治療",
+    "logotherapy",
+    "Frankl",
+    "Yalom",
+    "Rollo May",
+    "四終極關懷",
+    "死亡焦慮",
+    "自由",
+    "此在分析"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 級原典（Frankl、Yalom、May 著作）為主，B 級學術教科書輔助；Frankl 集中營敘事歷史可靠性有學術爭議，已於 §8 標明",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:57:33"
 }

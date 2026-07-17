@@ -69,6 +69,12 @@
 2. **P3 校核（當前階段）**：規格在 `methodology/p3-batch-spec.md`，派 **Sonnet 5** sub-agent 批次執行（每批 5–8 篇，驗收即 commit+push）；Opus 只仲裁分歧。校核重點：年代 / 歸屬 / 數字三角驗證、known-distortions 比對、`meta.json` 補 `concept_tags`（目前 48 篇全空，是 P4 前置缺口）、🟡→🟢 升級。
 3. GitHub 遠端已存在：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。每批做完直接 push，不用問。
 
+## P3 未決事項（批次全跑完後交 Opus 仲裁）
+
+- **cbt**：REBT 精確改名年份（1992 / 1993 / 1995 三說），建議查 Albert Ellis Institute 檔案確認（批次 4，2026-07-17）。
+- **evolutionary-psychology**：Martin Daly 死亡年「2022」無法核實已降 🟠，建議查 McMaster University 紀念頁（批次 5，2026-07-17）。
+- **existential-psychology**：Frankl 集中營敘事的歷史學考證細節（Holocaust Studies 期刊 1980–2000s），§8 已標明，可交 Opus 仲裁（批次 5，2026-07-17）。
+
 ## 已知限制
 
 - m3 草稿事實可靠度＝科普等級，需校核（尤其年代、歸屬、數字；m3 會捏造數字）。

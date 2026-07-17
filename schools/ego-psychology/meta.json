@@ -4,12 +4,13 @@
   "name_en": "Ego Psychology",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1930s–1960s",
+  "region": "美國（維也納流亡）",
   "lineage": [],
   "figures": [
     "Anna Freud",
-    "Erikson"
+    "Erikson",
+    "Hartmann"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -17,12 +18,31 @@
     "D11",
     "D8"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "self-concept",
+    "developmental-stages",
+    "defense-mechanism",
+    "lifespan",
+    "early-experience",
+    "insight-oriented",
+    "motivation-drive"
+  ],
+  "keywords": [
+    "自我心理學",
+    "防衛機制",
+    "心理社會發展",
+    "Erik Erikson",
+    "Anna Freud",
+    "Heinz Hartmann",
+    "衝突無涉自我",
+    "次級自主性",
+    "認同",
+    "分離個體化"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典（Freud 1936、Hartmann 1939、Erikson 1950/1968、Mahler 1975）為主，B 級學術二手文獻輔助，量化數字均迴避未引具體效應值",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:49:32"
 }

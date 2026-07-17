@@ -4,8 +4,8 @@
   "name_en": "Evolutionary Psychology",
   "category": "六 認知與科學",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1980s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Buss",
@@ -18,12 +18,31 @@
     "D5",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "adaptation-evolution",
+    "motivation-drive",
+    "social-influence",
+    "emotion-regulation",
+    "self-concept",
+    "biological-basis",
+    "cultural-context"
+  ],
+  "keywords": [
+    "演化心理學",
+    "天擇",
+    "演化心理機制",
+    "模組化心智",
+    "配偶偏好",
+    "親投資理論",
+    "EEA",
+    "欺騙偵測",
+    "SSSM",
+    "跨文化普同性"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典期刊（Darwin、Hamilton、Trivers、Buss 1989/1992 等）為主，B 級學術書籍與教科書支撐，D 級普及著作（Pinker、Dawkins）已標明",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:30:36"
 }
