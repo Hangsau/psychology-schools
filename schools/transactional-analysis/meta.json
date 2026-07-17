@@ -4,24 +4,43 @@
   "name_en": "Transactional Analysis",
   "category": "八 後現代",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–至今",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Eric Berne"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D2",
     "D3",
     "D4"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "self-concept",
+    "early-experience",
+    "insight-oriented",
+    "therapeutic-relationship",
+    "narrative-meaning",
+    "developmental-stages",
+    "social-influence"
+  ],
+  "keywords": [
+    "自我狀態",
+    "父母成人孩童",
+    "溝通分析",
+    "腳本理論",
+    "心理遊戲",
+    "戲劇三角",
+    "自主性",
+    "再決定治療",
+    "撫慰",
+    "合約化治療"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（Berne 各主著）為核心，B 學術資料為主體；多處生卒年、書目細節標 🟡/🟠 待原典核對",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:12:14"
 }

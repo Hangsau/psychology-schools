@@ -22,7 +22,7 @@
 
 - **Don D. Jackson（1920–1968）**。🔵 B MRI 共同創辦人（與 Virginia Satir、Gerald Zuk、Paul Watzlawick 等），提出「**家庭常規**」（family homeostasis）、「**相互因果**」（reciprocal causality）等概念；1968 年過早去世。其精神由 Watzlawick、John Weakland、Richard Fisch 在 MRI 延續，發展出 **短期家族治療**（brief therapy）。B 學術。
 
-- **Jay Haley（1933–2022）**。🔵 B 從 Bateson 計畫出身的溝通取向研究者，後與精神病學家 Cloe Madanes 結合，發展出 **策略家族治療**（strategic family therapy）。1963 年《Strategies of Psychotherapy》是早期戰略學派的代表，後續 1976、1981 年與 Madanes 合著多本著作。B 學術。
+- **Jay Haley（1923–2007）**。🔵 B 從 Bateson 計畫出身的溝通取向研究者，後與精神病學家 Cloe Madanes 結合，發展出 **策略家族治療**（strategic family therapy）。1963 年《Strategies of Psychotherapy》是早期戰略學派的代表，後續 1976、1981 年與 Madanes 合著多本著作。B 學術。
 
 - **Salvador Minuchin 之外**，尚有幾位與「系統」學派密切相關、不可忽略者：🔵 B
   - **Paul Watzlawick（1921–2007）**，MRI 成員，1967 年與 Beavin、Jackson 合著《Pragmatics of Human Communication》，1974 年與 Weakland、Fisch 合著《Change》，奠定溝通理論與短期治療的地位。A 原典。
@@ -347,4 +347,4 @@ Satir 的技術強調整個身體與情緒的體驗：🔵 B
 
 家族治療不是一門只有一種答案的學科，而是一組共享某些概念工具、但對「**人是什麼**」「**改變如何發生**」的回答各不相同的臨床傳統。本綜述的目標是把這組傳統的核心地圖繪出，而非宣稱其中某一派為唯一正確。🟡
 
-> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 0 處事實 / 無刪書目 / concept_tags 已填。
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Jay Haley 生卒年更正 1933–2022 → 1923–2007）/ 無刪書目 / concept_tags 已填。

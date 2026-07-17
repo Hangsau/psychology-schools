@@ -4,8 +4,8 @@
   "name_en": "Social Psychology",
   "category": "十三 當代整合",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1920s–至今",
+  "region": "美國（歐洲起源）",
   "lineage": [],
   "figures": [
     "Lewin",
@@ -18,12 +18,31 @@
     "D3",
     "D7"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "social-influence",
+    "social-construction",
+    "cognitive-restructuring",
+    "self-concept",
+    "motivation-drive",
+    "cultural-context",
+    "emotion-regulation"
+  ],
+  "keywords": [
+    "從眾實驗",
+    "服從權威",
+    "認知失調",
+    "旁觀者效應",
+    "歸因理論",
+    "社會認同",
+    "場論",
+    "群體動力學",
+    "偏見與刻板印象",
+    "再現危機"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（Lewin、Festinger、Milgram 等）為核心，B 學術教科書為主體；多處 Milgram/Zimbardo 數據標 🟠 待原典再確認",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:41:37"
 }

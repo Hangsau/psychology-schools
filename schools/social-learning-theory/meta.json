@@ -4,8 +4,8 @@
   "name_en": "Social Learning Theory",
   "category": "三 行為主義",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–1990s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Bandura"
@@ -16,12 +16,31 @@
     "D11",
     "D8"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "observational-learning",
+    "reinforcement",
+    "self-concept",
+    "behavior-change",
+    "social-influence",
+    "motivation-drive",
+    "cognitive-restructuring"
+  ],
+  "keywords": [
+    "觀察學習",
+    "自我效能",
+    "示範學習",
+    "替代強化",
+    "自我調節",
+    "Bobo玩偶實驗",
+    "社會認知理論",
+    "交互決定論",
+    "道德去中心化",
+    "行為改變"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Bandura 各主要著作）為核心，B 學術文獻為主體，少量 C 百科交叉驗證",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:34:06"
 }

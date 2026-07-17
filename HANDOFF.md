@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-17（**P3 進行中：reviewed 35/48**（批次 7 完成））。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。批次進度：1–7 已驗收推 master，剩 13 篇待校核（play-therapy 起，字母序）。
+> 最後更新：2026-07-17（**P3 完成：48/48 reviewed**，批次 1–10 全部驗收推 master；verify ALL PASS / scan CLEAN / concept_tags 零空缺）。當前＝**P4 前置已解**：`tools/build-index.py` 試跑成功（domain-index 13 標籤、concept-index 37 標籤）。下一步 = P4 語義索引定稿 + 網站；「P3 未決事項」清單待交 Opus 仲裁。
 
 ## 現況
 
@@ -65,9 +65,9 @@
 
 ## 下次接手先做
 
-1. 看 `STATUS.md`：48/48 全 🟡 draft，P2 已完成，引擎與 watchdog 已停（不會自行重啟）。
-2. **P3 校核（當前階段）**：規格在 `methodology/p3-batch-spec.md`，派 **Sonnet 5** sub-agent 批次執行（每批 5–8 篇，驗收即 commit+push）；Opus 只仲裁分歧。校核重點：年代 / 歸屬 / 數字三角驗證、known-distortions 比對、`meta.json` 補 `concept_tags`（目前 48 篇全空，是 P4 前置缺口）、🟡→🟢 升級。
-3. GitHub 遠端已存在：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。每批做完直接 push，不用問。
+1. **P3 已完成**（48/48 reviewed，批次 1–10）。`STATUS.md` 全 🟢。
+2. **P4（當前階段）**：① 「P3 未決事項」清單（見下節）交 **Opus 仲裁**——逐條查證後改正文或維持標記；② 語義索引定稿（`tools/build-index.py` 已可跑：domain 13 / concept 37 標籤，檢查輸出格式是否符合與 religions-history merge 的需求）；③ 網站（先確認呈現形式，參考 religions-history 網站架構）。
+3. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
 
 ## P3 未決事項（批次全跑完後交 Opus 仲裁）
 
@@ -81,6 +81,11 @@
 - **rebt**：Albert Ellis Institute「2021 改名」宣稱查無來源已降 🔴，建議向 albertellis.org 一手核實（批次 9，2026-07-17）。
 - **sfbt**：《Tricks》獨立書目資料待補；Kim 2008 / Stams 2006 效應量數字需原 PDF 核對（批次 9，2026-07-17）。
 - **social-constructionism**：§4 🔴 條目（Shotter 部分著作、Harré《The Discursive Mind》年份、Latour/Woolgar 版本差異）待逐一核對原典（批次 9，2026-07-17）。
+- **social-learning-theory**：Richard Walters 確切卒年查無可靠獨立文獻，標 🟡 待補（批次 10，2026-07-17）。
+- **social-psychology**：Milgram 服從實驗數字需原典核對（§8 已標）；Sherif 出生年 1906/1907 待原始文件比對；confidence 🟡（批次 10，2026-07-17）。
+- **systems-family-therapy**：Fromm-Reichmann 1948「schizophrenogenic mother」原文字眼、Carter & McGoldrick 初版合作模式、Minuchin 費城起始年（1965/1969）均 🟠 待補（批次 10，2026-07-17）。
+- **transactional-analysis**：Robert Goulding 生年（1917 vs 1930）、Berne McGill 醫學博士年份（1935 待核）、《I'm OK, You're OK》暢銷榜時長聲稱待補；confidence 🟡（批次 10，2026-07-17）。
+- **transpersonal-psychology**：「transpersonal」一詞最早使用者（Sutich 1969 vs Schutz 1958）、Jorge Ferrer 生卒年、ATP 會員數統計均待查；confidence 🟡（批次 10，2026-07-17）。
 
 ## 已知限制
 

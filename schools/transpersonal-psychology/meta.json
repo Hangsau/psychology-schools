@@ -4,8 +4,8 @@
   "name_en": "Transpersonal Psychology",
   "category": "十三 當代整合",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1960s–至今",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Ken Wilber",
@@ -17,12 +17,31 @@
     "D1",
     "D10"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "transpersonal-spiritual",
+    "consciousness",
+    "meaning-existential",
+    "self-actualization",
+    "mindfulness-acceptance",
+    "developmental-stages",
+    "experiential-expressive"
+  ],
+  "keywords": [
+    "意識光譜",
+    "高峰經驗",
+    "自我超越",
+    "全向呼吸法",
+    "AQAL整合理論",
+    "永恆哲學",
+    "第四勢力",
+    "周產期基模",
+    "前超謬誤",
+    "神秘經驗"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "B 學術文獻為主，A 原典（Wilber、Grof、Maslow）補充；多處核心概念缺乏主流實證，標 🟠",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:36:29"
 }

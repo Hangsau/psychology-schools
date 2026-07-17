@@ -4,26 +4,45 @@
   "name_en": "Systems / Family Therapy",
   "category": "十 系統與關係",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–至今",
+  "region": "美國（義大利米蘭學派亦重要）",
   "lineage": [],
   "figures": [
     "Bowen",
     "Minuchin",
     "Satir"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D4",
     "D3",
     "D5"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "family-systems",
+    "attachment-bond",
+    "developmental-stages",
+    "therapeutic-relationship",
+    "narrative-meaning",
+    "self-concept",
+    "early-experience"
+  ],
+  "keywords": [
+    "家族治療",
+    "系統理論",
+    "自我分化",
+    "結構家族治療",
+    "控制論",
+    "循環提問",
+    "三角關係",
+    "家系圖",
+    "雙重束縛",
+    "策略家族治療"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Bowen、Minuchin、Satir、Watzlawick 等）為核心，B 學術教科書為主體；少數「資料待補」事項已標 🟠",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T19:32:32"
 }

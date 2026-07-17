@@ -22,13 +22,13 @@
 
 **Stanislav Grof (b. 1931)** — 捷克裔美國精神科醫師。1960–1967 年主持布拉格 Psychiatric Research Institute 之 LSD 研究；1973 年移居美國後加入 Esalen Institute。1975 年《Realms of the Human Unconscious》(©) 提出「周產期基模」(perinatal matrices)；1992 年《The Holotropic Mind》(©) 與 Christina Grof 共同建立全向呼吸法理論基礎。
 
-**Ken Wilber (b. 1949)** — 美國哲學家、整合理論家。1977 年 27 歲出版《The Spectrum of Consciousness》(©)，提出意識光譜與「前-超謬誤」；1995 年起建構「AQAL 整合理論」(All Quadrants, All Levels)；著作逾 20 部 [B-C]。
+**Ken Wilber (b. 1949)** — 美國哲學家、整合理論家。1977 年（時年 28 歲，實際寫成於 1973 年時年 23–24 歲，歷經多次退稿後方出版）出版《The Spectrum of Consciousness》(©)，提出意識光譜與「前-超謬誤」；1995 年起建構「AQAL 整合理論」(All Quadrants, All Levels)；著作逾 20 部 [B-C]。
 
 **Michael Washburn (b. 1943)** — 美國心理學家。1990 年《Transpersonal Psychology in Psychoanalytic Perspective》(©) 以精神分析語彙重接 transpersonal 與深度心理學，提出「動態明暗」(dynamic darkness) 概念，強調靈性回歸需繞經身體與陰影 [B]。
 
 **Jorge N. Ferrer (1953–2022)** — 西班牙裔美國心理學家。2002 年《Revisioning Transpersonal Theory》(©) 批評主流 transpersonal 研究之認識論偏狹，主張「參與性精神性」(participatory spirituality) 與「多重內在之我」(multidimensional interiority pluralistic, MIRR) [B]。
 
-**Frances Vaughan (1935–2023)** — 美國臨床心理學家，1979 年《Awakening Intuition》(©) 為早期整合東西方靈性於心理治療之著作；1993 年與 Roger Walsh 合編《Paths Beyond Ego: The Transpersonal Vision》(©)。
+**Frances Vaughan (1935–2017)** — 美國臨床心理學家，1979 年《Awakening Intuition》(©) 為早期整合東西方靈性於心理治療之著作；1993 年與 Roger Walsh 合編《Paths Beyond Ego: The Transpersonal Vision》(©)。
 
 **Roger Walsh (b. 1946)** — 美國精神科醫師，加州大學爾灣分校（University of California, Irvine）教授。1999 年《Essential Spirituality》(©) 整理東西方神秘傳統共通的七大修養；推動「contemplative studies」建制化 [B-C]。
 
@@ -164,3 +164,5 @@
 **（四）意識光譜與精微身之實證地位**。本學派若干核心概念 (subtle body, causal realm) 仍缺乏主流學術心理學之獨立驗證；多數心理學家持存而不論或標 🔴 [B, 🟠]。
 
 **（五）本綜述之限制**。本篇受限於一手原典之英文閱讀，未能系統性檢視非英語文獻（德語、法語、日語、中文之 transpersonal 文獻）；南半球、原住民、伊斯蘭世界之 transpersonal 表述未充分納入；Wilber 2005 年後之政治著作未深入評估；CIIS、Saybrook、Naropa 等機構之課程演變未追溯；Grof 與 Christina Grof 1980 年代後共同著作中對其早期 LSD 研究之修正亦需另文處理 [C, 🟠]。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（Ken Wilber 出版年齡 27→28 歲並補寫作年份、Frances Vaughan 卒年 2023→2017、Maslow 需求金字塔扭曲已避開）/ 無刪書目 / concept_tags 已填。
