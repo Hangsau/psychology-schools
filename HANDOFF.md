@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-16 22:xx（**P2 完成：48/48、verify ALL PASS**。引擎與 watchdog 已停。已推 GitHub（Hangsau/psychology-schools，public）。當前＝P3 Sonnet 批次校核）
+> 最後更新：2026-07-17（**P3 進行中：reviewed 10/48**。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。半成品：ego-psychology / systems-family-therapy / mbct / morita-therapy 有部分修改待做完）
 
 ## 現況
 

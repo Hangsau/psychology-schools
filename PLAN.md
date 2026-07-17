@@ -64,6 +64,7 @@ religions-history 已確立一根軸：**人從生到死的 13 個問題領域**
 - `claude -p`（無 env 覆蓋）走 Pro 訂閱 OAuth ＝ **無額外金錢消費**，只吃 5H 訂閱窗（2026-07-16 查 credentials 證實；舊認知「-p 走 API per-token 額外付費」作廢）。
 - 批次校核派 **Sonnet 5** sub-agent；Opus 只用於仲裁分歧與用戶觸發的判斷工作。
 - 機械性監控（輪詢 / 心跳 / 重啟）一律零 LLM（純 script），不准用任何模型的排程喚醒去輪詢——2026-07-16 曾因 Opus 輪詢燒穿 5H 窗。
+- **批次派工一律串行**（1 批驗收 commit 後才派下一批），撞牆即停 + shotclock 排下一窗接力（協調 prompt：`tools/p3-resume-prompt.md`）——2026-07-17 平行 5-6 agent 兩度撞牆的教訓。
 
 ---
 
