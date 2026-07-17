@@ -4,21 +4,47 @@
   "name_en": "Biological Psychology",
   "category": "六 認知與科學",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1870s–至今",
+  "region": "歐洲、美國",
   "lineage": [],
-  "figures": [],
+  "figures": [
+    "Pavlov",
+    "Hebb",
+    "Kandel",
+    "LeDoux",
+    "Damasio",
+    "Sapolsky"
+  ],
   "is_therapy_school": false,
   "domain_tags": [
     "D9",
     "D6"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "biological-basis",
+    "mind-body",
+    "adaptation-evolution",
+    "emotion-regulation",
+    "psychopathology",
+    "cognition-processing",
+    "motivation-drive"
+  ],
+  "keywords": [
+    "生理心理學",
+    "神經科學",
+    "條件反射",
+    "突觸可塑性",
+    "赫布法則",
+    "杏仁核",
+    "軀體標記假說",
+    "獎勵預測誤差",
+    "腦造影",
+    "精神藥理學"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Descartes、Broca、Hebb 1949、Kandel 等）與 B 教科書並重，部分技術前沿 🟡",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:26:05"
 }

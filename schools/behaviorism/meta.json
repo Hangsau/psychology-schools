@@ -4,24 +4,46 @@
   "name_en": "Behaviorism",
   "category": "三 行為主義",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1913–1960s",
+  "region": "美國、俄國",
   "lineage": [],
   "figures": [
     "Watson",
-    "Skinner"
+    "Skinner",
+    "Pavlov",
+    "Thorndike",
+    "Tolman"
   ],
   "is_therapy_school": false,
   "domain_tags": [
     "D11",
     "D6"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "conditioning",
+    "reinforcement",
+    "behavior-change",
+    "observational-learning",
+    "psychopathology",
+    "mind-body",
+    "motivation-drive"
+  ],
+  "keywords": [
+    "行為主義",
+    "古典制約",
+    "操作制約",
+    "強化時制",
+    "刺激反應",
+    "應用行為分析",
+    "激進行為主義",
+    "方法論行為主義",
+    "行為塑造",
+    "關係框架理論"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典密集（Pavlov 1927、Watson 1913、Skinner 主要著作），B 史學與批評文獻補充",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:26:09"
 }

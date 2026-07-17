@@ -4,8 +4,8 @@
   "name_en": "Acceptance and Commitment Therapy",
   "category": "七 第三波",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1980s–至今",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Steven Hayes"
@@ -17,12 +17,31 @@
     "D11",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "mindfulness-acceptance",
+    "cognitive-restructuring",
+    "emotion-regulation",
+    "meaning-existential",
+    "behavior-change",
+    "therapeutic-relationship",
+    "self-concept"
+  ],
+  "keywords": [
+    "接納與承諾治療",
+    "心理彈性",
+    "關係框架理論",
+    "認知脫鉤",
+    "經驗迴避",
+    "價值",
+    "承諾行動",
+    "第三波認知行為治療",
+    "正念",
+    "六角彈性模型"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Hayes et al. 各期著作），B 學術手冊補充，D 科普少量",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:39:21"
 }

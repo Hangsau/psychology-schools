@@ -4,12 +4,13 @@
   "name_en": "Attachment Theory",
   "category": "十 系統與關係",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–至今",
+  "region": "英國、美國",
   "lineage": [],
   "figures": [
     "Bowlby",
-    "Ainsworth"
+    "Ainsworth",
+    "Mary Main"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -18,12 +19,31 @@
     "D2",
     "D10"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "attachment-bond",
+    "early-experience",
+    "developmental-stages",
+    "emotion-regulation",
+    "self-concept",
+    "lifespan",
+    "therapeutic-relationship"
+  ],
+  "keywords": [
+    "依附理論",
+    "安全基地",
+    "內在運作模式",
+    "陌生情境程序",
+    "依附行為系統",
+    "安全型依附",
+    "混亂型依附",
+    "成人依附訪談",
+    "分離與失落",
+    "照顧者敏感性"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典密集（Bowlby 三卷本、Ainsworth 1978、Main 等核心論文），B 系統回顧補充",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:59:09"
 }

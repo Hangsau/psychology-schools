@@ -4,7 +4,7 @@
 
 🟢 美國藝術治療的核心源流大致可分為兩支傳統。第一支由 Margaret Naumburg 開啟，承接 Adler 學派與精神分析（特別是 Freud、Hanns Sachs 與符號學語言的觀點），強調「自發性自由創作」為潛意識的視覺化，作品本身即是替代言語的聯想素材，治療師隨後對圖像作心理動力學詮釋。第二支由 Edith Kramer 開啟，受 Anna Freud 的自我心理學（ego psychology）與 Heinz Hartmann、Ernst Kris 的影響，把藝術創作視為昇華（sublimation）作用的具體展演，強調創作過程本身即是一種修復與整合，而不只是通往潛意識的窗口；此即日後通稱的「art as therapy」相對於 Naumburg 的「art in therapy」之爭。[B：Junge, 2010；B：Litt, 2012]
 
-🔵 英國一線則以 Adrian Hill 為先驅。他於 1942 年因結核病療養期間從事繪畫，自覺創作有助於康復，遂於 1945 年出版《Art Versus Illness》並首創「art therapy」一詞，作為一種兼含職業治療與心理治療意義的活動。[A：Hill, 1945] Edward Adamson 自 1946 年起在 Surrey 的 Netherne Hospital 為慢性精神病人設立「開放繪畫工作室」（open studio），主張在最低結構干預下讓患者自由創作，使作品成為其內在狀態的長程記錄；他後來推動英國藝術治療師協會（British Association of Art Therapists, BAAT）的成立，並擔任首任主席。[B：Killick, 2014；B：Hogan, 2001]
+🔵 英國一線則以 Adrian Hill 為先驅。他於 1938 年因結核病在 King Edward VII Sanatorium（米德赫斯特）療養期間從事繪畫，自覺創作有助於康復，約於 1942 年首創「art therapy」一詞，遂於 1945 年出版《Art Versus Illness》，作為一種兼含職業治療與心理治療意義的活動。[A：Hill, 1945] Edward Adamson 自 1946 年起在 Surrey 的 Netherne Hospital 為慢性精神病人設立「開放繪畫工作室」（open studio），主張在最低結構干預下讓患者自由創作，使作品成為其內在狀態的長程記錄；他後來推動英國藝術治療師協會（British Association of Art Therapists, BAAT）的成立，並擔任首任主席。[B：Killick, 2014；B：Hogan, 2001]
 
 🟢 該領域在 1960 至 1970 年代進入制度化。1961 年 Elinor Ulman 創辦《American Journal of Art Therapy》，1969 年美國藝術治療協會（American Art Therapy Association, AATA）成立，使認證、教育與倫理規範開始成形。英國 1964 年成立 BAAT，1982 年起藝術治療師登記成為國家衛生體系內受認可的專業身分。學術上，藝術治療大體定位於臨床與諮商心理學、精神科復健、特殊教育、安寧療護與創傷介入的交界，而非純美學或純藝術教育的分支。[B：Malchiodi, 2012；B：Rubin, 2016]
 
@@ -16,7 +16,7 @@
 
 🟢 **Edith Kramer（1916–2014）**為奧地利裔美國藝術治療師。她 1938 年因納粹兼併奧地利而移居美國，曾受 Viktor Lowenfeld 與 Hans Hofmann 藝術教育訓練，並在公立學校與兒童安置機構從事藝術教學。她把 Anna Freud 的自我心理學應用於藝術治療，主張藝術創作即治療（art as therapy）：製作過程中對形式、色彩與材料的掌握（mastery）以及昇華作用，本身就是一種自我修復機制，治療師不必對作品作深層詮釋，反而應作為「第三隻手」（third hand）協助個案維持美學整合；她明確區隔自己與 Naumburg 的取向。[A：Kramer, 1958, 1971, 1979；B：Litt, 2012]
 
-🟢 **Adrian Hill（1895–1981）**為英國藝術治療用語的發明人。他本身為業餘畫家，因結核住院期間（1941–1944）以繪畫自我療癒，並將此經驗擴展為療養機構內的團體繪畫活動。其著作《Art Versus Illness》（1945）為該領域最早以「art therapy」為名的英文專書，主張藝術活動作為疾病療養中的整合性活動。[A：Hill, 1945；B：Hogan, 2001]
+🟢 **Adrian Hill（1895–1977）**為英國藝術治療用語的發明人。他本身為畫家，1938 年因結核病療養於 King Edward VII Sanatorium 期間以繪畫自我療癒，並於 1939 年起教授其他住院患者繪畫，約 1942 年首創「art therapy」一詞，並將此經驗擴展為療養機構內的藝術教學活動。其著作《Art Versus Illness》（1945）為該領域最早以「art therapy」為名的英文專書，主張藝術活動作為疾病療養中的整合性活動。[A：Hill, 1945；B：Hogan, 2001]
 
 🔵 **Edward Adamson（1911–1996）**為英國藝術治療的體制建立者。他在 Netherne Hospital 自 1946 年起設立繪畫工作室，服務慢性精神病住院患者；他主張以最少介入讓患者長期自由創作，把作品視為自我與時序變化的紀錄而非分析材料；他後來整理超過十萬件病患繪畫作品，部分現藏 Wellcome Collection。1964 年他參與創建 BAAT 並任首任主席。[B：Hogan, 2001；B：Killick, 2014]
 
@@ -183,3 +183,5 @@
 🟠 **未涵蓋之延伸議題**包括：① 動物輔助藝術治療；② 嬰幼兒藝術治療（2–4 歲）之神經發展基礎；③ 老年與失智族群之非語言介入；④ 移民、戰爭、酷刑倖存者之集體創傷藝術介入；⑤ 醫療團隊中藝術治療師之角色定位。資料待補。
 
 🔴 **本篇刻意避免之常見扭曲**：① 把藝術治療簡化為「藝術活動 + 情緒宣洩」（忽略其理論複雜度與詮釋派／過程派之差）；② 將 Naumburg 之取向等同於「以藝術作品作心理測驗」（忽略其作為治療媒介之本意）；③ 將 Kramer 描述為「只重美學不重心理」（忽略其明確自我心理學立場）；④ 把英美早期專業歷史浪漫化為單一英雄敘事（忽略女性、低階層、跨文化實踐者之貢獻）；⑤ 假設藝術治療對所有族群皆有效（忽略文化適配性）。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（Adrian Hill 卒年 1981→1977；§1 與 §2 所述 Hill 結核療養起始年由含糊「1942 年」補正為「1938 年起於 King Edward VII Sanatorium」；§2 「業餘畫家」改為「畫家」）/ 刪 0 條可疑書目 / concept_tags 已填。

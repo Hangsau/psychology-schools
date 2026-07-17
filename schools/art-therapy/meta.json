@@ -4,12 +4,14 @@
   "name_en": "Art Therapy",
   "category": "十一 表達性藝術",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1940s–至今",
+  "region": "美國、英國",
   "lineage": [],
   "figures": [
     "Naumburg",
-    "Kramer"
+    "Kramer",
+    "Adrian Hill",
+    "Edward Adamson"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -17,12 +19,31 @@
     "D13",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "experiential-expressive",
+    "insight-oriented",
+    "unconscious",
+    "self-concept",
+    "narrative-meaning",
+    "therapeutic-relationship",
+    "emotion-regulation"
+  ],
+  "keywords": [
+    "藝術治療",
+    "動力取向藝術治療",
+    "藝術即治療",
+    "昇華",
+    "象徵表達",
+    "非語言介入",
+    "創傷知情",
+    "表現性藝術治療",
+    "開放工作室",
+    "潛意識視覺化"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Naumburg 1966、Kramer 1958/1971、Hill 1945），B 學術史與手冊補充",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:04:05"
 }

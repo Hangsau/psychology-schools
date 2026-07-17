@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 11:15
+> 引擎自動更新。最後更新：2026-07-17 11:31
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：10
-- 🟡 草稿 draft（待校核）：38
+- 🟢 已校核 reviewed：15
+- 🟡 草稿 draft（待校核）：33
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -24,7 +24,7 @@
 | 🟢 | `object-relations` | 客體關係理論 | 二 精神分析 | reviewed | 29KB |
 | 🟡 | `ego-psychology` | 自我心理學 | 二 精神分析 | draft | 24KB |
 | 🟡 | `self-psychology` | 自體心理學 | 二 精神分析 | draft | 24KB |
-| 🟡 | `behaviorism` | 古典行為主義 | 三 行為主義 | draft | 26KB |
+| 🟢 | `behaviorism` | 古典行為主義 | 三 行為主義 | reviewed | 27KB |
 | 🟡 | `social-learning-theory` | 社會學習理論 | 三 行為主義 | draft | 35KB |
 | 🟡 | `gestalt-psychology` | 完形心理學 | 四 完形取向 | draft | 27KB |
 | 🟢 | `gestalt-therapy` | 完形治療 | 四 完形取向 | reviewed | 42KB |
@@ -33,10 +33,10 @@
 | 🟡 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | draft | 28KB |
 | 🟡 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | draft | 32KB |
 | 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
-| 🟡 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | draft | 46KB |
+| 🟢 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | reviewed | 46KB |
 | 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
 | 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 27KB |
-| 🟡 | `act` | 接納與承諾治療 | 七 第三波 | draft | 31KB |
+| 🟢 | `act` | 接納與承諾治療 | 七 第三波 | reviewed | 31KB |
 | 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbsr` | 正念減壓 | 七 第三波 | draft | 31KB |
 | 🟡 | `rebt` | 理情行為治療 | 七 第三波 | draft | 22KB |
@@ -50,8 +50,8 @@
 | 🟡 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | draft | 35KB |
 | 🟢 | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | reviewed | 32KB |
 | 🟡 | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | draft | 37KB |
-| 🟡 | `attachment-theory` | 依附理論 | 十 系統與關係 | draft | 29KB |
-| 🟡 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | draft | 33KB |
+| 🟢 | `attachment-theory` | 依附理論 | 十 系統與關係 | reviewed | 30KB |
+| 🟢 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | reviewed | 34KB |
 | 🟡 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | draft | 38KB |
 | 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
 | 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
