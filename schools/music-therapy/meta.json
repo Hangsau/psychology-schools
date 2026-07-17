@@ -4,22 +4,49 @@
   "name_en": "Music Therapy",
   "category": "十一 表達性藝術",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1940s–現在",
+  "region": "美國（起源）；英國、北歐、拉丁美洲",
   "lineage": [],
-  "figures": [],
+  "figures": [
+    "E. T. Gaston",
+    "Paul Nordoff",
+    "Clive Robbins",
+    "Helen Bonny",
+    "Mary Priestley",
+    "Juliette Alvin",
+    "Michael Thaut"
+  ],
   "is_therapy_school": false,
   "domain_tags": [
     "D6",
     "D13",
     "D9"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "experiential-expressive",
+    "emotion-regulation",
+    "therapeutic-relationship",
+    "mind-body",
+    "self-concept",
+    "resilience-wellbeing",
+    "consciousness"
+  ],
+  "keywords": [
+    "音樂治療",
+    "即興演奏",
+    "引導式想像",
+    "神經音樂治療",
+    "節律性聽覺刺激",
+    "莫札特效應",
+    "AMTA",
+    "Nordoff-Robbins",
+    "社區音樂治療",
+    "表達性藝術治療"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Bruscia 1998、Nordoff & Robbins 1977、Thaut 2005）定錨；B 為主；莫札特效應已正確區分 Rauscher 1993（A）與 Campbell 1997（D）",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:15:27"
 }

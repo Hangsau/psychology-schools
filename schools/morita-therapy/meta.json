@@ -4,8 +4,8 @@
   "name_en": "Morita Therapy",
   "category": "十二 本土非西方",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1920s–1960s",
+  "region": "日本",
   "lineage": [],
   "figures": [
     "森田正馬"
@@ -16,12 +16,31 @@
     "D13",
     "D9"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "mindfulness-acceptance",
+    "emotion-regulation",
+    "self-concept",
+    "therapeutic-relationship",
+    "behavior-change",
+    "cultural-context",
+    "mind-body"
+  ],
+  "keywords": [
+    "森田療法",
+    "神經質",
+    "精神交互作用",
+    "あるがまま",
+    "目的本位",
+    "情緒本位",
+    "住院作業療法",
+    "日本本土心理治療",
+    "焦慮性神經症",
+    "四期作業"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（森田 1921 全集、Reynolds 1976）定錨；B 為主（石原 2015、安東 2020）；中村恆子 1990 英文書書目資料待核（降 🔴）",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:25:24"
 }

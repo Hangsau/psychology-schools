@@ -4,21 +4,46 @@
   "name_en": "Multicultural / Feminist Therapy",
   "category": "九 社會文化",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1960s–現在",
+  "region": "北美（美國為主）",
   "lineage": [],
-  "figures": [],
+  "figures": [
+    "Jean Baker Miller",
+    "Carol Gilligan",
+    "Laura S. Brown",
+    "Derald Wing Sue",
+    "Kimberlé Crenshaw"
+  ],
   "is_therapy_school": false,
   "domain_tags": [
     "D5",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "power-gender",
+    "cultural-context",
+    "social-construction",
+    "therapeutic-relationship",
+    "narrative-meaning",
+    "self-concept",
+    "social-influence"
+  ],
+  "keywords": [
+    "多元文化諮商",
+    "女性主義治療",
+    "交織性",
+    "文化謙遜",
+    "增能",
+    "權力分析",
+    "個人即政治",
+    "文化能力",
+    "關係文化理論",
+    "反壓迫實務"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "B 為主（APA 指引、學術專著）；A 原典（Sue et al. 1992、Crenshaw 1989、Herman 1992）定錨；北美中心偏向明確標注於 §8",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:42:00"
 }
