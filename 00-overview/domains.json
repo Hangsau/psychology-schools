@@ -1,0 +1,96 @@
+{
+  "_comment": "13 領域機器可讀對照表——psychology-schools ↔ religions-history 對接縫。D 碼＝本專案 meta.json domain_tags；rh_domain＝religions-history concepts-psychology.md 節號；rh_subtags＝該領域細群 slug（religions-history 設計中的 psych_tags 詞彙，2026-07-17 該側尚未實作標註）。跨界支流（modern-tech-comparison / wisdom-learning-curiosity / nature-animals-ecology）橫跨多領域，不納入本表。",
+  "domains": [
+    {
+      "id": "D1",
+      "name_zh": "存在與意義",
+      "name_en": "Existence & Meaning",
+      "rh_domain": "I",
+      "rh_subtags": ["existence-why-born", "nihilism-void", "living-with-unknown", "insignificance-history"]
+    },
+    {
+      "id": "D2",
+      "name_zh": "自我與認同",
+      "name_en": "Self & Identity",
+      "rh_domain": "II",
+      "rh_subtags": ["who-am-i", "gender-body", "boundaries-self-worth", "perfectionism-self-criticism", "dreams-unconscious", "childhood-wounds"]
+    },
+    {
+      "id": "D3",
+      "name_zh": "愛與親密",
+      "name_en": "Love & Intimacy",
+      "rh_domain": "III",
+      "rh_subtags": ["love-sex-intimacy", "trust-vulnerability", "communication-being-understood"]
+    },
+    {
+      "id": "D4",
+      "name_zh": "家庭與傳承",
+      "name_en": "Family & Legacy",
+      "rh_domain": "IV",
+      "rh_subtags": ["marriage-family", "parenthood", "memory-reconciliation"]
+    },
+    {
+      "id": "D5",
+      "name_zh": "群體·社會·公義",
+      "name_en": "Community, Society & Justice",
+      "rh_domain": "V",
+      "rh_subtags": ["loneliness-belonging", "ingroup-outgroup-prejudice", "justice-power", "responsibility-leadership"]
+    },
+    {
+      "id": "D6",
+      "name_zh": "情緒與內在生活",
+      "name_en": "Emotion & Inner Life",
+      "rh_domain": "VI",
+      "rh_subtags": ["emotions-passions", "fear-uncertainty", "addiction-self-destruction", "body-mind"]
+    },
+    {
+      "id": "D7",
+      "name_zh": "善惡·良心·品格",
+      "name_en": "Good, Evil, Conscience & Character",
+      "rh_domain": "VII",
+      "rh_subtags": ["guilt-atonement", "evil-cruelty-empathy", "honesty-hypocrisy", "courage"]
+    },
+    {
+      "id": "D8",
+      "name_zh": "工作·成就·召喚",
+      "name_en": "Work, Achievement & Calling",
+      "rh_domain": "VIII",
+      "rh_subtags": ["work-money", "calling-vocation"]
+    },
+    {
+      "id": "D9",
+      "name_zh": "苦難·疾病·身體",
+      "name_en": "Suffering, Illness & Body",
+      "rh_domain": "IX",
+      "rh_subtags": ["illness-body", "meaning-of-suffering"]
+    },
+    {
+      "id": "D10",
+      "name_zh": "無常·老·死·失去",
+      "name_en": "Impermanence, Aging, Death & Loss",
+      "rh_domain": "X",
+      "rh_subtags": ["aging-time", "loss-grief", "death", "patience-waiting"]
+    },
+    {
+      "id": "D11",
+      "name_zh": "自由·命運·改變",
+      "name_en": "Freedom, Fate & Change",
+      "rh_domain": "XI",
+      "rh_subtags": ["freewill-fate-choice", "change-transformation"]
+    },
+    {
+      "id": "D12",
+      "name_zh": "信仰·神聖·超越",
+      "name_en": "Faith, Sacred & Transcendence",
+      "rh_domain": "XII",
+      "rh_subtags": ["faith-doubt", "beauty-wonder-transcendent-moment"]
+    },
+    {
+      "id": "D13",
+      "name_zh": "安頓·修復·平安",
+      "name_en": "Settling, Repair & Peace",
+      "rh_domain": "XIII",
+      "rh_subtags": ["stillness-rest", "gratitude-contentment", "hope-reason-to-live", "giving-generosity", "play-laughter-lightness"]
+    }
+  ]
+}

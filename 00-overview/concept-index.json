@@ -4,9 +4,6 @@
     "evolutionary-psychology",
     "functionalism"
   ],
-  "anxiety": [
-    "neo-freudian"
-  ],
   "attachment-bond": [
     "attachment-theory",
     "indigenous-psychology",
@@ -89,6 +86,7 @@
   ],
   "defense-mechanism": [
     "ego-psychology",
+    "neo-freudian",
     "object-relations",
     "psychoanalysis"
   ],

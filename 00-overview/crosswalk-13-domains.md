@@ -73,6 +73,18 @@
 
 ---
 
+## 機器可讀對接層（P4 定稿，2026-07-17）
+
+Merge 所需的三個 JSON 均在 `00-overview/`：
+
+| 檔案 | 內容 | 產生方式 |
+|------|------|---------|
+| `domains.json` | D1–D13 ↔ religions-history 節號（I–XIII）↔ 45 細群 slug 對照 | 手工定稿（鏡像 religions-history `concepts-psychology.md` 實際表格；該文件自稱「46 細群」為筆誤，實為 45） |
+| `domain-index.json` | D 碼 → 學派 slug 清單（13 tags / 48 校全覆蓋） | `tools/build-index.py` 自動 |
+| `concept-index.json` | 心理學概念 → 學派 slug（36 tags，與 `concepts.md` 受控詞彙 1:1 合規） | `tools/build-index.py` 自動 |
+
+**Merge 合約現況**：本側已就緒。religions-history 側的 `psych_tags` 欄位（存 45 細群 slug）僅存在於設計文件，**尚未實作標註**——merge 落地前該側需先跑 psych_tags 標註 pipeline。join 路徑：經文 `psych_tags` 細群 → `domains.json` 查所屬 D 碼 → `domain-index.json` 拉學派。
+
 ## 反向視角：13 領域 → 哪些學派回應
 
 供 religions-history 側查詢，`tools/build-index.py` 從各 meta.json `domain_tags` 自動生 `00-overview/domain-index.json`。此處為人工先驗骨架，最終以自動索引為準。

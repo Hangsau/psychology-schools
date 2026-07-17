@@ -67,7 +67,8 @@
 
 1. **P3 已完成**（48/48 reviewed，批次 1–10）。`STATUS.md` 全 🟢。
 2. **P4 ① 未決事項仲裁已完成**（2026-07-17 Opus，見下節）：12 條定案寫回正文、2 條維持爭議標記。
-3. **P4 剩餘**：② 語義索引定稿（`tools/build-index.py` 已可跑：domain 13 / concept 37 標籤，檢查輸出格式是否符合與 religions-history merge 的需求）；③ 網站（先確認呈現形式，參考 religions-history 網站架構）。
+3. **P4 ② 語義索引已定稿**（2026-07-17）：domain 13 / concept 36 標籤（`anxiety` 詞彙表外標籤已改 `defense-mechanism`，全 48 校 100% 合規）；新增 `00-overview/domains.json`（D 碼 ↔ religions-history I–XIII ↔ 45 細群 slug 機器可讀對照）；merge 合約與 join 路徑寫在 `crosswalk-13-domains.md`「機器可讀對接層」節。**Blocker 在對側**：religions-history 的 `psych_tags` 標註 pipeline 尚未實作，該側動工前本專案無事可做。
+4. **P4 剩餘**：③ 網站（先確認呈現形式，參考 religions-history 網站架構）——需用戶輸入，暫停待指示。
 4. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
 
 ## P3 未決事項 → P4 仲裁結果（2026-07-17 Opus）
