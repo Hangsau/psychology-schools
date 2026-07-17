@@ -68,8 +68,9 @@
 1. **P3 已完成**（48/48 reviewed，批次 1–10）。`STATUS.md` 全 🟢。
 2. **P4 ① 未決事項仲裁已完成**（2026-07-17 Opus，見下節）：12 條定案寫回正文、2 條維持爭議標記。
 3. **P4 ② 語義索引已定稿**（2026-07-17）：domain 13 / concept 36 標籤（`anxiety` 詞彙表外標籤已改 `defense-mechanism`，全 48 校 100% 合規）；新增 `00-overview/domains.json`（D 碼 ↔ religions-history I–XIII ↔ 45 細群 slug 機器可讀對照）；merge 合約與 join 路徑寫在 `crosswalk-13-domains.md`「機器可讀對接層」節。**Blocker 在對側**：religions-history 的 `psych_tags` 標註 pipeline 尚未實作，該側動工前本專案無事可做。
-4. **P4 剩餘**：③ 網站（先確認呈現形式，參考 religions-history 網站架構）——需用戶輸入，暫停待指示。
-4. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
+4. **P5（當前階段）內容補全 pass**：用戶批評內容空洞（只有概念列點）＋範圍糾正（**只要學派內容本身，不加臨床案例/治療對話/教學延伸**）。規格與待處理清單（薄尾 10 篇，health-psychology 起）見 `methodology/p5-batch-spec.md`——自足文件，逐篇補全→驗收→commit+push。2026-07-18 00:xx 批次 1 撞 5H 牆（resets 01:30），health-psychology 截斷半成品已 `git checkout --` 還原；shotclock 已排 01:40 恢復單發。薄尾完成後：全庫深化 pass（其餘 38 篇同標準）待排。
+5. **P4 ③ 網站**：需用戶確認呈現形式，暫停待指示。
+6. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
 
 ## P3 未決事項 → P4 仲裁結果（2026-07-17 Opus）
 
