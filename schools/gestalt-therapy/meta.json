@@ -4,8 +4,8 @@
   "name_en": "Gestalt Therapy",
   "category": "四 完形取向",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1940s–1970s",
+  "region": "美國（創始人為德國流亡者）",
   "lineage": [],
   "figures": [
     "Fritz Perls"
@@ -16,12 +16,29 @@
     "D6",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "consciousness",
+    "perception-gestalt",
+    "self-concept",
+    "emotion-regulation",
+    "therapeutic-relationship",
+    "experiential-expressive"
+  ],
+  "keywords": [
+    "完形治療",
+    "皮爾斯",
+    "覺察",
+    "此時此地",
+    "空椅技術",
+    "接觸邊界",
+    "未竟事務",
+    "圖與地",
+    "變化的弔詭理論"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "B 為主，A 原典（Perls/Beisser/Yontef）定錨，次要人物年代多處經查證修正",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:50:50"
 }

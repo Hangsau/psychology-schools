@@ -4,8 +4,8 @@
   "name_en": "Neo-Freudians",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1930s–1950s",
+  "region": "美國（以紐約為核心）",
   "lineage": [],
   "figures": [
     "Horney",
@@ -18,12 +18,21 @@
     "D3",
     "D5"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "unconscious",
+    "self-concept",
+    "anxiety",
+    "therapeutic-relationship",
+    "social-influence",
+    "cultural-context",
+    "insight-oriented",
+    "early-experience"
+  ],
+  "keywords": ["基本焦慮", "神經質需求", "社會性格", "逃避自由", "人際精神醫學", "參與觀察", "文化學派", "理想化自我", "自我異化", "愛的藝術"],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典為主（Horney、Fromm、Sullivan 著作直接引用），B 學術二手文獻定錨，C 補充生平細節",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:13:01"
 }

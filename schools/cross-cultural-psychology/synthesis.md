@@ -26,8 +26,8 @@
 
 - **Wilhelm Wundt（1832–1920，德）**：萊比錫大學；1900–1920 出版《民族心理學》十卷。區分實驗心理學（適用感官、聯結等基本歷程）與民族心理學（適用語言、神話、風俗、文化），為跨文化心理學最早學科源頭。🔵
 - **Florence Rockwood Kluckhohn（1902–1966，美）** 與 **Fred L. Strodtbeck（1919–1978，美）**：1961 *Variations in Value Orientations* 提出價值取向量表，六問題（人與自然關係、時間取向、人性觀、活動取向、關係取向、群體觀），為最早「跨文化可比較維度」嘗試。🟢
-- **Harry C. Triandis（1926–1998，希臘-美）**：伊利諾大學；1970 年共同創 JCCP、1980 年主編三卷 handbook；提出「主觀文化」（subjective culture，即文化成員共享的意義系統）與「個人主義-集體主義」框架。🔵
-- **Walter J. Lonner（1930–2022，美）**：西華盛頓大學；早期推動 JCCP 編務、首倡跨文化倫理規範與 *Cross-Cultural Psychology* 教科書長期主編之一。🟢
+- **Harry C. Triandis（1926–2019，希臘裔美籍）**：伊利諾大學；1970 年共同創 JCCP、1980 年主編三卷 handbook；提出「主觀文化」（subjective culture，即文化成員共享的意義系統）與「個人主義-集體主義」框架。🔵
+- **Walter J. Lonner（1930–，美）**：西華盛頓大學；早期推動 JCCP 編務、首倡跨文化倫理規範與 *Cross-Cultural Psychology* 教科書長期主編之一。🟡（逝年資料待補）
 - **John W. Berry（1939– ，加）**：女王大學（Queen's University）；後具影響力的跨文化心理學家之一；提出「文化適應」（acculturation）四策略模型（integration / assimilation / separation / marginalization）、生態文化框架（ecocultural framework）。🔵
 - **Geert Hofstede（1928–2020，荷蘭）**：長期任職 IBM 與 Maastricht 大學；1967–1973 以 IBM 跨 40 國員工態度調查為基礎，提出文化四維度，後擴為六。其框架雖常被評論為過度簡化，但在組織心理學與管理學仍被大量引用。🟡（學派內外有重大爭議，見 §6）
 - **Richard W. Brislin（1944–2012，美）**：夏威夷大學；翻譯回譯法（back-translation）系統化推廣者；1986 *Cross-Cultural Research Methods* 為方法學教科書。🟢
@@ -282,3 +282,5 @@ Kitayama 與 Han、Northoff 等嘗試 fMRI 跨文化比較（北美 vs 東亞在
 - Triandis, H. C. (1995). *Individualism and Collectivism*. Westview.（A）
 - van de Vijver, F. J. R., & Leung, K. (1997/2020). *Methods and Data Analysis for Cross-Cultural Research*. SAGE.（A）
 - Wundt, W. (1900–1920). *Völkerpsychologie*, 10 vols. Leipzig.（A/B）
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 2 處事實（Triandis 卒年 1998→2019；Lonner 卒年 2022 改為待補）/ 無刪書目 / concept_tags 已填。

@@ -4,12 +4,15 @@
   "name_en": "Object Relations",
   "category": "二 精神分析",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1930s–1970s",
+  "region": "英國（倫敦為核心）",
   "lineage": [],
   "figures": [
     "Klein",
-    "Winnicott"
+    "Winnicott",
+    "Fairbairn",
+    "Bion",
+    "Kernberg"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -17,12 +20,21 @@
     "D4",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "unconscious",
+    "attachment-bond",
+    "early-experience",
+    "defense-mechanism",
+    "therapeutic-relationship",
+    "insight-oriented",
+    "self-concept",
+    "psychopathology"
+  ],
+  "keywords": ["內在客體", "妄想分裂位置", "憂鬱位置", "投射認同", "過渡性客體", "足夠好的母親", "真我假我", "容器被涵者", "分裂", "修補"],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典齊備（Klein、Winnicott、Fairbairn、Bion 原著），B 學術整合文獻佐證，C 百科補充",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:17:05"
 }

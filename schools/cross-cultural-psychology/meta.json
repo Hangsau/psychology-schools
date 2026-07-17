@@ -4,8 +4,8 @@
   "name_en": "Cross-Cultural Psychology",
   "category": "九 社會文化",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1960s–至今",
+  "region": "美國、國際",
   "lineage": [],
   "figures": [],
   "is_therapy_school": false,
@@ -13,12 +13,31 @@
     "D5",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "cultural-context",
+    "self-concept",
+    "social-construction",
+    "power-gender",
+    "social-influence",
+    "motivation-drive",
+    "developmental-stages"
+  ],
+  "keywords": [
+    "跨文化比較",
+    "WEIRD偏誤",
+    "文化適應",
+    "個人主義集體主義",
+    "Hofstede維度",
+    "主位客位",
+    "Schwartz價值理論",
+    "獨立我互依我",
+    "三大倫理",
+    "文化等值"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Triandis、Berry、Hofstede、Markus & Kitayama 等），B 教科書補充，C 極少量",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:48:43"
 }

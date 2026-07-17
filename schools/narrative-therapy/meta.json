@@ -4,8 +4,8 @@
   "name_en": "Narrative Therapy",
   "category": "八 後現代",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1980s–2000s",
+  "region": "澳洲、紐西蘭",
   "lineage": [],
   "figures": [
     "White",
@@ -17,12 +17,31 @@
     "D2",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "narrative-meaning",
+    "social-construction",
+    "self-concept",
+    "power-gender",
+    "therapeutic-relationship",
+    "cultural-context",
+    "meaning-existential"
+  ],
+  "keywords": [
+    "外化對話",
+    "獨特結果",
+    "重新作者",
+    "局外者見證",
+    "問題外化",
+    "主流敘事",
+    "後現代治療",
+    "Foucault",
+    "定義性儀式",
+    "治療性信件"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典（White & Epston 1990、White 2007）為核心，B 級學術著作為主幹，C 級百科輔助確認",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:05:35"
 }
