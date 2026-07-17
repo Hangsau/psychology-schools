@@ -30,7 +30,7 @@
 
 ## 2. 代表人物
 
-- **William Glasser**（1925–2013）：美國精神科醫師。學派唯一創始人。生於俄亥俄州克利夫蘭。Case Western Reserve 大學（學士）、Western Reserve 大學醫學院（M.D.），後完成一般精神科住院醫師訓練並接受精神分析治療師訓練。1962–1965 年於加州 Ventura School for Girls 帶青少年個案時，發展出「現實治療」這個工作框架，並終其一生在 William Glasser Institute 推廣其理論與認證體系。晚年提出「選擇理論」（1998）取代「控制理論」（1984）的命名，亦提出七個關懷習慣對照七個致命習慣的倫理架構。去世前任教於 Chapman University。🔵 A
+- **William Glasser**（1925–2013）：美國精神科醫師。學派唯一創始人。生於俄亥俄州克利夫蘭。Case Western Reserve 大學（B.S. 化工，1945；M.A. 臨床心理，1949；M.D. 精神科，1953），後完成一般精神科住院醫師訓練並接受精神分析治療師訓練。🔵〔C：Wikipedia；Library of Congress Authority〕1962–1965 年於加州 Ventura School for Girls 帶青少年個案時，發展出「現實治療」這個工作框架，並終其一生在 William Glasser Institute 推廣其理論與認證體系。晚年提出「選擇理論」（1998）取代「控制理論」（1984）的命名，亦提出七個關懷習慣對照七個致命習慣的倫理架構。去世前任教於 Chapman University。🔵 A
 
 - **Carleen Glasser**（William 之妻，約 1990 年代起密切合作）：共同撰寫《Counseling with Choice Theory》（2001）以及多本延伸著作，與其在 William Glasser Institute 之行政與培訓工作中並肩。🟡 C
 
@@ -319,3 +319,5 @@ Robert Wubbolding 將現實治療的會談結構系統化為 WDEP，是當代現
 11. **「後現代」分類的合宜性**：本派列於後現代大類，與敘事治療、解構取向、家族系統等並列。後現代性主要表現於反對科學管理主義與外在決定論，但本派並未對「語言建構真實」、「知識／權力」等後現代經典議題著墨。分類的學理合宜性有討論空間；目前依本知識庫既有分類（PLAN.md / classification.md）採「後現代」入帳。🟠
 
 12. **與人本主義／存在主義的歸類**：Glasser 與 Maslow、Rogers、Frankl 皆有方法論上的親近性，但本派最終以「選擇理論」為名創立獨立學派，不宜逕列為「人本主義治療」分支。本知識庫採「後現代」入帳，但讀者宜知其人本—存在主義底色。🟡
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Glasser 學位補入具體年份與學位名稱；「Western Reserve 大學醫學院」→「Case Western Reserve 大學」統一名稱）/ 刪 0 條可疑書目 / concept_tags 已填。

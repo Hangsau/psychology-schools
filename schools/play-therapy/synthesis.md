@@ -8,13 +8,13 @@
 - **英國主觀世界技術（Lowenfeld 1929）**：Margaret Lowenfeld 提出「世界技術」（*World Technique*），兒童以沙盤與微型物件建構「世界」，象徵化地外化內在狀態；後成沙盤治療的母體。🟠 1935 年 Lowenfeld 是否有同名《Play, Childhood and Adventure》一書仍待書目索引進一步核查；本綜述先以論文與 1950s 後合集為準。
 - **Winnicott 過渡空間（倫敦 1950-70s）**：Donald W. Winnicott 1953 年〈過渡性客體與過渡現象〉（*Transitional Objects and Transitional Phenomena*, *IJP* 34, 89-97）把「過渡性現象」由臨床概念上升為心理學理論；1971 年《遊戲與現實》（*Playing and Reality*）提出**潛在空間（potential space）** 與「遊戲位於主體客體之間、母體與外在之間」之觀點，後被視為遊戲治療「存在論上最重要的宣言」。A 級原典 🔵。
 - **歐陸存在-人本傳統（Moustakas 1959）**：Clark E. Moustakas 1959 年《兒童心理治療：活著的關係》（*Psychotherapy with Children: The Living Relationship*；1997 Guilford 增訂版再版），首位系統化把存在人本治療轉譯到兒童工作，重視治療者的真實臨在（authenticity），而非分析詮釋。A 級 🟢。
-- **Rogerian 個人中心（1940s 起）**：Carl Rogers 個人中心治療的六項條件於 1940-50 年代成形；Virginia Mae Axline 1942 年於哥倫布俄亥俄州立大學取得心理學博士，後將 Rogers 原則系統化轉譯到兒童工作，於 1947 年出版《Play Therapy》，1969 年修訂為 *Play Therapy: The Inner World of the Child*，建立今日北美主流的**兒童中心遊戲治療（Child-Centered Play Therapy, CCPT）**。A 級 🔵。
+- **Rogerian 個人中心（1940s 起）**：Carl Rogers 個人中心治療的六項條件於 1940-50 年代成形；Virginia Mae Axline（生於 1911 年）於俄亥俄州立大學取得學士（1931 年）與心理學碩士（1941 年），後將 Rogers 原則系統化轉譯到兒童工作，於 1947 年出版《Play Therapy》，1969 年修訂為 *Play Therapy: The Inner World of the Child*，建立今日北美主流的**兒童中心遊戲治療（Child-Centered Play Therapy, CCPT）**。A 級 🔵。
 
 **北美建制化（1960s-90s）**：
 
 - 1960s-70s：結構化、依附論導向的 Theraplay 興起（Jernberg & Booth）；Charles Schaefer 與 O'Connor 1976 年合編 *Play Therapy Handbook*；多家學會紛設。
-- 1982：Schaefer 等參與成立美國**遊戲治療協會（Association for Play Therapy, APT）**；APT 創立會刊《International Journal of Play Therapy》。
-- 1984：Garry L. Landreth 於 University of North Texas（UNT）創立**遊戲治療中心（CPT-UNT）**，後成為 CCPT 研究與訓練的主要基地。
+- 1982：Schaefer 與 O'Connor 共同創立美國**遊戲治療協會（Association for Play Therapy, APT）**；APT 後創立會刊《International Journal of Play Therapy》。🔵〔C：APT 官網〕
+- 1987/1988：Garry L. Landreth 於 University of North Texas（UNT）創立**遊戲治療中心（CPT-UNT）**，後成為 CCPT 研究與訓練的主要基地。🔵〔C：UNT CPT 官網 Our Story〕
 - 1990s：CCPT 訓練手冊化、效應量研究興起；1991 Landreth 出版《Play Therapy: The Art of the Relationship》。
 - 2000s：以家庭為單位的 filial therapy（Andalous 1970s 原型 → Landreth & Bratton 2006 CPRT 完善）、童-親-關係治療以及創傷聚焦遊戲改編成為重要分支。
 - 2010s 起：學校本位 CCPT、跨文化適配、沙盤-認知-行為-創傷多元化整合以及與神經科學依附論文獻的對話。
@@ -32,9 +32,9 @@
 - **Donald W. Winnicott（1896-1971）**：倫敦分析師；1953〈過渡性客體〉、1971《遊戲與現實》。把遊戲從「症狀解讀」的對象提升到「存在的臨在狀態」。A 級原典 🔵。
 - **Erik H. Erikson（1902-1994）**：精神分析-社會心理發展學派；1950 年《兒童與社會》（*Childhood and Society*，1963 二版）；把「遊戲」（play）列為學齡前期 psychosocial task 之一。A 級 🔵。
 - **Clark E. Moustakas（1923-2012）**：密歇根；存在-人本兒童心理治療系統化奠基者；1959 年《兒童心理治療：活著的關係》。A 級 🟢。
-- **Virginia Mae Axline（1912-1988）**：俄亥俄州立大學博士；CCPT 創始者。1947 年《Play Therapy》、1964 年《Dibs in Search of Self》（化名個案敘事，後廣為引用的兒童自我追尋案例）、1969 年《Play Therapy: The Inner World of the Child》修訂版。A 級原典 🔵。
-- **Charles E. Schaefer（1932?-2006?）**：紐約 Fairleigh Dickenson 大學；參與創立 APT（1982）；與 O'Connor 1976 年合編 *Play Therapy Handbook*（後多次再版）。B 級 🟢；具體生歿年需二次查證。🟠
-- **Garry L. Landreth（1943-2018）**：UNT Regents Professor；1984 創立 CPT-UNT；1991 年《Play Therapy: The Art of the Relationship》（2012 第三版與 Bratton、Baggerly 合著）；2006 年與 Bratton 發表 CPRT（Child-Parent Relationship Therapy）操作手冊。把「The Relationship is the Cure」做成臨床口號與督導公約。A 級 🟢。
+- **Virginia Mae Axline（1911-1988）**：俄亥俄州立大學博士；CCPT 創始者。1947 年《Play Therapy》、1964 年《Dibs in Search of Self》（化名個案敘事，後廣為引用的兒童自我追尋案例）、1969 年《Play Therapy: The Inner World of the Child》修訂版。A 級原典 🔵。
+- **Charles E. Schaefer**（生歿年資料待補 🟠）：紐約 Fairleigh Dickinson 大學（注意拼法）；與 O'Connor 共同創立 APT（1982）；與 O'Connor 合編 *Handbook of Play Therapy*（1983，注意原書名與年份）（後多次再版）。B 級 🟢；具體生歿年需二次查證。🟠
+- **Garry L. Landreth**（生歿年資料待補 🟠）：UNT Regents Professor Emeritus；1987/1988 創立 CPT-UNT（🔵 UNT 官網）；1991 年《Play Therapy: The Art of the Relationship》（2012 第三版由 Routledge 出版）；2006 年與 Bratton 發表 CPRT（Child-Parent Relationship Therapy）操作手冊。把「The Relationship is the Cure」做成臨床口號與督導公約。A 級 🟢。
 - **Sue C. Bratton**：UNT CPT-UNT；CCPT 量表、學校本位研究、filial 訓練模式實證研究主力。B 級 🟢。
 - **Theresa Snartt-White**：UNT CPT；近二十年 CCPT 學校應用研究主力。B 級 🟢。
 - **Phyllis B. Booth / Ann M. Jernberg**：Theraplay 系統共創者（1970s 起源、1975/1999 *Theraplay: Helping Parents and Children Build Successful Relationships*）。B 級 🟢。
@@ -137,8 +137,8 @@
 - Axline, V. M. (1947). *Play Therapy.* Boston: Houghton Mifflin.（1969 年修訂版副標 *The Inner World of the Child*，由 Ballantine Books 改以平裝發行）。©
 - Axline, V. M. (1964). *Dibs in Search of Self.* Boston: Houghton Mifflin.（化名兒童個案敘事；常被列入心理學經典個案書，但為敘事體而非實證研究）。©
 - Moustakas, C. E. (1959). *Psychotherapy with Children: The Living Relationship.* New York: Prentice-Hall.（1997 增訂版 Guilford 再發行）©
-- Schaefer, C. E. (Ed.). (1976). *Play Therapy Manual.* New York: MSS.（1980s 多版）©
-- Schaefer, C. E., & O'Connor, K. J. (Eds.). (1976). *Handbook of Play Therapy.* San Francisco: Jossey-Bass.（1983, 1994, 2003 多版）。©
+- Schaefer, C. E. (Ed.). (1976). *Therapeutic Use of Child's Play.* New York: Aronson.（亦有說法指 1976 年版為此書，具體書名待核 🟠）©
+- Schaefer, C. E., & O'Connor, K. J. (Eds.). (1983). *Handbook of Play Therapy.* New York: Wiley.（初版 1983，後有 1994, 2003 多版；🟠 1976 年版書名有分歧，以此為主）©
 - Landreth, G. L. (1991). *Play Therapy: The Art of the Relationship.* Muncie, IN: Accelerated Development.（2012 年第三版由 Bratton & Baggerly 合著；New York: Routledge）。©
 - Landreth, G. L. (2001). *Innovations in Play Therapy.* Philadelphia: Brunner-Routledge. ©
 
@@ -340,7 +340,7 @@ Axline 強調「therapist 的 reflecting of feelings 是 children 之 self-under
 
 ### 8.1 本篇沒能查證或驗證之處
 
-1. Landreth（1943-2018）之確切出生年與逝年：本綜述以常見資料為主，**未逐年核對 UNT 官方訃聞／紀念文**，請讀者於引用前查證。🟠
+1. Landreth 之確切出生年與逝年：本綜述無法從公開來源確認精確生歿年，已移除未驗證生卒年，**未逐年核對 UNT 官方訃聞／紀念文**，請讀者於引用前查證。🟠
 2. Winnicott（1953）之期刊卷期「IJP, Vol. 34, 89-97」為常引用版，但部分二手資料頁碼微差，需二次驗證。🟡
 3. Moustakas 1959 年原著版本歷史：原始為 Prentice-Hall 1959；增訂版由 Guilford 1997 再發行，但內容差異未細查。🟠
 4. Charles E. Schaefer 之生歿年（1932? 2006?）於不同來源不一致，需對照 APT 官方紀念資料。🟠
@@ -378,3 +378,5 @@ Axline 強調「therapist 的 reflecting of feelings 是 children 之 self-under
 - 若執業對象為家庭與親職議題，建議同時熟悉親職育兒文獻（Baumrind、Holden 等）以避免單一框架偏誤。
 
 本綜述不附「總結」、「核心觀點」、「複習題」等學習輔助結構，係依學派知識庫體例要求。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 5 處事實（Axline 生年 1912→1911、CPT 創立年 1984→1987/1988、APT 創立者補 O'Connor、Schaefer 大學名拼法、Schaefer & O'Connor Handbook 年份）/ 刪 0 條可疑書目 / concept_tags 已填。

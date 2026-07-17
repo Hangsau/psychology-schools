@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 12:04
+> 引擎自動更新。最後更新：2026-07-17 20:33
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：35
-- 🟡 草稿 draft（待校核）：13
+- 🟢 已校核 reviewed：38
+- 🟡 草稿 draft（待校核）：10
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -52,13 +52,13 @@
 | 🟡 | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | draft | 37KB |
 | 🟢 | `attachment-theory` | 依附理論 | 十 系統與關係 | reviewed | 30KB |
 | 🟢 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | reviewed | 34KB |
-| 🟡 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | draft | 38KB |
-| 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
+| 🟢 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | reviewed | 39KB |
+| 🟢 | `psychodrama` | 心理劇 | 十一 表達性藝術 | reviewed | 25KB |
 | 🟢 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | reviewed | 20KB |
 | 🟢 | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | reviewed | 33KB |
 | 🟢 | `morita-therapy` | 森田療法 | 十二 本土非西方 | reviewed | 33KB |
 | 🟢 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | reviewed | 38KB |
-| 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 36KB |
+| 🟢 | `positive-psychology` | 正向心理學 | 十三 當代整合 | reviewed | 37KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
 | 🟢 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | reviewed | 25KB |
 | 🟡 | `social-psychology` | 社會心理學 | 十三 當代整合 | draft | 28KB |

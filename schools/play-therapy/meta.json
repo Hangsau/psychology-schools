@@ -4,8 +4,8 @@
   "name_en": "Play Therapy",
   "category": "十一 表達性藝術",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1920s–2000s",
+  "region": "英國、美國",
   "lineage": [],
   "figures": [
     "Axline",
@@ -17,12 +17,31 @@
     "D4",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "experiential-expressive",
+    "therapeutic-relationship",
+    "self-concept",
+    "emotion-regulation",
+    "attachment-bond",
+    "narrative-meaning",
+    "developmental-stages"
+  ],
+  "keywords": [
+    "遊戲治療",
+    "兒童中心遊戲治療",
+    "CCPT",
+    "Axline",
+    "Landreth",
+    "非指導式",
+    "沙盤治療",
+    "Filial Therapy",
+    "玩偶",
+    "潛在空間"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典為主（Klein、Winnicott、Axline、Landreth），B 學術二手補充，D 科普少量；部分書目年份待查",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T18:29:51"
 }

@@ -4,8 +4,8 @@
   "name_en": "Positive Psychology",
   "category": "十三 當代整合",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1998s–2020s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Seligman",
@@ -17,12 +17,31 @@
     "D13",
     "D1"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "resilience-wellbeing",
+    "motivation-drive",
+    "self-concept",
+    "meaning-existential",
+    "self-actualization",
+    "emotion-regulation",
+    "cognitive-restructuring"
+  ],
+  "keywords": [
+    "正向心理學",
+    "PERMA",
+    "心流",
+    "品格長處",
+    "幸福感",
+    "Seligman",
+    "Csikszentmihalyi",
+    "正向情緒",
+    "拓延建構理論",
+    "VIA"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Seligman、Csikszentmihalyi、Diener、Fredrickson），B 學術二手補充，C/D 科普少量；Losada 比率已正確標撤回",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T18:47:44"
 }

@@ -4,11 +4,12 @@
   "name_en": "Psychodrama",
   "category": "十一 表達性藝術",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1920s–1970s",
+  "region": "奧地利、美國",
   "lineage": [],
   "figures": [
-    "Jacob Moreno"
+    "Jacob Moreno",
+    "Zerka Moreno"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -16,12 +17,31 @@
     "D3",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "experiential-expressive",
+    "social-influence",
+    "emotion-regulation",
+    "narrative-meaning",
+    "self-concept",
+    "therapeutic-relationship",
+    "insight-oriented"
+  ],
+  "keywords": [
+    "心理劇",
+    "Moreno",
+    "社會計量學",
+    "角色理論",
+    "自發性",
+    "超現實",
+    "主角",
+    "替身",
+    "角色互換",
+    "團體心理治療"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典為主（Moreno 系列著作），B 學術二手（Kellermann 1992、Marineau 1989）補充；實證 RCT 待補",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:10:09"
 }

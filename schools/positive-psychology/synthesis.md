@@ -21,7 +21,7 @@
 - **Barbara L. Fredrickson**（1964– ）🔵：密西根大學博士（指導：Carver、Capps），以「拓延—建構理論（broaden-and-build theory）」聞名（B, Fredrickson 1998, 2001）。她後續以「Positivity Resonance」（2013 起）研究人際關係中的微觀正向情緒共鳴（B）。
 - **Christopher Peterson**（1950–2012）🔵：密西根大學教授，與 Seligman 共同主持 Character Strengths and Values 計畫，2004 年出版與牛津大學出版社 / APA 合作的《Character Strengths and Virtues》（CSV, B）。Peterson 也是「歸因風格量表（ASQ）」的開發者之一。
 - **Edward Diener**（1946–2021）🔵：曾被《紐約時報》稱作「Dr. Happiness」，主觀幸福感（Subjective Well-Being, SWB）研究的核心建立者（B, Diener 1984, 與同事開發 Satisfaction with Life Scale, SWLS）。📌 **避開扭曲**：SWB 不等於「快樂得分」；它由三個獨立可分構念組成——生活滿意度（認知評價）、正向情緒頻率、負向情緒頻率（B, Diener 1984）。
-- **Donald O. Clifton**（1924–2003）🔵：內布拉斯加大學心理學家、企業顧問，被稱為「正向心理學之父」（APA 1998 命名）。他創立 Gallup 的「優勢發現運動」，提出「如果你能改變問句，便能改變未來」的優勢觀點。其遺作《StrengthsFinder》經典化為 CliftonStrengths（©）。
+- **Donald O. Clifton**（1924–2003）🔵：內布拉斯加大學心理學家、企業顧問，2002 年獲 APA 頒布「優勢本位心理學之父暨正向心理學祖父」（father of strengths-based psychology and grandfather of positive psychology）Presidential Commendation 終身貢獻獎（🔵 APA PsycNet 紀念文；草稿舊誤稱「APA 1998 命名」已修正）。他創立 Gallup 的「優勢發現運動」，提出「如果你能改變問句，便能改變未來」的優勢觀點。其遺作《StrengthsFinder》經典化為 CliftonStrengths（©）。
 - **Sonja Lyubomirsky**（1966– ）🔵：加州大學河濱分校教授，《The How of Happiness》(2007, ©) 作者，她與 Sheldon、King 等合著〈Pursuing Happiness: The Architecture of Sustainable Change〉(2005, B) 提出「幸福點（happiness set-point）」，並指出意志性活動、行為改變可長期提升幸福感。
 - **Tal Ben-Shahar**（1970– ）🟡：哈佛大學最受歡迎的「正向心理學」與「領導心理學」課程教師之一（2002–2010），著作《Happier》(2002, ©)、《Even Happier》(2009, ©)。📌 **注意**：他是正向心理學的**普及者與課程教師**，非學術理論奠基者。
 - **Ray Fowler**、**Kennon Sheldon**、**Laura King**、**Amy Wrzesniewski**、**Bryan Dik**、**Donald Duffy** 等屬於第二代研究者，重要議題分別為使命感研究、幸福改變模型、工作中之召喚（job calling）。
@@ -272,7 +272,7 @@ B, Seligman 1991《Learned Optimism》；理論基礎為 Abramson, Seligman & Te
 以下為本篇必須誠實列出之研究限制與爭議：
 
 1. **未親自查證之具體數字**：Seligman et al. 2005 的「三件好事」效果量、特定介入 6 個月追蹤數字等，本篇未逐項驗證原始數據，僅轉述結論層級。🔴
-2. **「正向心理學之父」歸屬問題**：APA 在 1998 年決議中提名 Donald Clifton 為「正向心理學之父」，但更廣為人知的是 Seligman 1998 年就職演說。本篇採後者為「主要奠基者」、Clifton 為「先驅者」之描述，但仍屬於詮釋性劃分，C 級。
+2. **「正向心理學之父」歸屬問題**：APA 在 2002 年頒布 Presidential Commendation 予 Donald Clifton，稱其為「優勢本位心理學之父暨正向心理學祖父」（非「正向心理學之父」），且非 1998 年（已修正草稿舊誤）；更廣為人知的「正向心理學奠基者」是 Seligman 1998 年就職演說。本篇採後者為「主要奠基者」、Clifton 為「優勢本位先驅」之描述，屬詮釋性劃分，C 級。
 3. **Maslow 的需求階層理論**：Maslow 本人在 1943 年原文中繪製的是垂直堆疊示意（"prepotent" 概念），但 **Maslow 從未繪製「需求金字塔」圖示**——金字塔形狀是 1960 年代由管理學顧問 Charles McDermid 為通俗演講所製作，後被教科書反覆誤用。本篇在援引 Maslow 為正向心理學前驅時**未採用**金字塔圖示論述。🟢
 4. **Csikszentmihalyi 心流的「自我意識暫時消失」表述**：心流特徵中此項雖為 Csikszentmihalyi 多次明示，但部分研究（如 Harris 2009）對該現象的可測性有疑問；本篇僅轉述。🟡
 5. **PERMA 五要素的「PERMA」首字母排列順序**：Seligman 2011《Flourish》一書最終版中已將 P、E、R、M、A 列出，但**「PERMA」這個縮寫字**是否為 Seligman 本人在書中正式宣告、或後由學界總結，仍待版本對照（🟡，部分研究歸因為「In 2011 Seligman formalized PERMA」，但學界原始引用有些不一致）。
@@ -286,3 +286,5 @@ B, Seligman 1991《Learned Optimism》；理論基礎為 Abramson, Seligman & Te
 13. **既有研究多為 WEIRD 樣本**：對 D8、D13、D1 領域的回應，在全球南方、非西方集體主義文化中的有效性，可能與 PERMA 假設不對齊（🔴，資料待補）。
 14. **本篇未涵蓋**：正向心理學在兒童發展、老年學、跨文化心理學、教育政策等方面的細節文獻——因本知識庫採「學派綜述」格式，僅列已與學派核心建構直接相關的研究，其他應用領域歸於對應的「心理學應用」類別（如教育心理學、健康心理學、組織心理學）。
 15. **本篇無法獨立查證的內部細節**：Seligman 1980 年代到 1990 年代思想轉變的具體時點、Templeton Foundation 與 Robert Wood Johnson Foundation 的具體撥款年份、Claremont Quality of Life Research Center 的成立年份等，因未親自訪問一手檔案，僅採二次來源轉述（🔴，請讀者以原始檔案為準）。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 2 處事實（Clifton APA 命名年份 1998→2002、稱謂「正向心理學之父」→「優勢本位心理學之父暨正向心理學祖父」）/ 刪 0 條可疑書目 / concept_tags 已填。
