@@ -91,7 +91,7 @@ de Shazer 1988 年提出三條 SFBT 的「rule of thumb」🔵：
 - de Shazer, S. (1994). *Words Were Originally Magic*. Norton. © 🟢 — 語言學轉向。
 - Berg, I. K. (1994). *Family Based Services: A Solution-Focused Approach*. Norton. © 🔵
 - Berg, I. K. & Miller, S. D. (1992). *Working with the Problem Drinker: A Solution-Focused Approach*. Norton. © 🟢
-- de Shazer, S., Dolan, Y., & Korman, H. (2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Haworth Press. © 🟢（de Shazer 遺著，與 Dolan、Korman 合著，非 1997 年「Tricks」單行本；兩者可能為不同文本，🔴 *Tricks* 之獨立書目資料待補）
+- de Shazer, S., Dolan, Y., & Korman, H. (2007). *More Than Miracles: The State of the Art of Solution-Focused Brief Therapy*. Haworth Press. © 🟢（de Shazer 遺著，與 Dolan、Korman 合著。P4 仲裁：查無 de Shazer 1997 年「*Tricks*」單行本，判定為捏造書目，已刪。）
 - O'Hanlon, B. & Weiner-Davis, M. (1989). *In Search of Solutions*. Norton. © 🟢
 - Miller, S. D., Hubble, M. A. & Duncan, B. L. (eds.) (1996). *Handbook of Solution-Focused Brief Therapy*. Jossey-Bass. © 🟢
 
@@ -186,7 +186,7 @@ SFBT 的方法學有兩個層次：**會談結構**（session architecture）與
 - **後設分析與系統性回顧**：  
   - Gingerich, W. J. & Eisengart, S. (2000). *Family Process*, 39(4), 477–498：對 15 項 SFBT 研究後設分析，結論支持其療效但樣本小。🟢  
   - Stams, G. J., et al. (2006). *Psychology of Addictive Behaviors*：針對青少年物質使用的 21 項研究，結論中等正向。🟡  
-  - Kim, J. S. (2008). *Research on Social Work Practice*, 18(2), 107–116：22 項研究後設分析，effect size 中等（d ≈ 0.5）。🟢  
+  - Kim, J. S. (2008). *Research on Social Work Practice*, 18(2), 107–116：22 項研究後設分析，effect size 為**小**（d ≈ 0.13–0.26，依結果類別而異），僅內化行為問題達統計顯著。🟢（P4 仲裁：原引「中等 d ≈ 0.5」與原論文不符，已更正。）  
   - Bond, C., et al. (2013). *Journal of Child Psychology and Psychiatry*：兒少與家庭應用系統性回顧，結論為「有潛力但證據仍薄」。🟡  
   - 2014 年 Cochrane 對憂鬱症的 SFBT 回顧：**結論證據不足**，需更大規模 RCT。🟠  
 - **神經科學與自然科學取向**：Schiepek 等（德國）以同步化分析（synergetics）嘗試為 SFBT 建立量化的歷程模型，但此脈絡與主流心理治療實證脫節。🟡  
@@ -241,7 +241,7 @@ SFBT 主要回應 **D11（自由命運改變）、D13（安頓修復平安）、
 **8.1 本篇未能完整查證者**
 - de Shazer 完整著作年表與版權細節（特別是早期 1982、1984 期刊文章），本篇以常見版本（1985 起書籍 + 1982 *Family Process* 文章）為主，少數年份未雙重確認。🟡  
 - 第二代治療師的具體貢獻日期（尤其 Beven、Iveson、Shennan 等英系），僅有大致時段。🟡  
-- 多項成效研究之 effect size 數字需回原始論文確認；本篇引述 Kim (2008) d ≈ 0.5、Stams (2006) 中等正向為常見綜述引用，但精確數值仍以原 PDF 為準。🟡  
+- 多項成效研究之 effect size 數字：Kim (2008) 已於 P4 仲裁核對原論文更正為 d ≈ 0.13–0.26（小效果，僅內化問題顯著）🟢；Stams (2006)「中等正向」仍為綜述引用，精確數值以原 PDF 為準。🟡  
 - SF-BTA 認證體系之當前制度，本篇僅以「多層次、ICASSF 認證」概述，細節待 SF-BTA 官網查核。🟡
 
 **8.2 學界仍未解決的爭議**
@@ -275,3 +275,5 @@ SFBT 主要回應 **D11（自由命運改變）、D13（安頓修復平安）、
 資料來源等級摘要：本篇以 🟢 / 🔵 級學術與一手著作為主幹；🟡 級延伸應用與跨文化研究為次級；🟠 級針對爭議與未解處明示不確定性。所有具體年份與出版資訊以 A/B 級為依據，C 級（百科）僅用於確認通識，數字宣稱（療效、後設分析）皆附作者—年份—期刊三段標示，便於讀者回溯查核。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（§2 de Shazer 學歷「音樂與數學」→「Fine Arts 學士與 MSSW 社會工作」；§2 Berg「1976 年加入 BFTC」→「1978 年共同創辦 BFTC」；§4 書目「1997 *Tricks* 即 More Than Miracles」→ 拆為 2007 年 de Shazer/Dolan/Korman 合著，*Tricks* 另標 🔴 待補）/ 刪 0 條可疑書目 / concept_tags 已填。
+
+> 🟢 P4 仲裁：2026-07-17 Opus；Kim (2008) effect size 更正為 d≈0.13–0.26（小）；刪捏造書目 de Shazer《Tricks》(1997)。

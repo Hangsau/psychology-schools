@@ -66,26 +66,29 @@
 ## 下次接手先做
 
 1. **P3 已完成**（48/48 reviewed，批次 1–10）。`STATUS.md` 全 🟢。
-2. **P4（當前階段）**：① 「P3 未決事項」清單（見下節）交 **Opus 仲裁**——逐條查證後改正文或維持標記；② 語義索引定稿（`tools/build-index.py` 已可跑：domain 13 / concept 37 標籤，檢查輸出格式是否符合與 religions-history merge 的需求）；③ 網站（先確認呈現形式，參考 religions-history 網站架構）。
-3. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
+2. **P4 ① 未決事項仲裁已完成**（2026-07-17 Opus，見下節）：12 條定案寫回正文、2 條維持爭議標記。
+3. **P4 剩餘**：② 語義索引定稿（`tools/build-index.py` 已可跑：domain 13 / concept 37 標籤，檢查輸出格式是否符合與 religions-history merge 的需求）；③ 網站（先確認呈現形式，參考 religions-history 網站架構）。
+4. GitHub 遠端：`https://github.com/Hangsau/psychology-schools`（public，gh 已登入 Hangsau）。做完直接 push，不用問。
 
-## P3 未決事項（批次全跑完後交 Opus 仲裁）
+## P3 未決事項 → P4 仲裁結果（2026-07-17 Opus）
 
-- **cbt**：REBT 精確改名年份（1992 / 1993 / 1995 三說），建議查 Albert Ellis Institute 檔案確認（批次 4，2026-07-17）。
-- **evolutionary-psychology**：Martin Daly 死亡年「2022」無法核實已降 🟠，建議查 McMaster University 紀念頁（批次 5，2026-07-17）。
-- **existential-psychology**：Frankl 集中營敘事的歷史學考證細節（Holocaust Studies 期刊 1980–2000s），§8 已標明，可交 Opus 仲裁（批次 5，2026-07-17）。
-- **humanistic-psychology**：Moustakas 1961《Loneliness and Love》原出版社待查；金字塔改編歸屬（McDermid 一說）學界有異說，文中維持有引用版本（批次 6，2026-07-17）。
-- **mbct**：Mark Williams 具體生年查無確認來源，已降 🟡 待補（批次 6，2026-07-17）。
-- **morita-therapy**：中村恆子 1990 英文著作（UC Press）查無確認，已降 🔴；建議以 WorldCat 查 Nakamura Tsuneko（批次 7，2026-07-17）。
-- **music-therapy**：台灣音樂治療學會成立年份（常見引用 2002）未以登記資料核實，標 🟡（批次 7，2026-07-17）。
-- **rebt**：Albert Ellis Institute「2021 改名」宣稱查無來源已降 🔴，建議向 albertellis.org 一手核實（批次 9，2026-07-17）。
-- **sfbt**：《Tricks》獨立書目資料待補；Kim 2008 / Stams 2006 效應量數字需原 PDF 核對（批次 9，2026-07-17）。
-- **social-constructionism**：§4 🔴 條目（Shotter 部分著作、Harré《The Discursive Mind》年份、Latour/Woolgar 版本差異）待逐一核對原典（批次 9，2026-07-17）。
-- **social-learning-theory**：Richard Walters 確切卒年查無可靠獨立文獻，標 🟡 待補（批次 10，2026-07-17）。
-- **social-psychology**：Milgram 服從實驗數字需原典核對（§8 已標）；Sherif 出生年 1906/1907 待原始文件比對；confidence 🟡（批次 10，2026-07-17）。
-- **systems-family-therapy**：Fromm-Reichmann 1948「schizophrenogenic mother」原文字眼、Carter & McGoldrick 初版合作模式、Minuchin 費城起始年（1965/1969）均 🟠 待補（批次 10，2026-07-17）。
-- **transactional-analysis**：Robert Goulding 生年（1917 vs 1930）、Berne McGill 醫學博士年份（1935 待核）、《I'm OK, You're OK》暢銷榜時長聲稱待補；confidence 🟡（批次 10，2026-07-17）。
-- **transpersonal-psychology**：「transpersonal」一詞最早使用者（Sutich 1969 vs Schutz 1958）、Jorge Ferrer 生卒年、ATP 會員數統計均待查；confidence 🟡（批次 10，2026-07-17）。
+> 每篇文末均附 `> 🟢 P4 仲裁` 紀錄行；正文修正處均留「P4 仲裁已定案」註記。
+
+- **cbt** ✅ 已定案：REBT 改名年＝1993 年 6 月（Ellis 於 *JRECBT* 發表更名說明論文）🟢。
+- **evolutionary-psychology** ✅ 已定案：Martin Daly 仍在世（McMaster 榮休教授）；「2022 逝世」為捏造，已刪。
+- **existential-psychology** 🟠 維持：Frankl 集中營敘事的歷史學考證屬真實學術爭議（Pytell 等 vs 傳統傳記），兩說並列不裁決。
+- **humanistic-psychology** ✅ 已定案：Moustakas 1961＝《Loneliness》（Prentice-Hall）；《Loneliness and Love》為 1972 另一部，正文已分列。金字塔歸屬異說維持並列。
+- **mbct** ✅ 已定案：J. Mark G. Williams 生年 1952 🟢。
+- **morita-therapy** ✅ 已定案：「中村恆子 1990（UC Press）」人＋書均為捏造，已清除；英文引介實為 David K. Reynolds《Morita Psychotherapy》（1976, UC Press）；森田 1921 原著英譯＝1998 SUNY Press（Kondo 譯、LeVine 編）。
+- **music-therapy** ✅ 已定案：1996「中華民國應用音樂推廣協會」為首個組織；「臺灣音樂治療學會」2024 正式立案；「2002」說不成立。
+- **rebt** ✅ 已定案：機構官名至今仍為 Albert Ellis Institute（官網核實）；「2021 改名」不成立，已刪。
+- **sfbt** ✅ 已定案：de Shazer《Tricks》查無此書＝捏造書目已刪；Kim 2008 效應量實為小（d ≈ 0.13–0.26），原「中等 d ≈ 0.5」已更正。
+- **social-constructionism** ✅ 已定案：《The Discursive Mind》＝1994（與 Gillett 合著，Sage）；《Laboratory Life》1979 Sage 初版 → 1986 Princeton UP 二版刪副標「Social」（原文版本順序寫反，已更正）。
+- **social-learning-theory** ✅ 已定案：Richard Walters 1918–1967（學術訃聞，PubMed 收錄）🟢。
+- **social-psychology** ✅ 已定案（免改）：Sherif 1906–1988 正文已正確；Milgram 數字已按 Perry 2013 標 🟠，維持現狀。
+- **systems-family-therapy** ✅ 部分定案：Fromm-Reichmann 1948 原文出處補齊（*Psychiatry* 11(3), 263–273）🟢；Minuchin 費城起始年＝1965（PCGC 主任），1981 紐約另創 Family Studies, Inc.。Carter & McGoldrick 合作模式 🟠 維持待補。
+- **transactional-analysis** ✅ 已定案：Robert Goulding 生年 1917 🟢；《The Power Is in the Pair》為捏造書名，實為《The Power Is in the Patient》（1978）＋《Changing Lives Through Redecision Therapy》（1979）；《I'm OK, You're OK》1972 登 NYT 榜首、在榜近兩年 🟢。
+- **transpersonal-psychology** ✅ 已定案：「transpersonal」已知最早文獻用例＝William James 1905–06 哈佛講義（Vich 1988 考證）；Jorge Ferrer 1968 年生、仍在世（「1953–2022」為捏造，已更正）。ATP 會員數統計維持待補。
 
 ## 已知限制
 

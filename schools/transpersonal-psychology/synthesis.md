@@ -2,7 +2,7 @@
 
 跨個人心理學（Transpersonal Psychology）正式成形於二十世紀中後期的美國，承接多重歷史脈絡。
 
-（一）思想前驅。哈佛心理學家 William James (1842–1910) 在《宗教經驗之種種》（The Varieties of Religious Experience, 1902, [B], PD）系統性描述神秘經驗、轉化經驗、皈依經驗的現象學，被視為本學派最常被引述的先驅，但 James 本人並未使用「transpersonal」一詞。義大利精神醫師 Roberto Assagioli (1888–1974) 自 1911 年起發展「心理合成」(psychosynthesis)，其分層意識模型（低層無意識、中層無意識、高層無意識、集體無意識、自我）早於 Maslow 與 Sutich 提出 [B-C]。
+（一）思想前驅。哈佛心理學家 William James (1842–1910) 在《宗教經驗之種種》（The Varieties of Religious Experience, 1902, [B], PD）系統性描述神秘經驗、轉化經驗、皈依經驗的現象學，被視為本學派最常被引述的先驅；James 曾於 1905–06 年哈佛授課講義中使用「transpersonal」一詞，Vich (1988, *Journal of Transpersonal Psychology*) 考證此為該詞目前已知最早的文獻用例 🟢 [B]。義大利精神醫師 Roberto Assagioli (1888–1974) 自 1911 年起發展「心理合成」(psychosynthesis)，其分層意識模型（低層無意識、中層無意識、高層無意識、集體無意識、自我）早於 Maslow 與 Sutich 提出 [B-C]。
 
 （二）機構化。1967–1968 年間，Abraham Maslow 與 Anthony Sutich 認為「第三勢力」（人本心理學）對神秘與超越經驗仍過於保留，倡議「第四勢力」；1969 年 Sutich 主編創刊《Journal of Transpersonal Psychology》[B, ©]；1971 年成立「Association for Transpersonal Psychology」（ATP），最初為美國人文心理學會 (AHP) 分支，1975 年獨立 [C]。
 
@@ -26,7 +26,7 @@
 
 **Michael Washburn (b. 1943)** — 美國心理學家。1990 年《Transpersonal Psychology in Psychoanalytic Perspective》(©) 以精神分析語彙重接 transpersonal 與深度心理學，提出「動態明暗」(dynamic darkness) 概念，強調靈性回歸需繞經身體與陰影 [B]。
 
-**Jorge N. Ferrer (1953–2022)** — 西班牙裔美國心理學家。2002 年《Revisioning Transpersonal Theory》(©) 批評主流 transpersonal 研究之認識論偏狹，主張「參與性精神性」(participatory spirituality) 與「多重內在之我」(multidimensional interiority pluralistic, MIRR) [B]。
+**Jorge N. Ferrer (1968– )** — 出生於巴塞隆納的西班牙裔美國心理學家，仍在世（草稿「1953–2022」為捏造，已更正 🟢）。2002 年《Revisioning Transpersonal Theory》(©) 批評主流 transpersonal 研究之認識論偏狹，主張「參與性精神性」(participatory spirituality) 與「多重內在之我」(multidimensional interiority pluralistic, MIRR) [B]。
 
 **Frances Vaughan (1935–2017)** — 美國臨床心理學家，1979 年《Awakening Intuition》(©) 為早期整合東西方靈性於心理治療之著作；1993 年與 Roger Walsh 合編《Paths Beyond Ego: The Transpersonal Vision》(©)。
 
@@ -166,3 +166,5 @@
 **（五）本綜述之限制**。本篇受限於一手原典之英文閱讀，未能系統性檢視非英語文獻（德語、法語、日語、中文之 transpersonal 文獻）；南半球、原住民、伊斯蘭世界之 transpersonal 表述未充分納入；Wilber 2005 年後之政治著作未深入評估；CIIS、Saybrook、Naropa 等機構之課程演變未追溯；Grof 與 Christina Grof 1980 年代後共同著作中對其早期 LSD 研究之修正亦需另文處理 [C, 🟠]。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（Ken Wilber 出版年齡 27→28 歲並補寫作年份、Frances Vaughan 卒年 2023→2017、Maslow 需求金字塔扭曲已避開）/ 無刪書目 / concept_tags 已填。
+
+> 🟢 P4 仲裁：2026-07-17 Opus；Ferrer 生卒更正 (1968– ) 仍在世；James 1905–06 講義已用 transpersonal 一詞（Vich 1988 考證）。

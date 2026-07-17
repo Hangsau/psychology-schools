@@ -14,7 +14,7 @@
 
 - **Murray Bowen（1913–1990）**。🔵 B 精神分析師出身，1954 年起在 NIMH（National Institute of Mental Health）住院病房工作，觀察到母親與住院兒子的症狀彼此影響，提出家庭作為情緒單位的概念。1965 年赴 Georgetown University 建立家庭研究計畫。核心貢獻：**自我分化**（differentiation of self）、**三角關係**（triangulation）、**家庭情緒系統**（family emotional system）、**原生家庭自我分析**（genogram work）。1978 年出版《Family Therapy in Clinical Practice》整合其理論。A 原典。
 
-- **Salvador Minuchin（1921–2017）**。🔵 B 阿根廷裔以色列籍精神分析師，1965 年在費城兒童醫院創立 **Family Studies, Inc.**，並主持費城兒童指導診所（Philadelphia Child Guidance Clinic）多年。核心貢獻：**結構家族治療**（structural family therapy）與「**界限**」（boundaries）、「**subsystems**」、「**enmeshment / disengagement**」等概念。1974 年出版《Families and Family Therapy》為教科書經典。A 原典。
+- **Salvador Minuchin（1921–2017）**。🔵 B 阿根廷裔以色列籍精神分析師，1965 年起出任費城兒童指導診所（Philadelphia Child Guidance Clinic）主任並主持多年；1981 年於紐約另創 **Family Studies, Inc.**（後更名 Minuchin Center for the Family）。核心貢獻：**結構家族治療**（structural family therapy）與「**界限**」（boundaries）、「**subsystems**」、「**enmeshment / disengagement**」等概念。1974 年出版《Families and Family Therapy》為教科書經典。A 原典。
 
 - **Virginia Satir（1916–1988）**。🔵 B 美國家族治療的另一位共同創始人。自 1951 年起從事家族治療，先後在芝加哥、伊利諾伊州立精神衛生機構工作，後於 1970 年代赴加州創立 **Satir Institute**（亦稱 Avanta Network）。風格強調治療師的自我、溝通姿態（**placater / blamer / computer / distractor** 四類溝通者姿態）與家庭自我價值（self-esteem）。代表著作 1964 年《Conjoint Family Therapy》、1972 年《Peoplemaking》。A 原典。
 
@@ -321,9 +321,9 @@ Satir 的技術強調整個身體與情緒的體驗：🔵 B
 
 以下為本綜述中未能完全驗證、或學界仍有爭議的項目：
 
-- **「Schizophrenogenic mother」概念由 Frieda Fromm-Reichmann 提出**。🔵 此點被廣泛引用，但部分史學者質疑其概念是否被 Fromm-Reichmann 原意過度延伸。Fromm-Reichmann 1948 年文章中是否真的使用此詞，需逐字核對原文（🟠 **資料待補**）。
+- **「Schizophrenogenic mother」概念由 Frieda Fromm-Reichmann 提出**。🔵 P4 仲裁已定案：該詞確實出現於 Fromm-Reichmann (1948) "Notes on the Development of Treatment of Schizophrenics by Psychoanalytic Psychotherapy," *Psychiatry*, 11(3), 263–273 🟢；「後續學界將其原意過度延伸」的史學批評則屬持續爭論，維持並列。
 - **Carter & McGoldrick 第一版的具體合作分工**。Carter 於 1987 年過世，第一版（1980）的合作模式究竟為「合編」還是「合著」，學界敘述不一（🟠 **資料待補**）。
-- **Minuchin 的費城工作啟動年份**。常見寫 1965 年，但其任職費城兒童指導診所（Philadelphia Child Guidance Clinic）並成立 Family Studies, Inc. 的時間，部分文獻記 1965、部分記 1969（🟠 **資料待補**）。
+- **Minuchin 的費城工作啟動年份**。P4 仲裁已定案：1965 年出任費城兒童指導診所主任 🟢；Family Studies, Inc. 則為 1981 年於紐約創立（草稿將兩事混併，§2 已更正）。
 - **Selvini Palazzoli 與米蘭團隊成員更替**。1978、1980、1985 等幾個關鍵時點的成員構成有時被簡化；Boscolo 與 Cecchin 後續的合作與分歧需另文梳理（🟠 **資料待補**）。
 - **功能性家族治療（FFT）對青少年犯罪的實證強度**。一般認為「中等到高」，但 Cochrane 回顧的更新情況依不同國家政策差異大（🟡）。
 
@@ -348,3 +348,5 @@ Satir 的技術強調整個身體與情緒的體驗：🔵 B
 家族治療不是一門只有一種答案的學科，而是一組共享某些概念工具、但對「**人是什麼**」「**改變如何發生**」的回答各不相同的臨床傳統。本綜述的目標是把這組傳統的核心地圖繪出，而非宣稱其中某一派為唯一正確。🟡
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Jay Haley 生卒年更正 1933–2022 → 1923–2007）/ 無刪書目 / concept_tags 已填。
+
+> 🟢 P4 仲裁：2026-07-17 Opus；Fromm-Reichmann 1948 原文用詞已核實；Minuchin 1965＝PCGC 主任、Family Studies Inc.＝1981 紐約創立。

@@ -38,7 +38,7 @@
 
 **詹姆斯・布根塔爾（James F. T. Bugental, 1915–2008）**：生於俄亥俄州 Fort Wayne，密西根大學博士。1962–1969 任 AHP 首任會長。著作《追求真實性》（*The Search for Authenticity*, 1965）為人本取向的存在心理治療提供系統敘述；1981 年提出〈The Challenges of Humanistic Psychology〉一文，被視為對學派未來議題的自我反省。對「體驗式心理治療」（experiential psychotherapy）的實踐有系統性方法論貢獻。（🟡 B 級，Schneider 等 2008。）
 
-**克拉克・穆斯塔卡斯（Clark Moustakas, 1923–2012）**：希臘移民之子，從現象學路徑出發。1961 年《孤獨與愛》（*Loneliness and Love*）、1967 年編《存在式兒童照護》（*Existential Child Care*），1967 年《創造性》（*Creativity*）專書為高峰經驗與創造力的橋接文本，1994 年《存在式心理治療與存在諮商》（*Existential Psychotherapy and the Interpretation of Dreams*）。主張「現象學研究」（phenomenological research）作為人本心理學的標準方法論。（🟡 B 級，Schneider 等 2008。）
+**克拉克・穆斯塔卡斯（Clark Moustakas, 1923–2012）**：希臘移民之子，從現象學路徑出發。1961 年《孤獨》（*Loneliness*, Prentice-Hall；另一部《孤獨與愛》*Loneliness and Love* 為 1972 年出版）、1967 年編《存在式兒童照護》（*Existential Child Care*），1967 年《創造性》（*Creativity*）專書為高峰經驗與創造力的橋接文本，1994 年《存在式心理治療與存在諮商》（*Existential Psychotherapy and the Interpretation of Dreams*）。主張「現象學研究」（phenomenological research）作為人本心理學的標準方法論。（🟡 B 級，Schneider 等 2008。）
 
 **弗蘭克（Viktor Emil Frankl, 1905–1997）**：生於維也納，猶太裔，曾被關入四個納粹集中營（含 Auschwitz）並喪失家人。其「意義治療」（Logotherapy, 第三維也納精神治療學派）雖常與人本／存在心理學並列，但他自稱「存在分析第三學派」與 Freud（古典精神分析）、Adler（個體心理學）並列。其 1946 年原典《...trotzdem Ja zum Leben sagen: Ein Psychologe erlebt das Konzentrationslager》（中文常譯《活出意義來》）是先後由 Seelenart 與 Beacon Press 出版的版本。（🟡 B 級，Frankl 1969 *The Will to Meaning*；後續評估見 Lukas 2014《Meaning in Suffering》。）
 
@@ -402,7 +402,7 @@ Rogers 本人在 1970 年《On Encounter Groups》中已預見此風險，強調
 
 **8.6 資料待補 / 本篇未能完整查證**
 
-- Moustakas 1961《Loneliness and Love》原出版社版本（Princeton：Van Nostrand? 待確認）；
+- ~~Moustakas 1961 著作出版社~~ P4 仲裁已定案：1961 年著作為《Loneliness》（Prentice-Hall, Englewood Cliffs）；《Loneliness and Love》為 1972 年另一部著作 🟢；
 - 1920–1940 年代美國存在精神分析的具體人物網絡（Binswanger、Boss、Straus、Haeberlin、Oppenheimer 等）的中介傳遞鏈條；
 - 1980 年代以後中國心理學界引進人本心理學的詳細文獻脈絡（部分以二手中文文獻為依據，本篇對原始文獻未一一核查）；
 - Charlotte Bühler 與人本心理學的核心關係（Bühler 1969 *Humanistic Psychology and the Humanistic Movement in Germany*）；
@@ -416,3 +416,5 @@ Rogers 本人在 1970 年《On Encounter Groups》中已預見此風險，強調
 人本心理學的影響已深入其他學派，使得「純人本」的邊界難以劃定。本篇 §6.6 列舉的後續發展（正向心理學、第三波認知行為、敘事治療、超個人心理學、聚焦、羅森伯格 NVC）皆已是「後人本」（post-humanistic）獨立領域——它們各自有自身文獻、方法與爭議。本篇不將其整合為人本心理學的當代樣貌，以免膨脹學派邊界。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 0 處事實（Maslow 1943 論文卷期 50(4) 370–396 已驗證正確；known-distortions Maslow 金字塔已正確處理） / 刪 0 條可疑書目 / concept_tags 已填。
+
+> 🟢 P4 仲裁：2026-07-17 Opus；Moustakas 1961 著作定案為《Loneliness》(Prentice-Hall)；《Loneliness and Love》＝1972。

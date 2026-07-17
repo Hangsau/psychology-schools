@@ -11,10 +11,10 @@
 - **Eric Berne**（1910–1970）🟢 B。出生於 Montreal 的 Salvador Lenz 醫師家庭,1935 年獲 McGill 大學醫學博士,二戰退役後於紐約與康乃狄克接受精神分析訓練,1946 移居加州,曾任 Mount Zion 醫院精神科主任、《精神分析季刊》(Psychoanalytic Quarterly)編輯。1957 年起發展 TA,1961 年出版首部教科書,創立 ITAA。其人酷愛蘇格蘭詩人 Robert Burns 與巴洛克音樂,臨床筆記帶有強烈的劇場—文學色彩🔵 A。晚年自稱「臨床人類學者」(clinical anthropologist)（手稿存世🟡 C)。
 - **Patrick J. Mullarkey**🟡 C。早期追隨者之一,1963 年起協助將 TA 帶入英國倫敦、柏克萊等地。
 - **Stephen B. Karpman**（1931– ）🟢 B。精神科醫師,1968 年於 ITAA 通訊上發表〈Fairy Tales and Script Drama Analysis〉,正式提出「凱普曼三角／戲劇三角」(Drama Triangle)——迫害者—受害者—拯救者,為後來遊戲理論與腳本理論提供最常被複寫的圖像🔵 A。
-- **Thomas A. Harris**（1926–2010）🟢 B。精神科醫師,1967 年出版《I'm OK, You're OK》(長踞《紐約時報》暢銷榜逾 5 年⏳ 資料待補),將 TA 推至一般讀者,亦引發後續被宗教右派曲解之爭議🔵 A。
+- **Thomas A. Harris**（1926–2010）🟢 B。精神科醫師,1967 年出版《I'm OK, You're OK》(1972 年登上《紐約時報》非虛構類暢銷榜首,在榜近兩年 🟢),將 TA 推至一般讀者,亦引發後續被宗教右派曲解之爭議🔵 A。
 - **Claude M. Steiner**（1935–2023)🟢 B。1960 年起為 TA 學生,1974 年《Scripts People Live》系統整理腳本概念並提出「OK Corral」（我好你也好 vs 我壞你好）,深化 Berne 的人格理論🔵 A。
 - **Taibi Kahler**（1934–2021)🟢 C。受行為治療訓練,1970 年代辨識出五種「駕駛者」(drivers):要完美、要努力、取悅他人、要堅強、要趕快,並由主駕駛者對應小腳本(mini-script)運作🔵 A。
-- **Robert L. Goulding**（1917–1992）與 **Mary M. Goulding**（1925–2008）🟢 B。夫妻檔整合 TA 與完形治療，於 1979 年《The Power Is in the Pair》提出「再決定治療」，主張童年期做成、可在當下重新決定的腳本🔵 A。（Robert 生年另有 1930 年之說，確切年份仍待原典核對 🟡）
+- **Robert L. Goulding**（1917–1992）與 **Mary M. Goulding**（1925–2008）🟢 B。夫妻檔整合 TA 與完形治療，以 1978 年《The Power Is in the Patient》與 1979 年《Changing Lives Through Redecision Therapy》提出「再決定治療」，主張童年期做成、可在當下重新決定的腳本🔵 A。（Robert 生年 1917 已核實 🟢；草稿所列書名《The Power Is in the Pair》為捏造，已更正。）
 - **Muriel James**（1928–2008）🟢 C。與 Jongeward 合著《Born to Win》(1971),從發展心理學角度增補 TA,亦為學校推廣之要角🔵 A。
 - **Jacqui L. Schiff**（1909–1995）🟠 D。被 Berne 收為學生,後因 1970 年代「兒童治療密室(cathexis)」爭議而在 ITAA 主流外另立系統,提出被動性(passivity)與第二代腳本理論。
 - **Asa L. Thomas**與早期財務支持者 **Philadelphia 中產階級讀書會**群體(文獻散見《TA Journal》早期卷)🟡 C。
@@ -54,7 +54,8 @@ TA 的理論地基是**自我狀態**(ego state)。Berne 在 1961 區分**結構
 - Berne, E. (1972). *What Do You Say After You Say Hello?*. Grove Press.©。腳本理論的主整合。
 - Steiner, C. M. (1974). *Scripts People Live*. New York: Grove Press. ©。
 - Harris, T. A. (1969). *I'm OK, You're OK*. New York: Harper & Row. ©。
-- Goulding, R. L. & Goulding, M. M. (1979). *The Power Is in the Pair*. San Francisco: EMText. ©。
+- Goulding, R. L. & Goulding, M. M. (1978). *The Power Is in the Patient*. San Francisco: TA Press. ©。
+- Goulding, M. M. & Goulding, R. L. (1979). *Changing Lives Through Redecision Therapy*. New York: Brunner/Mazel. ©。
 - Karpman, S. B. (1968). 「Fairy Tales and Script Drama Analysis」, *Transactional Analysis Journal*。©期刊。
 - James, M. & Jongeward, D. (1971). *Born to Win*. Addison-Wesley. ©。
 - Schiff, J. L. et al. (1975). *Cathexis Reader*. ©。
@@ -114,3 +115,5 @@ TA 之預設回應(D2、D3、D4)乃自其問題架構直接推得:
 - TA 是否能正確歸入「**後現代**」之分類尚有爭議:TA 主要概念從現代主義(精神分析)取向延伸,雖有後現代議題之相通處(如反權威、去中心化個案主體),但其知識論仍偏向**實證—經驗論**(empiricist-functionalist)而非後現代社會建構主義,因此可能應被分類在「**最後現代(post-analytic, late-modern)**」之位置,與後現代結構性敘事治療、IPCC 反思分屬不同框架本專案 MAP 與 Inventory 需後續釐清(⚠️ 此項需向專案知識庫管理人確認分類依據)🟠。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 4 處事實（Mary Goulding 生卒年 1905–1984→1925–2008、Robert Goulding 卒年 1995→1992、ITAA 創立年 1966→1964、期刊名稱 TA Newsletter 1958→TA Bulletin 1962）/ 無刪書目 / concept_tags 已填。
+
+> 🟢 P4 仲裁：2026-07-17 Opus；Harris 暢銷榜定案（1972 登榜首、在榜近兩年）；Goulding 生年 1917 定案；捏造書名《The Power Is in the Pair》更正為《The Power Is in the Patient》(1978)＋《Changing Lives Through Redecision Therapy》(1979)。
