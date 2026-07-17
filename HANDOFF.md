@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-17（**P3 進行中：reviewed 33/48**（batch 7 完成））。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。批次進度：1–7 已推 master，剩 15 篇待校核。STATUS.md 由 gen-status.py 自動生（引擎已停，本批未重跑），會滯後於實際 review_state——以 meta.json / HANDOFF 為準。
+> 最後更新：2026-07-17（**P3 進行中：reviewed 35/48**（批次 7 完成））。P2 完成、簡體殘留已清（tools/scan-simplified.py）、已推 GitHub。P3 走「串行批次 + shotclock 跨窗接力」：協調 prompt = `tools/p3-resume-prompt.md`，撞牆協議見 PLAN §4。批次進度：1–7 已驗收推 master，剩 13 篇待校核（play-therapy 起，字母序）。
 
 ## 現況
 
@@ -76,6 +76,8 @@
 - **existential-psychology**：Frankl 集中營敘事的歷史學考證細節（Holocaust Studies 期刊 1980–2000s），§8 已標明，可交 Opus 仲裁（批次 5，2026-07-17）。
 - **humanistic-psychology**：Moustakas 1961《Loneliness and Love》原出版社待查；金字塔改編歸屬（McDermid 一說）學界有異說，文中維持有引用版本（批次 6，2026-07-17）。
 - **mbct**：Mark Williams 具體生年查無確認來源，已降 🟡 待補（批次 6，2026-07-17）。
+- **morita-therapy**：中村恆子 1990 英文著作（UC Press）查無確認，已降 🔴；建議以 WorldCat 查 Nakamura Tsuneko（批次 7，2026-07-17）。
+- **music-therapy**：台灣音樂治療學會成立年份（常見引用 2002）未以登記資料核實，標 🟡（批次 7，2026-07-17）。
 
 ## 已知限制
 

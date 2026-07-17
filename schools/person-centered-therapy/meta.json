@@ -4,8 +4,8 @@
   "name_en": "Person-Centered Therapy",
   "category": "五 人本與存在",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1940s–1980s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Carl Rogers"
@@ -16,12 +16,31 @@
     "D13",
     "D3"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "self-concept",
+    "therapeutic-relationship",
+    "self-actualization",
+    "emotion-regulation",
+    "consciousness",
+    "meaning-existential",
+    "resilience-wellbeing"
+  ],
+  "keywords": [
+    "個人中心治療",
+    "Carl Rogers",
+    "無條件正向關懷",
+    "同理理解",
+    "一致性",
+    "現實化傾向",
+    "六項條件",
+    "自我概念",
+    "非指導式",
+    "充分功能"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Rogers 1942/1951/1957/1959/1961/1980 全系列）為主；B 學術傳記與研究綜述（Kirschenbaum 2007、Elliott et al. 2013）補充；已明確區分六項條件 vs 三項常見簡化",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T19:20:17"
 }

@@ -4,8 +4,8 @@
   "name_en": "Naikan Therapy",
   "category": "十二 本土非西方",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–現在",
+  "region": "日本",
   "lineage": [],
   "figures": [
     "吉本伊信"
@@ -16,12 +16,31 @@
     "D7",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
+  "concept_tags": [
+    "insight-oriented",
+    "narrative-meaning",
+    "self-concept",
+    "therapeutic-relationship",
+    "cultural-context",
+    "attachment-bond",
+    "meaning-existential"
+  ],
+  "keywords": [
+    "內觀療法",
+    "吉本伊信",
+    "三主題反省",
+    "恩",
+    "自覺",
+    "如實看見",
+    "更生保護",
+    "酒精依存症",
+    "日本本土心理治療",
+    "結構化反省"
+  ],
   "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "review_state": "reviewed",
+  "confidence_overall": "🟡",
+  "sources_tier_summary": "A 原典（吉本 1958）定錨；B 為主（稻場 2005、三木 1990、中村 2003）；英文文獻極少，🔴 標注；跨文化 RCT 缺乏",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T19:35:31"
 }

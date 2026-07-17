@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 11:56
+> 引擎自動更新。最後更新：2026-07-17 12:04
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：30
-- 🟡 草稿 draft（待校核）：18
+- 🟢 已校核 reviewed：35
+- 🟡 草稿 draft（待校核）：13
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -30,7 +30,7 @@
 | 🟢 | `gestalt-therapy` | 完形治療 | 四 完形取向 | reviewed | 42KB |
 | 🟢 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | reviewed | 55KB |
 | 🟢 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | reviewed | 38KB |
-| 🟡 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | draft | 28KB |
+| 🟢 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | reviewed | 28KB |
 | 🟢 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | reviewed | 32KB |
 | 🟢 | `cbt` | 認知行為學派 | 六 認知與科學 | reviewed | 29KB |
 | 🟢 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | reviewed | 46KB |
@@ -47,17 +47,17 @@
 | 🟡 | `reality-therapy` | 現實治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `social-constructionism` | 社會建構論 | 九 社會文化 | draft | 34KB |
 | 🟢 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | reviewed | 39KB |
-| 🟡 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | draft | 35KB |
+| 🟢 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | reviewed | 35KB |
 | 🟢 | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | reviewed | 32KB |
 | 🟡 | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | draft | 37KB |
 | 🟢 | `attachment-theory` | 依附理論 | 十 系統與關係 | reviewed | 30KB |
 | 🟢 | `art-therapy` | 藝術治療 | 十一 表達性藝術 | reviewed | 34KB |
 | 🟡 | `play-therapy` | 遊戲治療 | 十一 表達性藝術 | draft | 38KB |
 | 🟡 | `psychodrama` | 心理劇 | 十一 表達性藝術 | draft | 25KB |
-| 🟡 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | draft | 20KB |
+| 🟢 | `music-therapy` | 音樂治療 | 十一 表達性藝術 | reviewed | 20KB |
 | 🟢 | `indigenous-psychology` | 本土心理學 | 十二 本土非西方 | reviewed | 33KB |
-| 🟡 | `morita-therapy` | 森田療法 | 十二 本土非西方 | draft | 32KB |
-| 🟡 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | draft | 38KB |
+| 🟢 | `morita-therapy` | 森田療法 | 十二 本土非西方 | reviewed | 33KB |
+| 🟢 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | reviewed | 38KB |
 | 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 36KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
 | 🟢 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | reviewed | 25KB |
