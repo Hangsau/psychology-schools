@@ -12,7 +12,7 @@
 
 ## 2. 代表人物
 
-**George L. Engel (1912–1999)** — 美國精神醫學家、內科訓練出身。1948–1999 年任教於 University of Rochester, Department of Psychiatry。1950–60 年代研究精神因素對生理疾病的影響（如悲痛、急性情緒壓力對心血管事件的效應）；1961 年發表對女兒猝逝之臨床自我觀察〈Is grief a disease? A Challenge for Medical Research〉(1961, [A], ©)；1977 年發表 BPS 原典論文 [A]。1978 年與 William R. Moran 合編***The Course of Illness: A Key to BPS Diagnosis***等著作推廣臨床套用 [B]。
+**George L. Engel (1913–1999)** — 美國精神醫學家、內科訓練出身。1948–1999 年任教於 University of Rochester, Department of Psychiatry。1950–60 年代研究精神因素對生理疾病的影響（如悲痛、急性情緒壓力對心血管事件的效應）；1961 年發表對女兒猝逝之臨床自我觀察〈Is grief a disease? A Challenge for Medical Research〉(1961, [A], ©)；1977 年發表 BPS 原典論文 [A]。1978 年與 William R. Moran 合編***The Course of Illness: A Key to BPS Diagnosis***等著作推廣臨床套用 [B]。
 
 **Adolf Meyer (1866–1950)** — 瑞士裔美國精神科醫師，Johns Hopkins 大學。「心理生物學」(psychobiology) 學派創始人。主張以時間軸整體觀察個體之「生活記錄」(life chart) 與社交—情緒—生物因素交織的發展 [B]。被 Engel 自承為重要前驅 [A]。
 
@@ -167,3 +167,5 @@
 **（五）跨文化適用性**。BPS 主要由北美主流醫學傳統中發展；其在東亞、原住民、低收入國家之文化轉譯品質不等；kleinman 等提示文化變項需更多在地化研究 [B, 🟡]。
 
 **（六）本綜述之限制**。本篇受限於以下：① 未能逐字檢視 Engel 1980 年《American Journal of Psychiatry》全文章節；② 對 Ghaemi 2012 書中具體章節論證之回應未深入辯證；③ 未系統性檢視非英語文獻（德語心身醫學傳統、法語身體現象學、漢語中醫對 BPS 之接受）；④ Engel 1999 年去世前所完成之最後文章與 posthumous writings 未能系統搜尋；⑤ PNI、社會神經科學之近期 (2020 年代) 研究證據未完整網羅；⑥ ICF 與 DSM 5-TR 之最新互動應用未深入探討；⑦ BPS 在中國、台灣、日本醫學教育中之接受度缺乏可靠實證調查 [C, 🟠]。
+
+> 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Engel 生年 1912→1913）/ 書目無可疑條目 / concept_tags 已填。

@@ -4,11 +4,13 @@
   "name_en": "Cultural-Historical Psychology",
   "category": "九 社會文化",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1920s–1930s（及後續西方復興 1970s–至今）",
+  "region": "蘇聯／俄羅斯",
   "lineage": [],
   "figures": [
-    "Lev Vygotsky"
+    "Lev Vygotsky",
+    "Alexander Luria",
+    "Alexei Leontiev"
   ],
   "is_therapy_school": false,
   "domain_tags": [
@@ -16,12 +18,31 @@
     "D5",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "social-construction",
+    "developmental-stages",
+    "cognition-processing",
+    "cultural-context",
+    "self-concept",
+    "social-influence",
+    "consciousness"
+  ],
+  "keywords": [
+    "Vygotsky",
+    "最近發展區間",
+    "ZPD",
+    "內化",
+    "中介",
+    "心理工具",
+    "活動理論",
+    "perezhivanie",
+    "文化心理學",
+    "Engeström"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（俄文原著及英文標準譯本）為主，B 學術二手（Kozulin、Wertsch、Cole）廣泛支撐，C 百科輔助",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T16:27:00"
 }

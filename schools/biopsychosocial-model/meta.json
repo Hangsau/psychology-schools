@@ -4,8 +4,8 @@
   "name_en": "Biopsychosocial Model",
   "category": "十三 當代整合",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1970s–2000s",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "George Engel"
@@ -14,12 +14,31 @@
   "domain_tags": [
     "D9"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "mind-body",
+    "biological-basis",
+    "psychopathology",
+    "social-construction",
+    "cultural-context",
+    "therapeutic-relationship",
+    "resilience-wellbeing"
+  ],
+  "keywords": [
+    "生物心理社會",
+    "系統論",
+    "中介工具",
+    "病感",
+    "疾病",
+    "Engel",
+    "整合醫學",
+    "社會決定因素",
+    "健康心理學",
+    "敘事醫學"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Engel 1977 Science 論文為核心）為主，B 學術二手補強，C 少量",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T17:38:24"
 }

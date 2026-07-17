@@ -4,24 +4,46 @@
   "name_en": "Cognitive Psychology",
   "category": "六 認知與科學",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1956年–至今",
+  "region": "美國／英國",
   "lineage": [],
   "figures": [
     "Piaget",
-    "Neisser"
+    "Neisser",
+    "Miller",
+    "Beck",
+    "Broadbent"
   ],
   "is_therapy_school": false,
   "domain_tags": [
     "D6",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "cognition-processing",
+    "perception-gestalt",
+    "emotion-regulation",
+    "motivation-drive",
+    "self-concept",
+    "developmental-stages",
+    "conditioning"
+  ],
+  "keywords": [
+    "認知革命",
+    "資訊處理",
+    "工作記憶",
+    "注意力",
+    "啟發式偏誤",
+    "Neisser",
+    "Miller",
+    "Kahneman",
+    "認知神經科學",
+    "雙系統理論"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "B 為主（學術教科書與同儕審查論文），A 原典（Neisser 1967、Baddeley & Hitch 1974 等）定錨，少量 C",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T18:13:14"
 }

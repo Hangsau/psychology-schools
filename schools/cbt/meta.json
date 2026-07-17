@@ -4,25 +4,44 @@
   "name_en": "Cognitive Behavioral Therapy",
   "category": "六 認知與科學",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–至今",
+  "region": "美國",
   "lineage": [],
   "figures": [
     "Aaron Beck",
     "Albert Ellis"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D6",
     "D9",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "cognitive-restructuring",
+    "behavior-change",
+    "psychopathology",
+    "emotion-regulation",
+    "conditioning",
+    "mindfulness-acceptance",
+    "therapeutic-relationship"
+  ],
+  "keywords": [
+    "認知行為治療",
+    "自動思考",
+    "核心信念",
+    "認知扭曲",
+    "行為實驗",
+    "暴露療法",
+    "Beck",
+    "Ellis",
+    "REBT",
+    "第三波CBT"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Beck、Ellis 原著）為主，B 學術二手廣泛支撐，Cochrane 系統回顧",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:19:58"
 }

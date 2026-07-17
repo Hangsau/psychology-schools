@@ -1,13 +1,13 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-17 11:31
+> 引擎自動更新。最後更新：2026-07-17 11:38
 
 ## 進度
 
 `████████████████████` **48/48** (100%) 已產綜述
 
-- 🟢 已校核 reviewed：15
-- 🟡 草稿 draft（待校核）：33
+- 🟢 已校核 reviewed：20
+- 🟡 草稿 draft（待校核）：28
 - ⬜ 待產 queued：0
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 
@@ -31,8 +31,8 @@
 | 🟡 | `humanistic-psychology` | 人本心理學 | 五 人本與存在 | draft | 55KB |
 | 🟡 | `existential-psychology` | 存在主義心理學 | 五 人本與存在 | draft | 38KB |
 | 🟡 | `person-centered-therapy` | 個人中心治療 | 五 人本與存在 | draft | 28KB |
-| 🟡 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | draft | 32KB |
-| 🟡 | `cbt` | 認知行為學派 | 六 認知與科學 | draft | 29KB |
+| 🟢 | `cognitive-psychology` | 認知心理學 | 六 認知與科學 | reviewed | 32KB |
+| 🟢 | `cbt` | 認知行為學派 | 六 認知與科學 | reviewed | 29KB |
 | 🟢 | `biological-psychology` | 生理／神經心理學 | 六 認知與科學 | reviewed | 46KB |
 | 🟡 | `evolutionary-psychology` | 演化心理學 | 六 認知與科學 | draft | 27KB |
 | 🟡 | `dbt` | 辯證行為治療 | 七 第三波 | draft | 27KB |
@@ -40,13 +40,13 @@
 | 🟡 | `mbct` | 正念認知治療 | 七 第三波 | draft | 31KB |
 | 🟡 | `mbsr` | 正念減壓 | 七 第三波 | draft | 31KB |
 | 🟡 | `rebt` | 理情行為治療 | 七 第三波 | draft | 22KB |
-| 🟡 | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | draft | 27KB |
+| 🟢 | `constructivist-psychotherapy` | 建構主義心理治療 | 八 後現代 | reviewed | 27KB |
 | 🟢 | `narrative-therapy` | 敘事治療 | 八 後現代 | reviewed | 41KB |
 | 🟡 | `sfbt` | 焦點解決短期治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `transactional-analysis` | 溝通分析 | 八 後現代 | draft | 18KB |
 | 🟡 | `reality-therapy` | 現實治療 | 八 後現代 | draft | 29KB |
 | 🟡 | `social-constructionism` | 社會建構論 | 九 社會文化 | draft | 34KB |
-| 🟡 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | draft | 39KB |
+| 🟢 | `cultural-historical-psychology` | 文化歷史心理學 | 九 社會文化 | reviewed | 39KB |
 | 🟡 | `multicultural-feminist-therapy` | 多元文化／女性主義治療 | 九 社會文化 | draft | 35KB |
 | 🟢 | `cross-cultural-psychology` | 跨文化心理學 | 九 社會文化 | reviewed | 32KB |
 | 🟡 | `systems-family-therapy` | 系統／家族治療 | 十 系統與關係 | draft | 37KB |
@@ -60,7 +60,7 @@
 | 🟡 | `naikan-therapy` | 內觀療法 | 十二 本土非西方 | draft | 38KB |
 | 🟡 | `positive-psychology` | 正向心理學 | 十三 當代整合 | draft | 36KB |
 | 🟡 | `transpersonal-psychology` | 跨個人心理學 | 十三 當代整合 | draft | 23KB |
-| 🟡 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | draft | 25KB |
+| 🟢 | `biopsychosocial-model` | 心理生物社會模式 | 十三 當代整合 | reviewed | 25KB |
 | 🟡 | `social-psychology` | 社會心理學 | 十三 當代整合 | draft | 28KB |
 | 🟡 | `health-psychology` | 健康心理學 | 十三 當代整合 | draft | 12KB |
 

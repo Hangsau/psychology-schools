@@ -4,23 +4,44 @@
   "name_en": "Constructivist Psychotherapy",
   "category": "八 後現代",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1955年–至今",
+  "region": "美國／義大利",
   "lineage": [],
   "figures": [
-    "George Kelly"
+    "George Kelly",
+    "Michael Mahoney",
+    "Robert Neimeyer"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D2",
     "D11"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "self-concept",
+    "narrative-meaning",
+    "cognitive-restructuring",
+    "social-construction",
+    "therapeutic-relationship",
+    "meaning-existential",
+    "insight-oriented"
+  ],
+  "keywords": [
+    "個人建構心理學",
+    "Kelly",
+    "建構替代主義",
+    "角色網格",
+    "意義重建",
+    "固定角色治療",
+    "Mahoney",
+    "Neimeyer",
+    "後理性主義",
+    "哀傷治療"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典（Kelly 1955 兩卷本）為核心，B 學術二手（Mahoney、Neimeyer、Guidano）補強，書目已核對",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T15:57:46"
 }
