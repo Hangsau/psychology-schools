@@ -4,8 +4,8 @@
   "name_en": "Humanistic Psychology",
   "category": "五 人本與存在",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1950s–1970s（核心）；後續影響持續至今",
+  "region": "美國（後擴展至英國、歐洲）",
   "lineage": [],
   "figures": [
     "Maslow",
@@ -18,12 +18,33 @@
     "D8",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "self-actualization",
+    "self-concept",
+    "motivation-drive",
+    "therapeutic-relationship",
+    "meaning-existential",
+    "consciousness",
+    "transpersonal-spiritual"
+  ],
+  "keywords": [
+    "自我實現",
+    "需求層次",
+    "高峰經驗",
+    "當事人中心治療",
+    "無條件積極關注",
+    "存在心理學",
+    "第三勢力",
+    "現象學",
+    "聚焦",
+    "人的潛能"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 級原典豐富（Maslow、Rogers 原著、Rogers 1957 期刊），B 級傳記與當代學術綜述，少量 🟡 待補細節",
   "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T15:02:58"
+  "generated_at": "2026-07-16T15:02:58",
+  "reviewed_by": "claude-sonnet-4-6 P3",
+  "reviewed_at": "2026-07-17"
 }

@@ -4,8 +4,8 @@
   "name_en": "Indigenous Psychology",
   "category": "十二 本土非西方",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1970s–至今",
+  "region": "臺灣（華人本土心理學核心）；全球各地同步興起",
   "lineage": [],
   "figures": [
     "楊國樞 等"
@@ -16,12 +16,33 @@
     "D4",
     "D2"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "cultural-context",
+    "self-concept",
+    "social-construction",
+    "power-gender",
+    "social-influence",
+    "attachment-bond",
+    "family-systems"
+  ],
+  "keywords": [
+    "本土化",
+    "emic研究",
+    "etic研究",
+    "面子",
+    "人情",
+    "儒家關係主義",
+    "孝道",
+    "家族主義",
+    "楊國樞",
+    "文化心理學"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "B 為主（楊國樞、黃光國學術著作、期刊論文），少量 🟡 待補細節（APIPA 組織沿革、第二代學者生年等）",
   "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T18:34:02"
+  "generated_at": "2026-07-16T18:34:02",
+  "reviewed_by": "claude-sonnet-4-6 P3",
+  "reviewed_at": "2026-07-17"
 }

@@ -74,6 +74,8 @@
 - **cbt**：REBT 精確改名年份（1992 / 1993 / 1995 三說），建議查 Albert Ellis Institute 檔案確認（批次 4，2026-07-17）。
 - **evolutionary-psychology**：Martin Daly 死亡年「2022」無法核實已降 🟠，建議查 McMaster University 紀念頁（批次 5，2026-07-17）。
 - **existential-psychology**：Frankl 集中營敘事的歷史學考證細節（Holocaust Studies 期刊 1980–2000s），§8 已標明，可交 Opus 仲裁（批次 5，2026-07-17）。
+- **humanistic-psychology**：Moustakas 1961《Loneliness and Love》原出版社待查；金字塔改編歸屬（McDermid 一說）學界有異說，文中維持有引用版本（批次 6，2026-07-17）。
+- **mbct**：Mark Williams 具體生年查無確認來源，已降 🟡 待補（批次 6，2026-07-17）。
 
 ## 已知限制
 

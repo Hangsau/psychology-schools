@@ -4,8 +4,8 @@
   "name_en": "Health Psychology",
   "category": "十三 當代整合",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1970s–至今",
+  "region": "美國（後擴展至全球）",
   "lineage": [],
   "figures": [],
   "is_therapy_school": false,
@@ -13,12 +13,33 @@
     "D9",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
-  "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T22:21:24"
+  "concept_tags": [
+    "mind-body",
+    "resilience-wellbeing",
+    "emotion-regulation",
+    "mindfulness-acceptance",
+    "behavior-change",
+    "social-influence",
+    "psychopathology"
+  ],
+  "keywords": [
+    "生物心理社會模式",
+    "壓力因應",
+    "健康行為",
+    "疾病預防",
+    "正念減壓",
+    "社會支持",
+    "心理神經免疫學",
+    "健康本源學",
+    "行為改變",
+    "慢性病"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A/B 為主（Engel 1977 原典、Lazarus & Folkman 1984、Taylor 教科書），少量 C；無 D 級來源",
+  "generated_by": "claude-opus (Opus P2 補寫)",
+  "generated_at": "2026-07-16T22:21:24",
+  "reviewed_by": "claude-sonnet-4-6 P3",
+  "reviewed_at": "2026-07-17"
 }

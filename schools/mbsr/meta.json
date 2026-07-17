@@ -4,24 +4,45 @@
   "name_en": "Mindfulness-Based Stress Reduction",
   "category": "七 第三波",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1979年–至今",
+  "region": "美國（麻州大學醫學院；後擴展至全球）",
   "lineage": [],
   "figures": [
     "Jon Kabat-Zinn"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D6",
     "D13",
     "D9"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "mindfulness-acceptance",
+    "emotion-regulation",
+    "mind-body",
+    "resilience-wellbeing",
+    "consciousness",
+    "psychopathology",
+    "behavior-change"
+  ],
+  "keywords": [
+    "正念",
+    "減壓",
+    "身體掃描",
+    "坐禪",
+    "內觀",
+    "慢性疼痛",
+    "Kabat-Zinn",
+    "八週課程",
+    "世俗化",
+    "接納"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典豐富（Kabat-Zinn 1990/2003/2011、Goyal 2014 JAMA、Hölzel 2011），B 級批評文獻完整（Purser 2019、Sharf 2015）；整體信心高",
   "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T15:45:58"
+  "generated_at": "2026-07-16T15:45:58",
+  "reviewed_by": "claude-sonnet-4-6 P3",
+  "reviewed_at": "2026-07-17"
 }

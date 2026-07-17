@@ -4,25 +4,46 @@
   "name_en": "Mindfulness-Based Cognitive Therapy",
   "category": "七 第三波",
   "category_id": 0,
-  "era": "",
-  "region": "",
+  "era": "1990s–至今",
+  "region": "英國（劍橋、牛津）；加拿大多倫多",
   "lineage": [],
   "figures": [
     "Segal",
     "Williams",
     "Teasdale"
   ],
-  "is_therapy_school": false,
+  "is_therapy_school": true,
   "domain_tags": [
     "D6",
     "D13"
   ],
-  "concept_tags": [],
-  "keywords": [],
-  "status": "draft",
-  "review_state": "pending",
-  "confidence_overall": "",
-  "sources_tier_summary": "",
+  "concept_tags": [
+    "mindfulness-acceptance",
+    "emotion-regulation",
+    "cognitive-restructuring",
+    "psychopathology",
+    "resilience-wellbeing",
+    "consciousness",
+    "behavior-change"
+  ],
+  "keywords": [
+    "正念",
+    "認知治療",
+    "憂鬱症復發預防",
+    "去中心化",
+    "差異激發假說",
+    "存在模式",
+    "後設覺察",
+    "三分鐘呼吸空間",
+    "第三波",
+    "MBCT"
+  ],
+  "status": "reviewed",
+  "review_state": "reviewed",
+  "confidence_overall": "🟢",
+  "sources_tier_summary": "A 原典豐富（Segal/Williams/Teasdale 2002/2013 手冊、Teasdale 1988/2000 論文），B 級 RCT 與 meta-analysis；整體信心高，少量數字已校正",
   "generated_by": "claude-m3 (MiniMax-M3)",
-  "generated_at": "2026-07-16T15:41:37"
+  "generated_at": "2026-07-16T15:41:37",
+  "reviewed_by": "claude-sonnet-4-6 P3",
+  "reviewed_at": "2026-07-17"
 }
