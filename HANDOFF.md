@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-18（**P5 薄尾完成：10/10 篇補全**，全部 push；verify ALL PASS / scan CLEAN）。下一步＝全庫深化 pass（其餘 38 篇同標準）待排；P4 ③ 網站待用戶指示呈現形式。
+> 最後更新：2026-07-18 晚（**P5 全庫深化管線運轉中**）。薄尾 10/10 ✅；深化已完成 bpsm + psychodrama；其餘 36 篇由 `tools/p5-deepen-runner.sh` 自動管線逐篇處理（隔離 `claude -p`＋自動驗證 commit push；佇列＝`methodology/p5-full-queue.md`）。**Agent tool 派發已棄用**（AUP 誤判兩度攔截）。撞牆會自動停寫 `logs/p5-runner.HALT`——接手先查該檔與佇列勾選狀態，重啟指令在佇列檔頭。P4 ③ 網站待用戶指示呈現形式。
 
 ## 現況
 
