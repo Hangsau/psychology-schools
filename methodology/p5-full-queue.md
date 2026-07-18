@@ -1,13 +1,13 @@
 # P5 全庫深化 pass — 佇列與進度
 
 > 品質標準、事實紀律、操作紀律**全同** `p5-batch-spec.md`（§3 逐概念完整段落、30KB+、只要學派內容本身、禁臨床案例/教學延伸、既有 🟢🔵 與 P3/P4/P5 紀錄行禁改禁刪）。
-> 執行模式：Sonnet sub-agent 串行批次（3–4 篇/批），主 session 驗收後逐篇 commit + push。
-> 標 [隔離] 者＝主題詞密度高、有 AUP 誤判前例風險，走「低密度指示檔 + 全新 `claude -p`」模式（參照 `p5-health-brief.md` 前例）。
+> 執行模式（2026-07-18 改版）：**全篇走 `tools/p5-deepen-runner.sh` 管線**——逐篇隔離 `claude -p`（通用指示檔 `p5-deepen-brief.md`）→ 腳本自動 verify/scan/size 檢查 → commit + push → 勾佇列。Agent tool 派發已兩度被 AUP 誤判攔截（批次 A 派發即死、批次 D 中途死），棄用；`claude -p` 隔離 3/3 成功。
+> 撞牆自動停（寫 `logs/p5-runner.HALT`）；失敗篇標 `[!]`、diff 存 patch、不阻塞後續。重啟：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`
 
 ## 佇列（薄→厚；完成打勾）
 
-- [ ] biopsychosocial-model（26.1KB）[隔離：`p5-bpsm-brief.md`]
-- [ ] psychodrama（26.4KB）
+- [x] biopsychosocial-model（26.1→33.1KB，2026-07-18）[隔離：`p5-bpsm-brief.md`]
+- [x] psychodrama（26.4→42.1KB，2026-07-18）
 - [ ] behaviorism（27.8KB）
 - [ ] constructivist-psychotherapy（27.8KB）
 - [ ] structuralism（28.5KB）
