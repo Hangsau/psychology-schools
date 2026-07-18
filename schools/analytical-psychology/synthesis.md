@@ -1,6 +1,6 @@
 ## 1. 定位與歷史脈絡
 
-分析心理學（Analytical Psychology, *Analytische Psychologie*）是瑞士精神科醫師卡爾·古斯塔夫·榮格（Carl Gustav Jung, 1875–1961）於二十世紀初葉創立之深度心理學（depth psychology）學派，屬於「精神分析」傳統之內部分裂產物。榮格於 1907 年與佛洛伊德（Sigmund Freud）首次會面後密切合作：1909 年榮格赴美於克拉克大學（Clark University）與佛洛伊德、費倫齊同台演講；1908–1912 年榮格參與籌組國際精神分析協會並擔任首任主席；1912 年二人共同編輯《精神分析與精神病病理學研究年鑑》（*Jahrbuch für psychoanalytische und psychopathologische Forschungen*）。🟢 來源等級 B（學術史文獻一致記載此歷程）
+分析心理學（Analytical Psychology, *Analytische Psychologie*）是瑞士精神科醫師卡爾·古斯塔夫·榮格（Carl Gustav Jung, 1875–1961）於二十世紀初葉創立之深度心理學（depth psychology）學派，屬於「精神分析」傳統之內部分裂產物。榮格於 1907 年與佛洛伊德（Sigmund Freud）首次會面後密切合作：1909 年榮格赴美於克拉克大學（Clark University）與佛洛伊德、費倫齊同台演講；1909 年創刊之《精神分析與精神病理學研究年鑑》（*Jahrbuch für psychoanalytische und psychopathologische Forschungen*）由榮格任主編（Bleuler 與 Freud 掛名指導），至 1913 年辭任；1910 年國際精神分析協會（IPA）於紐倫堡大會成立，榮格任首任主席，至 1914 年辭職。🟢 來源等級 B（學術史文獻一致記載此歷程）（P5 更正：原「1908–1912 參與籌組並任首任主席」「1912 二人共同編輯年鑑」之年代與角色描述不精確，改為上列可查證版本。）
 
 1912 年起，榮格與佛洛伊德之理論裂痕公開化：榮格反對佛洛伊德將「libido」窄化為純粹性驅力，主張其為廣義心理能量；並質疑佛洛伊德以幼年性創傷與俄狄浦斯情結為人格主軸之還原論立場。1912 年榮格出版《變遷中的象徵》（*Wandlungen und Symbole der Libido*；英譯 *Psychology of the Unconscious*, 1916；1952 修訂版改名 *Symbols of Transformation*），公開宣示其與佛洛伊德之路線分歧；其後榮格開始以「分析心理學」一詞區別於「精神分析」。🔵 來源等級 A（榮格本人著作）。
 
@@ -11,13 +11,16 @@
 ## 2. 代表人物
 
 - **卡爾·古斯塔夫·榮格**（Carl Gustav Jung, 1875–1961, 瑞士）：學派創始人。奠基集體無意識、原型、個體化、心理類型、同時性等核心概念。🟢 B
-- **東尼·沃爾夫**（Toni Wolff, 1888–1953, 瑞士）：榮格最親密之女性合作者。提出女性心理發展四階段理論（Bebe/Earth Woman、、Amazon、Hetaera/Eros、Medial/Mother/Priestess），並以身體—靈魂—精神（Soma–Psyche–Spiritus）三軸深化自性理論；其遺稿《女性心靈之結構形式》（*Structural Forms of the Feminine Psyche*）於 1956 年整理出版。🔵 A
-- **瑪麗-路易絲·馮·法蘭茲**（Marie-Louise von Franz, 1915–1998, 瑞士）：原型童話與數字原型研究之集大成者；《童話中的陰影》（*Shadow and Evil in Fairy Tales*, 1974）、《數字與時間》（*Zahl und Zeit* / *Number and Time*, 1974）、《個體化過程中阿尼瑪之角色》（*The Process of Individuation in the Feminine: As Reflected in the Alchemical Symbols and in the Symbols of the Unconscious*, 1982, B 等）。🟢 B
-- **埃里希·諾伊曼**（Erich Neumann, 1905–1960, 德裔以色列分析師）：原型心理學系統化；《意識起源之史》（*Ursprungsgeschichte des Bewusstseins*, 1949；英譯 *The Origins and History of Consciousness*, 1954）。🔵 A
-- **詹姆斯·希爾曼**（James Hillman, 1926–2011, 美國）：原型心理學（Archetypal Psychology）分支創始人；《重新設想心理學》（*Re-Visioning Psychology*, 1975）、《靈魂的密碼》（*The Soul's Code*, 1996）。🔵 A
-- **邁可·福特漢**（Michael Fordham, 1905–1995, 英國）：兒童分析心理學與「發展學派」（Developmental School）代表；《兒童分析心理學》（*Analytical Psychology in Children*, 1957 與修訂版）。🔵 A
-- **愛德華·艾丁格**（Edward F. Edinger, 1922–1998, 美國）：自我—自性軸理論代表；《自我與自性》（*Ego and Self*, 1972）、《聖母與索女》（*The Creation of Consciousness*, 1984, B 等）。🔵 A
-- **艾瑪·榮格**（Emma Jung, 1882–1955, 瑞士）：榮格之妻；《阿尼瑪與阿尼姆斯》（*The Animus and Anima*, 由兩篇 1927 年德文論文組編英譯版 1957）。🟢 B
+- **東尼·沃爾夫**（Toni Wolff, 1888–1953, 瑞士）：榮格最親密之女性合作者，蘇黎世心理學俱樂部長年主席。提出女性心理之四種結構型：母親（Mother）、情人／交際女（Hetaira）、亞馬遜（Amazon）、靈媒型女性（Medial Woman），四型構成兩條對立軸（母親—情人軸關聯個人關係；亞馬遜—靈媒軸關聯非個人／集體面向）；其論文〈女性心靈之結構形式〉（"Structural Forms of the Feminine Psyche"，1956 年英譯私印本流通）為代表作。🟢 B（P5 更正：原條目四型列名「Bebe/Earth Woman……Priestess」為訛誤混雜，依 Wolff 原文之四型改正；原「Soma–Psyche–Spiritus 三軸深化自性理論」查無對應出處，刪除。）
+- **瑪麗-路易絲·馮·法蘭茲**（Marie-Louise von Franz, 1915–1998, 瑞士）：原型童話與數字原型研究之集大成者，並為榮格晚年煉金術研究的主要協力者（*Mysterium Coniunctionis* 之姊妹卷《Aurora Consurgens》即由其撰寫）；《童話中的陰影》（*Shadow and Evil in Fairy Tales*, 1974）、《數字與時間》（*Zahl und Zeit* / *Number and Time*, 1974）、《童話中的女性》（*The Feminine in Fairy Tales*, 1972），並為 1964 合著卷《人及其象徵》（*Man and His Symbols*）撰寫〈個體化歷程〉專章。🟢 B（P5 更正：原條目所列 1982 年書名《The Process of Individuation in the Feminine: As Reflected in the Alchemical Symbols…》查無此書，疑為〈個體化歷程〉章名與其煉金術研究混合而成，刪除並改列實存著作。）
+- **埃里希·諾伊曼**（Erich Neumann, 1905–1960, 德裔以色列分析師）：原型發展理論系統化者，被榮格視為最具原創性的繼承人之一；《意識起源與歷史》（*Ursprungsgeschichte des Bewusstseins*, 1949；英譯 *The Origins and History of Consciousness*, 1954）以神話階段（銜尾蛇—大母神—英雄屠龍）重構意識演化；另著《大母神》（*The Great Mother*, 1955 英譯）。🔵 A
+- **詹姆斯·希爾曼**（James Hillman, 1926–2011, 美國）：原型心理學（Archetypal Psychology）分支創始人，曾任蘇黎世榮格學院研究部主任；《重新設想心理學》（*Re-Visioning Psychology*, 1975）、《靈魂的密碼》（*The Soul's Code*, 1996）。主張放棄「自性一元中心」改採多神式心靈意象論。🔵 A
+- **邁可·福特漢**（Michael Fordham, 1905–1995, 英國）：兒童分析心理學與「發展學派」（Developmental School）代表，提出嬰兒期「原初自性」（primary self）之去整合／再整合（deintegration–reintegration）模型，把個體化前移至生命起點並與克萊因派客體關係理論對接；《兒童分析心理學》（*Analytical Psychology in Children*）與《作為個體的兒童》（*Children as Individuals*, 1969）；並為《榮格全集》英文版共同主編。🔵 A
+- **愛德華·艾丁格**（Edward F. Edinger, 1922–1998, 美國）：自我—自性軸理論代表；《自我與原型》（*Ego and Archetype: Individuation and the Religious Function of the Psyche*, 1972）、《意識的創造》（*The Creation of Consciousness: Jung's Myth for Modern Man*, 1984）。🔵 A（P5 更正：原條目書名「《自我與自性》（*Ego and Self*）」與「《聖母與索女》」均誤，改正為實存書名。）
+- **艾瑪·榮格**（Emma Jung, 1882–1955, 瑞士）：榮格之妻、獨立執業分析師；《阿尼姆斯與阿尼瑪》（*Animus and Anima*，收 1931 年〈論阿尼姆斯問題〉等兩篇論文，英譯合編版 1957）；其聖杯傳說研究由 von Franz 續成（*The Grail Legend*, 1960 德文版）。🟢 B
+- **約蘭德·雅各比**（Jolande Jacobi, 1890–1973, 匈牙利—瑞士）：學派最重要的系統整理者與教學者，蘇黎世榮格學院創院要角；《榮格心理學》（*Die Psychologie von C. G. Jung*, 1940）長期作為標準入門，《情結／原型／象徵》（*Complex / Archetype / Symbol*, 英譯 1959）釐清三概念之關係。🟢 B
+- **安德魯·塞繆斯**（Andrew Samuels, 1949–, 英國）：後榮格學派的分類者與政治心理學開拓者；《榮格與後榮格學派》（*Jung and the Post-Jungians*, 1985）確立「古典／發展／原型」三學派地圖，為學派史標準框架。🟢 B
+- **河合隼雄**（Kawai Hayao, 1928–2007, 日本）：日本第一位於蘇黎世取得榮格分析師資格者（1965），將沙遊治療引入日本並定名「箱庭療法」，開展榮格心理學與佛教、日本神話之對話。🟢 B
 - **約瑟夫·坎伯**（Joseph Campbell, 1904–1987, 美國）：比較神話學者，雖非臨床分析師，但與榮格學派互動深遠，《千面英雄》（*The Hero with a Thousand Faces*, 1949）。🟡 C
 
 ## 3. 核心理論主張
@@ -28,9 +31,13 @@
 
 榮格將心靈劃分為：（a）**自我（ego）**——意識之中央，負責統整知覺、思考、情感與行動；（b）**個人無意識（personal unconscious）**——由情結構成，是個體一生被壓抑或遺忘之材料；（c）**集體無意識（collective unconscious）**——超越個體經驗、為全人類（或物種）所共享之深層結構。🟢 來源等級：A（《論集體無意識之概念》（*Der Begriff des kollektiven Unbewußten*, 1936/1969, *Gesammelte Werke* IX/1）。
 
+此三層結構的動力學前提是：**心靈是一個自我調節（selbstregulierend）的系統**。意識若發展得單方面偏頗，無意識即以夢、幻想、症狀進行**補償（Kompensation）**——補償不是對抗，而是系統恢復整體平衡的方式；這使榮格對症狀的讀法根本不同於佛洛伊德：症狀不只是妥協形成，更可能是心靈朝向整體性的未完成嘗試。🔵 A 與此相連的是其能量學：《論心靈能量》（*Über die Energetik der Seele*, 1928, C. W. Vol. 8）把 libido 重定義為中性心理能量，其運動遵循**等值原理**（某處能量消失必在他處以等量出現）與**熵原理**（對立面能量落差趨向平衡），並以**前行（Progression）／退行（Regression）**描述能量方向——前行是意識適應外界的日常運作，退行則是能量退回無意識；榮格強調退行不必然是病理，常是接觸深層資源、醞釀新適應的必要階段，此「退行的正面功能」是他與佛洛伊德臨床觀的重大分歧之一。🔵 A
+
 **3.2 原型（Archetypen / archetypes）**
 
-原型不是「具體形象」也不是「集體記憶」，而是「形式的可能性」（Form der Möglichkeit）——一種先天傾向，使人對特定經驗產生結構化反應。最重要之原型：
+原型不是「具體形象」也不是「集體記憶」，而是「形式的可能性」（Form der Möglichkeit）——一種先天傾向，使人對特定經驗產生結構化反應。榮格為避免「遺傳的意象」這一最常見誤讀，明確區分**原型自身（Archetypus an sich）**與**原型意象（archetypische Bilder）**：前者是不可直接觀察、無內容的結構傾向，後者才是該傾向在特定文化與個人經驗中被填充後的具體顯現——被遺傳的是「形式」，不是「圖像」。🔵 A（此區分在晚期論文〈論心靈的本質〉（*Theoretische Überlegungen über das Wesen des Psychischen*, 1946/1954, C. W. Vol. 8）中最完整。）同文提出**類心靈（psychoid）**概念與著名的光譜比喻：心靈過程展開於一條光譜上，「紅外端」沒入本能的生理過程，「紫外端」沒入原型的精神極；本能與原型是同一連續體的兩端，原型即「本能對自身的意象」——這使原型論同時錨定於生物學與意義結構，也為晚年同時性理論（心物非因果對應）預留了理論接口。🔵 A
+
+最重要之原型：
 
 - **自性（Self / das Selbst）**：心靈之整體與中心，常以曼陀羅、太陽、圓、基督、佛、*Atman* 等象徵出現。榮格強調自性非自我（ego），二者關係是「自我—自性軸」（ego-self axis），個體化即此軸之動態整合。🔵 A
 - **陰影（Shadow / der Schatten）**：心靈中被自我拒斥或忽略之部分；同類中較易辨識，異性中投影為陌生吸引力或恐懼。陰影對話（shadow work）是個體化早期關鍵。🔵 A
@@ -42,13 +49,19 @@
 
 情結是「心靈中可與自我分離之小人格」（eine abgespaltene Teilpersönlichkeit）。榮格由 1904–1906 年在蘇黎世布爾戈赫爾茲利（Burghölzli）醫院之「詞聯想實驗」（*Assoziationsexperiment*，與 Franz Riklin、Eugen Bleuler 合作）發現：受試者面對特定詞彙時之反應延宕與生理變化（呼吸、皮電）指向某種自主運作之次人格。1907 年論文《論早發性癡呆之心理學》（*Über die Psychologie der Dementia Praecox*）首度系統提出情結為「分裂意識單位」。🔵 A
 
+完整術語是「**帶有情調的情結**」（*gefühlsbetonter Komplex*, feeling-toned complex）：情結以一個原型核心為中心，聚集個人經驗材料，並以特定情緒基調（feeling-tone）標記；被觸發時可暫時奪取自我的功能（口誤、失神、情緒風暴），榮格稱「人人皆知有情結，卻不知情結能擁有我們」。🟢 B 理論上有兩個重要推論：① 情結是個人無意識與集體無意識的接點——情結的外殼是個人史，核心是原型；② **自我本身也是一個情結**（自我情結，ego-complex），只是它通常佔據意識的中心位置——這使「自我」在榮格體系中被相對化，為自性概念鋪路。🟢 B 情結概念是榮格對後世精神病理學的持久貢獻之一：解離、多重人格與創傷後侵入現象在此框架下均可讀為情結自主性的極端化；「情結」一詞進入日常語言（自卑情結、母親情結）亦源出此處（「自卑情結」的推廣則屬阿德勒一系）。🟢 B
+
 **3.4 心理類型（*Psychologische Typen*, 1921）**
 
-榮格區分**四種心理功能**——思維（Thinking）、情感（Feeling）、感覺（Sensation）、直覺（Intuition）——與**兩種態度**——外向（Extraversion）與內向（Introversion），組成八種基本類型。功能間有對立軸（思維—情感；感覺—直覺），個人傾向「主導功能」並壓抑「劣勢功能」，其發展即個體化之部分任務。🟢 B 此類型論是 MBTI（Myers-Briggs Type Indicator）之學理來源，但 Isabel Briggs Myers 與其母 Katharine Cook Briggs 加入第四維度（判斷—感知 J/P）並改為「特質」問卷；榮格本人晚年對此商業化版本表示保留（🟡 C，源自 Myers 家屬訪談記錄）。
+榮格區分**四種心理功能**——思維（Thinking）、情感（Feeling）、感覺（Sensation）、直覺（Intuition）——與**兩種態度**——外向（Extraversion）與內向（Introversion），組成八種基本類型。功能間有對立軸（思維—情感為「理性／判斷」功能對；感覺—直覺為「非理性／知覺」功能對），個人發展「主導功能」，以一至二個「輔助功能」（來自另一功能對）支援之，而主導功能的對立極成為「**劣勢功能**」（inferior function）——最不分化、最靠近無意識、最常以投射與情緒失控形式現身，但也因此是個體化中通往無意識的門戶；劣勢功能的整合是類型發展的終身任務。🟢 B（A: *Psychologische Typen*, 1921, C. W. Vol. 6）理論意圖上，《心理類型》同時是一部觀念史著作：榮格以外向／內向解讀歷史上的思想對立（唯名論／唯實論、Schiller 的素樸／感傷詩人等），主張理論爭執背後常是類型差異——類型論因此兼具「認識論自覺」功能：研究者須知道自己的類型如何偏斜其觀察。🟢 B 此類型論是 MBTI（Myers-Briggs Type Indicator）之學理來源，但 Isabel Briggs Myers 與其母 Katharine Cook Briggs 加入第四維度（判斷—感知 J/P）並改為固定選項問卷；MBTI 首版手冊出版於 1962 年，已在榮格逝世（1961）之後，榮格本人未參與亦未評價 MBTI 成品。🟢 B（P5 更正：原文「榮格本人晚年對此商業化版本表示保留（源自 Myers 家屬訪談記錄）」查無可靠出處，且年代上榮格不及見 MBTI 出版，刪除。）
 
 **3.5 個體化（Individuation / Individuationsprozess）**
 
 個體化不是「成為自己」這種孤立、自我中心式命題，而是意識與無意識（特別是集體無意識）逐漸整合之終身歷程。過程包含：（1）面對陰影；（2）辨識人格面具與自我之別；（3）辨識阿尼瑪／阿尼姆斯並減少其投射；（4）以自性為中心重整人格。榮格以「個體化」（individuation）刻意區別「個人主義」（individualism），前者強調在關係中整合，後者強調分離。🔵 A
+
+個體化被榮格嵌入一個**生命階段論**：〈生命的轉折〉（*Die Lebenswende*, 1930–31, C. W. Vol. 8）以「人生的早晨與午後」為喻——前半生的任務是外向適應（建立自我、職業、家庭、社會位置），後半生的任務則是面向內在與整體（自性、意義、死亡的預備）；「人生午後」若仍沿用早晨的程式生活，即是多數中年精神官能症的根源。榮格因此被廣泛視為「中年危機」心理學論述之源頭，其臨床人口也確實以中年、外在適應已成功而內在空虛者為大宗——這與佛洛伊德以幼年期為重心的取向形成人生時間軸上的鏡像。🟢 B
+
+整合的微觀機制是**超越功能（transzendente Funktion）**：當意識立場與無意識補償互相對峙、且兩者都被充分持守而不偏廢時，心靈會自發產生「第三者」——一個超越兩極對立的新象徵，使能量找到新導向；榮格 1916 年撰寫的同名論文（遲至 1957 年才首度刊行，後收 C. W. Vol. 8）視此為心理治療改變的核心機轉，主動想像即為誘發超越功能而設計的方法。🔵 A 與之配套的動力概念是取自赫拉克利特的**物極必反（Enantiodromia）**：任一單方面發展至極端，必翻轉為其對立面（狂熱者變虛無者、極端理性者被非理性淹沒）——個體化的工夫正在於以對立面的**意識性持守**取代此種無意識的擺盪。🟢 B（*Psychologische Typen* 定義章）
 
 **3.6 同時性（Synchronicity / Synchronizität）**
 
@@ -60,7 +73,9 @@
 
 **3.8 宗教功能（Religious Function）**
 
-榮格將「宗教」重新定義為「與自性相遇之 numinosum（神聖感）經驗結構」，而非信仰特定教義。他對基督宗教三位一體、印度教、佛教、伊斯蘭神秘主義、易經、道家、西方煉金術均有深入研究。代表著作：《心理學與煉金術》（*Psychologie und Alchemie*, 1944）、《答約伯》（*Antwort auf Hiob*, 1952）、《易經》（德譯前言, 1949；參見 Richard Wilhelm 譯本）。🟢 B
+榮格將「宗教」重新定義為「與自性相遇之 numinosum（神聖感）經驗結構」，而非信仰特定教義（numinosum 一詞取自 Rudolf Otto《論神聖》）。他對基督宗教三位一體、印度教、佛教、伊斯蘭神秘主義、易經、道家、西方煉金術均有深入研究。代表著作：1937 年耶魯 Terry Lectures《心理學與宗教》（*Psychology and Religion*, 1938 出版, C. W. Vol. 11）、《心理學與煉金術》（*Psychologie und Alchemie*, 1944）、《答約伯》（*Antwort auf Hiob*, 1952）、《易經》英譯版前言（Wilhelm–Baynes 譯本, 1950；榮格早年與漢學家 Richard Wilhelm 合作註解《太乙金華宗旨》〔*Das Geheimnis der Goldenen Blüte*, 1929〕，是其轉向煉金術研究的觸媒）。🟢 B
+
+煉金術在體系中的地位需特別說明，因其常被誤讀為怪癖式旁支：榮格的核心論題是**煉金術士把個體化歷程投射到物質變化上**——「使賤金屬成金」的操作語言，實為心靈轉化（nigredo 黑化＝遭遇陰影；coniunctio 合體＝對立整合）的無意識紀錄；煉金術因此為集體無意識假說提供了一個獨立於病人夢材料的歷史平行證據系列，這正是擴展法在史料上的大規模應用。🔵 A 榮格自視為壓卷之作的《神秘合體》（*Mysterium Coniunctionis*, 1955–56, C. W. Vol. 14，與 von Franz 協作）以「對立面之合一」（*coniunctio oppositorum*）總結全體系：心靈的終極課題是對立（意識／無意識、精神／物質、善／惡）的結合而非消除。🔵 A 《答約伯》則是其宗教心理學最具爭議的一步：以心理學語言解讀約伯記中「神的陰影面」，主張神性意象本身在人類意識中經歷發展——此書引發神學界激烈反彈，榮格明言其所論為「神之意象」（Gottesbild）的心理事實而非神本體，但界線是否守住，至今仍是榮格研究的爭點。🟢 B
 
 ## 4. 關鍵著作書目
 
@@ -70,11 +85,17 @@
 - 《心理類型》（*Psychologische Typen*）/ *Psychological Types*, 1921。C. W. Vol. 6。©。
 - 《早發性癡呆之心理學》（*Über die Psychologie der Dementia Praecox*）/ *The Psychology of Dementia Praecox*, 1907。© 為主。
 - 《詞聯想研究》（*Experimentelle Untersuchungen über Assoziationen Gesunder und Geisteskranker*, 與 F. Riklin）/ *Studies in Word Association*, 1904–1906 原文、1918 英譯。©。
-- 《分析心理學之兩篇論文》（*Zwei Essays über Analytische Psychologie*）/ *Two Essays on Analytical Psychology*, 1928（含〈論集體無意識之概念〉）。C. W. Vol. 7。©。
+- 《分析心理學二論》（*Zwei Essays über Analytische Psychologie*）/ *Two Essays on Analytical Psychology*。C. W. Vol. 7。含〈論無意識之心理學〉（1917/1943 修訂）與〈自我與無意識之關係〉（*Die Beziehungen zwischen dem Ich und dem Unbewußten*, 1928）。©（P5 更正：原條目稱含〈論集體無意識之概念〉——該文實收於 C. W. Vol. 9/1；又原書目把〈自我與無意識之關係〉與 *Aion* 錯配為同一書，已拆正。）
+- 《論心靈能量》（*Über die Energetik der Seele*, 1928）與〈論心靈的本質〉（1946/1954）、〈超越功能〉（1916 撰／1957 刊）、〈生命的轉折〉（1930–31）。均收 C. W. Vol. 8 *The Structure and Dynamics of the Psyche*。©。
+- 《原型與集體無意識》/ *The Archetypes and the Collective Unconscious*。C. W. Vol. 9/1（含〈論集體無意識之概念〉1936、〈集體無意識的原型〉1934/1954 等）。©。
+- 《伊雍：自性現象學研究》（*Aion: Untersuchungen zur Symbolgeschichte* 之主卷）/ *Aion: Researches into the Phenomenology of the Self*, 1951。C. W. Vol. 9/2。自我—陰影—阿尼瑪／阿尼姆斯—自性之系統陳述，兼論基督為自性象徵與雙魚時代象徵史。©。
+- 《心理學與宗教》（Terry Lectures 1937）/ *Psychology and Religion*, 1938。C. W. Vol. 11。©。
 - 《心理學與煉金術》（*Psychologie und Alchemie*）/ *Psychology and Alchemy*, 1944。C. W. Vol. 12。©。
-- 《自我與無意識之關係》（*Die Beziehungen zwischen dem Ich und dem Unbewußten*）/ *Aion: Researches into the Phenomenology of the Self*, 1951。C. W. Vol. 9/2。©。
+- 《移情心理學》（*Die Psychologie der Übertragung*）/ *The Psychology of the Transference*, 1946。C. W. Vol. 16。以煉金術《哲人玫瑰園》（*Rosarium Philosophorum*）木刻圖系列解讀分析關係。©。
 - 《答約伯》（*Antwort auf Hiob*）/ *Answer to Job*, 1952。C. W. Vol. 11。©。
-- 與鮑利合著：《自然與心靈之詮釋》（*Naturerklärung und Psyche*）/ *The Interpretation of Nature and the Psyche*, 1952。©。
+- 與鮑利合著：《自然與心靈之詮釋》（*Naturerklärung und Psyche*）/ *The Interpretation of Nature and the Psyche*, 1952。含榮格〈同時性：一個非因果連結原則〉與鮑利論克卜勒之原型觀念。©。
+- 《神秘合體》（*Mysterium Coniunctionis*, 1955–56）/ *Mysterium Coniunctionis*。C. W. Vol. 14。榮格最後一部大部頭著作。©。
+- 《人及其象徵》（*Man and His Symbols*, 1964）：榮格晚年為一般讀者規劃、與 von Franz 等弟子合著，榮格親撰首章〈接近無意識〉，逝世後出版。©。
 - 《紅書》（*Liber Novus*, 約 1914–1930 寫作, 2009 編輯出版）/ *The Red Book*, ed. Sonu Shamdasani, 2009。© Philemon Series。
 - 《記憶、夢、反思》（*Erinnerungen, Träume, Gedanken*, 由 Aniela Jaffé 編輯）/ *Memories, Dreams, Reflections*, 1962（榮格逝世次年出版, 含部分自傳性質）。©。
 
@@ -91,7 +112,9 @@
 
 ## 5. 方法與技術
 
-**5.1 治療設置**：分析心理學取向心理治療（analytical psychotherapy / Jungian analysis）通常為長期、高頻次（每週 1–4 次）、面對面、躺椅或坐椅並用，平均持續數年。治療關係本身（移情 / 反移情，榮格稱之為「投射」）被視為療效核心而非干擾。🟢 B
+**5.1 治療設置**：分析心理學取向心理治療（analytical psychotherapy / Jungian analysis）通常為長期、高頻次（每週 1–4 次）、面對面、躺椅或坐椅並用，平均持續數年。治療關係本身（移情 / 反移情，榮格稱之為「投射」）被視為療效核心而非干擾。🟢 B 榮格是精神分析傳統中最早主張**候選分析師必須先接受個人分析**（訓練分析）的人之一，佛洛伊德在〈分析治療的前途〉（1910）中將此建議歸功於「蘇黎世學派」；他也早於多數同代人主張**反移情是治療工具**——分析師被病人「感染」的反應含有關於病人無意識的資訊，治療是雙方均被改變的「辯證歷程」（dialektisches Verfahren），榮格喻之為兩種化學物質相遇：「若有化合，兩者俱變」。🟢 B（A: *Die Psychologie der Übertragung*, 1946, C. W. Vol. 16）
+
+**5.1a 治療四階段**：〈現代心理治療的問題〉（1929/1931, C. W. Vol. 16）把分析工作劃為四階段：**告白**（catharsis，秘密與被壓抑情緒的傾吐）、**闡明**（elucidation，對移情與無意識連結的詮釋，約當佛洛伊德式分析）、**教育**（education，把洞識轉為社會適應，約當阿德勒式工作）、**轉化**（transformation，前三者之外的個體化工作，治療者與病人相互轉化）。榮格明言四階段非直線程序，且前三階段已可涵蓋多數病人的需要——第四階段僅屬於「適應良好但無意義感」的個案；此架構同時是榮格對佛洛伊德、阿德勒體系的收編式定位：兩者各自對應一個階段，分析心理學則加上第四層。🔵 A
 
 **5.2 夢的解析（榮格取向）**：榮格反對佛洛伊德「夢為願望偽裝」之立場，主張夢是「心靈之自我調節」（*Selbstregulation der Psyche*），夢補償意識單方面之偏頗。夢解析採**客觀層次（objective level）**——夢中人即夢者自身之部分；與**主觀層次（subjective level）**——夢中元素代表夢者心理內在對話——交織運用。技術包含「放大」與「情境分析」。🔵 A
 
@@ -99,7 +122,7 @@
 
 **5.4 詞聯想實驗（Word Association Test）**：榮格早期（1904–1906, Burghölzli 醫院）與 F. Riklin、E. Bleuler 共同發展，用於偵測情結；今日臨床少用，研究史上具歷史意義。🔵 A
 
-**5.5 沙盤治療（Sandplay Therapy）**：由 Margaret Lowenfeld（《兒童的世界》, 1930, B 等）發明，Dora Kalff（1904–1990, 瑞士）將其引入榮格體系（1966–1980）。在標準尺寸沙盤中以縮比模型自由擺放，治療者觀察原型場景浮現。🟢 B
+**5.5 沙遊治療（Sandplay Therapy）**：源於英國小兒科醫師 Margaret Lowenfeld 1920 年代末發展之「世界技法」（World Technique），Dora Kalff（1904–1990, 瑞士）將其與榮格理論結合為「沙遊」（Sandplay），提出「自由且受保護的空間」原則與自性顯現階段論，其《沙遊》（*Sandspiel*, 1966）為奠基文本。在標準尺寸沙盤中以縮比模型自由擺放，治療者觀察原型場景浮現，通常延遲詮釋。🟢 B（P5 更正：原條目 Lowenfeld 書名「《兒童的世界》, 1930」不確；其技法名為 World Technique，專書 *Play in Childhood* 出版於 1935，改為概述。）
 
 **5.6 曼陀羅繪畫**：榮格 1918–1920 年代開始繪製每日曼陀羅並分析其自性象徵（見《紅書》）；臨床用於追蹤個體化進程與自我—自性軸動態。🟢 B
 
@@ -122,19 +145,22 @@
 
 **6.3 後續分支**
 
-- **古典學派 / 蘇黎世學派（Classical / Zurich School）**：忠於榮格晚期「自性」與「個體化」核心，重視神話、宗教、煉金術資源，代表機構為 IAAP（International Association for Analytical Psychology, 1955 創立）。
-- **發展學派（Developmental School）**：由 M. Fordham 領銜，整合榮格理論與兒童發展、客體關係理論，代表機構 SAP（Society of Analytical Psychology, 倫敦, 1945 創立）。
-- **原型心理學（Archetypal Psychology）**：由 J. Hillman 開創，去個體化、去個人主義、強調「回到神話」、「看見靈魂」（seeing with soul），代表機構 Pacifica Graduate Institute。
-- **阿姆斯特丹學派（Amsterdam School）**：與發展學派有交織。
-- 與新精神分析、客體關係、自體心理學存在理論交流；對沙盤治療、藝術治療、表達性藝術治療、敘事治療產生深遠影響。🟢 B
+Andrew Samuels《榮格與後榮格學派》（*Jung and the Post-Jungians*, 1985）確立的三分法是學派史的標準地圖，其分類判準是各派對「原型 vs. 個人發展」與「自性 vs. 自我—嬰兒期」的相對加權：🟢 B
+
+- **古典學派 / 蘇黎世學派（Classical / Zurich School）**：忠於榮格晚期「自性」與「個體化」核心，重視神話、宗教、煉金術資源，代表機構為蘇黎世榮格學院與 IAAP（International Association for Analytical Psychology, 1955 創立）。
+- **發展學派（Developmental School）**：由 M. Fordham 領銜，整合榮格理論與兒童發展、克萊因派客體關係理論（去整合／再整合模型、嬰兒觀察、移情—反移情精細化），臨床形態最接近當代精神分析，代表機構 SAP（Society of Analytical Psychology, 倫敦, 1945 創立）。
+- **原型心理學（Archetypal Psychology）**：由 J. Hillman 開創，放棄自性一元中心與臨床化傾向，主張「靈魂製造」（soul-making）、多神式心靈、「回到意象」（stick to the image），影響溢出診療室進入文化批評，代表機構 Pacifica Graduate Institute。
+- 三派之後的發展：Samuels 後續觀察到融合趨勢與新軸線（政治心理學、性別重讀）；Wolfgang Giegerich 以辯證邏輯批判整個「意象崇拜」路線，自成一格。🟡 B
+- 與新精神分析、客體關係、自體心理學存在理論交流；對沙遊治療、藝術治療、表達性藝術治療、敘事治療產生深遠影響。🟢 B
 
 **6.4 對其他領域之影響**
 
-- 神話學（C. G. Jung → J. Campbell → 神話詩學）
-- 文化心理學（C. G. Jung → J. Hillman）
-- 宗教心理學（P. W. Pruyser, 《The Minister as Diagnostician*, 1976* 為代表）
+- 神話學（C. G. Jung → J. Campbell → 神話詩學；坎伯之「英雄旅程」再經 Christopher Vogler 進入好萊塢編劇學）🟢 B
+- 文化批評與後榮格人文研究（C. G. Jung → J. Hillman → 生態心理學、城市心理學等延伸）
+- 宗教心理學與比較宗教研究（榮格 Terry Lectures 一系；Eranos 年會〔1933 年起，Ascona〕以榮格為核心人物，聚集 M. Eliade、K. Kerényi、G. Scholem 等跨領域學者，形塑二十世紀中葉宗教學與神話學的對話平台）🟢 B
 - 心理學類型 → MBTI（注意：榮格本人未參與 MBTI 設計）
-- 對小說家 H. Hesse（榮格本人分析師）、T. S. Eliot、H. Murakami、J. Irving 等創作影響；榮格理論亦被應用於電影分析、文學批評、組織管理（MBTI 商業化）。
+- 十二步戒酒運動：AA 共同創辦人 Bill Wilson 曾致函榮格，榮格 1961 年回信以「*spiritus contra spiritum*」聞名——以靈性經驗對治酒精沉迷之建議被 AA 傳統視為源頭之一。🟢 B
+- 文學創作影響：H. Hesse（曾接受榮格學生 J. B. Lang 之長期分析，並與榮格本人有過會談，《德米安》即成於此時期）、其後諸多作家與電影敘事理論；榮格理論亦被廣泛應用於電影分析、文學批評、廣告與品牌原型論、組織管理。🟢 B（P5 更正：原文「H. Hesse（榮格本人分析師）」表述錯誤——Hesse 的主要分析師是榮格的學生 Josef Bernhard Lang；原並列之「T. S. Eliot、H. Murakami、J. Irving」影響鏈查證不足，刪除改為概述。）
 
 ## 7. 對接「人從生到死的 13 個問題領域」
 
@@ -157,7 +183,9 @@
 - 榮格與納粹時期之具體言論、文件——本綜述未引用具體原文文獻，僅依學界二手研究概述。
 - M.-L. von Franz《童話中的陰影》之英文版首版具體年代與出版社（疑 Spring Publications）——需以出版社資料確認。
 - 榮格著作 PD/© 狀態：因著作權因國家而異，本表為概括，讀者需逐書於各國著作權局資料庫確認。
-- Toni Wolff 女性四階段之四個術語具體命名（不同二手來源列出 Bebe / Earth / Amazon / Hetaera / Medial 等組合），本綜述採折衷列示。
+- Toni Wolff 四型術語（已解決）：P5 查證確認為 Mother / Hetaira / Amazon / Medial Woman 四型（出處：Wolff, "Structural Forms of the Feminine Psyche"），§2 原折衷列示之訛誤組合已更正。🟢
+
+**8.1a P5 刪改備忘（2026-07-18）**：① §1 IPA／年鑑之年代角色更正（IPA 1910 創立、榮格任首任主席至 1914；年鑑 1909 創刊由榮格主編至 1913）；② §2 Wolff 四型改正、「Soma–Psyche–Spiritus 三軸」查無出處刪除；③ §2 von Franz「1982《The Process of Individuation in the Feminine…》」查無此書刪除，改列實存著作；④ §2 Edinger 兩書名更正為 *Ego and Archetype*（1972）與 *The Creation of Consciousness*（1984）；⑤ §3.4「榮格晚年對 MBTI 表示保留」查無出處且年代不可能（MBTI 首版 1962 晚於榮格逝世），刪除；⑥ §4〈自我與無意識之關係〉與 *Aion* 之錯配拆正、〈論集體無意識之概念〉歸位 C. W. 9/1；⑦ §5.5 Lowenfeld 書名年代更正；⑧ §6.4「Hesse（榮格本人分析師）」更正為 J. B. Lang 之分析個案、「Pruyser 1976」非榮格系譜刪除、「T. S. Eliot／Murakami／Irving」影響鏈查證不足刪除。
 
 **8.2 學界爭議**：
 
@@ -186,3 +214,5 @@
 - 榮格於 1933–1939 之爭議未以「榮格是納粹」或「榮格完全清白」之極端框架呈現；採學界「複雜情境中有具體妥協行為」之共識立場。
 
 > 🟢 P3 校核：2026-07-16 Sonnet 5 批次；修 1 處事實（§1「1933 年成立分析心理學俱樂部」→ 改為「1916 年 2 月 26 日創立蘇黎世心理學俱樂部（Psychology Club Zürich）」，原文年代錯誤）/ 刪 0 條可疑書目 / concept_tags 已填。
+
+> 🟢 P5 補全：2026-07-18 Sonnet 5；§3 補心靈自我調節與補償原理、能量學（等值／熵、前行／退行）、原型自身 vs. 原型意象、類心靈光譜、情調情結與自我情結、輔助／劣勢功能、生命階段論、超越功能、物極必反、煉金術定位與《神秘合體》《答約伯》；§2 補 Jacobi／Samuels／河合隼雄並更正 Wolff／von Franz／Edinger 條目；§4 拆正 Aion 錯配並補 C. W. 8／9/1／11／14／16 及《人及其象徵》；§5 補訓練分析、反移情辯證觀、治療四階段並更正沙遊條目；§6 補 Samuels 三學派地圖、Eranos、AA 書信；§8 Wolff 四型疑問查實解決（P5 刪改詳 §8.1a）。
