@@ -9,7 +9,7 @@
 - [x] biopsychosocial-model（26.1→33.1KB，2026-07-18）[隔離：`p5-bpsm-brief.md`]
 - [x] psychodrama（26.4→42.1KB，2026-07-18）
 - [x] behaviorism（27.8→45.1KB，2026-07-18）
-- [ ] constructivist-psychotherapy（27.8KB）
+- [x] constructivist-psychotherapy（27.8→38.9KB，2026-07-18）
 - [ ] structuralism（28.5KB）
 - [ ] gestalt-psychology（28.8KB）
 - [ ] dbt（28.8KB）
