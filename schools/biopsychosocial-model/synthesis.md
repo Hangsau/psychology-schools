@@ -14,6 +14,8 @@
 
 **George L. Engel (1913–1999)** — 美國精神醫學家、內科訓練出身。1948–1999 年任教於 University of Rochester, Department of Psychiatry。1950–60 年代研究精神因素對生理疾病的影響（如悲痛、急性情緒壓力對心血管事件的效應）；1961 年發表對女兒猝逝之臨床自我觀察〈Is grief a disease? A Challenge for Medical Research〉(1961, [A], ©)；1977 年發表 BPS 原典論文 [A]。1978 年與 William R. Moran 合編***The Course of Illness: A Key to BPS Diagnosis***等著作推廣臨床套用 [B]。
 
+Engel 之學術路徑體現 BPS 的跨界本質：他完成內科培訓後，至 Rochester 同時兼任內科（Department of Medicine）與精神科（Department of Psychiatry）雙重教職，成為二十世紀中葉少數橫跨兩科的美國醫師之一；此雙重身分使他能同時以生物醫學與精神醫學的眼光審視臨床問題 [B, 🟢]。他接受過精神分析培訓，但在理論立場上刻意與精神分析保持距離，轉而以 von Bertalanffy 系統論語言重構心理社會因素的本體地位 [B, 🟡]。此策略使 BPS 主張自身為科學取向的整合框架而非治療學派，對於 1970 年代仍須爭取醫學主流承認的精神醫學而言具有重要論述意義 [B, 🟡]。其導師 John Romano 奠定了 Rochester 的精神生物整合傳統，Engel 接棒後將其系統化為三層次本體論。
+
 **Adolf Meyer (1866–1950)** — 瑞士裔美國精神科醫師，Johns Hopkins 大學。「心理生物學」(psychobiology) 學派創始人。主張以時間軸整體觀察個體之「生活記錄」(life chart) 與社交—情緒—生物因素交織的發展 [B]。被 Engel 自承為重要前驅 [A]。
 
 **Ludwig von Bertalanffy (1901–1972)** — 奧地利裔生物學家，一般系統理論 (General System Theory) 創始人。1968 年 *General System Theory: Foundations, Development, Applications*（[B], ©）提出開放系統 (open system)、階層結構、負熵 (negative entropy)、等終局性 (equifinality) 等概念，為 BPS 提供方法論基礎。
@@ -29,6 +31,8 @@
 **S. Leonard Syme (1925–2020)** — 美國流行病學家，加州大學柏克萊分校（UC Berkeley）。1960–70 年代研究社會階層與健康之關係，提供 BPS 社會層次的實證素材 [B, 🟡]。
 
 **Kurt Organista、George M. Slavich 等當代人物** — 將 BPS 應用於健康心理學、壓力生物學、社會神經內分泌學；後者研究社會階層如何透過生理路徑影響健康 [B]。
+
+**Francesc Borrell-Carrió** — 西班牙家庭醫學醫師與研究者。2004 年與 Anthony L. Suchman、Ronald M. Epstein 合著〈The Biopsychosocial Model 25 Years Later: Principles, Practice, and Scientific Inquiry〉（*Annals of Family Medicine* 2(6): 576–582, [A], ©），系統總結 BPS 模式在家庭醫療中的操作原則。該文區分 BPS 作為「哲學」（疾病由多層次因素構成之本體主張）與「方法論」（如何在臨床上系統收集三軸資料）兩個面向，強調兩者邏輯上相互獨立、可分別被接受或拒絕；此一區分有助於澄清 Engel 原典中「科學主張 vs. 臨床規範」的模糊性 [A, 🟢]。
 
 ## 3. 核心理論主張
 
@@ -58,6 +62,10 @@
 
 **（十二）與其他取向的關係**。BPS 與① 心身醫學 (psychosomatic medicine) — 前者為其前身但更寬廣；② 系統家庭治療 (systemic family therapy) — 共享系統論根源；③ 衛生心理學 (clinical health psychology) — 後者為 BPS 的應用衍生；④ 公共衛生 — 共享社會決定因素 (social determinants of health) 之焦點；⑤ 心理神經免疫學 (PNI) — 提供 BPS 之生物-心理介面實證 [B]。
 
+**（十三）Engel 1977 年論文之論證架構**。《Science》1977 年論文按三步展開。第一步「診斷危機」：Engel 指出生物醫學模式面臨科學危機，其認識論根源是笛卡兒心身二元論（精神與肉體分屬不同本質）與牛頓式還原論（複雜現象可被分解為基本粒子的加總），兩者合力使醫學錯誤地將疾病化約為純粹生物過程，並把心理社會因素列為非醫學變項 [A, 🟢]。第二步「提出替代架構」：援引 von Bertalanffy 一般系統論，主張自然界存在從亞細胞、細胞、器官、個體、家庭、社群到文化的系統階層 (hierarchy of systems)；每層次有自身組織法則與湧現性質，不可完全化約於下層；醫師必須同時評估所有相關層次 [A, 🟢]。第三步「界定典範任務」：明確以 Kuhn 1962 年「科學革命」典範語言書寫，主張 BPS 是一場典範轉移 (paradigm shift) 而非對生物醫學的漸進補充；此論文的論證同時承載本體論主張（疾病確實存在於三個層次）與規範性主張（醫師應當評估三個層次），兩者邏輯上相互獨立，是後來方法論批評的核心爭議點 [B, 🟡]。
+
+**（十四）Engel 1980 年臨床應用篇之示範功能**。〈The Clinical Application of the Biopsychosocial Model〉（*American Journal of Psychiatry* 137(5): 535–544）是對 1977 年純理論論文的操作化補充。Engel 以一名心肌梗塞男性患者為貫穿全文的臨床線索，逐一示範如何在生物層（心臟病理、急救操作）、心理層（患者之死亡焦慮、否認機制、悲傷反應）、社會層（家庭關係、職業壓力、社會支持資源）三軸分析同一臨床事件；並特別強調問診 (interview) 本身如何作為三層次資料收集的交匯介面——換言之，診斷性對話本身即是 BPS 的方法論載體 [A, 🟢]。本文常被視為 BPS 首篇系統「操作化」文本，直接影響後來的整合式病史取得訓練規格與醫學教育課程設計。
+
 ## 4. 關鍵著作書目
 
 - 1961 | Engel, G. L. | 〈A Unified Concept of Health and Disease〉, *Perspectives in Biology and Medicine* | [A] | ©
@@ -72,11 +80,13 @@
 - 1981 | Lipowski, Z. J. | 〈The Interface of Psychiatry and Medicine〉, *Comprehensive Psychiatry* | [B] | ©
 - 1987 | World Health Organization | *International Classification of Impairments, Disabilities and Handicaps (ICIDH)*（BPS 影響之分類嘗試） | [B] | ©
 - 1988 | Engel, G. L. | 〈How Much Longer Must Medicine's Science be Bound by a 17th-Century World View?〉, *Psychotherapy and Psychosomatics* | [B] | ©
-- 1990 | Ghaemi, S. N. (後批評者) | 〈The Biopsychosocial Model in Psychiatry〉, *Journal of Medical Philosophy*（系列批評文） | [B] | ©
+- 1990 | Ghaemi, S. N. (後批評者) | 〈The Biopsychosocial Model in Psychiatry〉, *Journal of Medical Philosophy*（系列批評文） | [C] | © 🔴（此條目無法透過學術資料庫核實；Ghaemi 生於 1966 年，1990 年時年約 24 歲，出版時間存疑；待查）
+- 1998 | McLaren, N. | 〈A Critical Review of the Biopsychosocial Model〉, *Australian and New Zealand Journal of Psychiatry* 32(1): 86–92 | [A] | ©
 - 2001 | World Health Organization | *International Classification of Functioning, Disability and Health (ICF)* — 明確採用 BPS 框架 | [B] | ©
 - 2004 | White, K. | 〈The Illusion of a Biopsychosocial Model〉, *Journal of Medical Humanities* | [B] | ©
-- 2012 | Ghaemi, S. N. | *The Rise and Fall of the Biopsychosocial Model* | [B] | ©
-- 2014 | Bolton, D., Gillett, G. | *The Biopsychosocial Model of Health and Disease* | [B] | ©
+- 2004 | Borrell-Carrió, F., Suchman, A. L., Epstein, R. M. | 〈The Biopsychosocial Model 25 Years Later: Principles, Practice, and Scientific Inquiry〉, *Annals of Family Medicine* 2(6): 576–582 | [A] | ©
+- 2009 | Ghaemi, S. N. | *The Rise and Fall of the Biopsychosocial Model: Reconciling Art and Science in Psychiatry*（Johns Hopkins University Press） | [B] | ©
+- 2019 | Bolton, D., Gillett, G. | *The Biopsychosocial Model of Health and Disease: New Philosophical and Scientific Developments*（Palgrave Macmillan） | [A-B] | ©
 - 2019 | Sturmberg, J. P., Mercer, H., eds. | *The Value of Systems and Complexity Sciences for Healthcare* | [B] | ©
 - 2020 | Walker, P. S. | *The Biopsychosocial Model in Health and Illness* | [B] | ©
 
@@ -104,7 +114,7 @@
 
 ## 6. 批評與後續發展
 
-**（一）S. Nassir Ghaemi 之「興衰論」(The Rise and Fall of the Biopsychosocial Model, 2012, ©, [B])**。Ghaemi 為美國精神科醫師，主張 BPS 在英美精神醫學界實踐上失敗：理論輝煌但無對應研究方法學、心理治療研究仍以症狀為主、缺乏生物醫學之證據評估規格。他提出 BPS 可作為「臨床態度」存在，但不能作為「科學模型」存在，否則淪為空泛包容 [B, 🟠]。此一論點引發廣泛辯論，Bolton & Gillett (2014, ©) 與 Davies (2012) 等回應主張 Ghaemi 之科學標準過於狹隘 [B, 🟡]。
+**（一）S. Nassir Ghaemi 之「興衰論」(*The Rise and Fall of the Biopsychosocial Model*, 2009, Johns Hopkins University Press, ©, [B])**。Ghaemi 為美國 Tufts 大學精神科教授，本書核心論證分三層：① 歷史診斷——BPS 在英美精神醫學實踐中演變為「折衷主義」(eclecticism) 的遮羞布，醫師可任意以「生物＋心理＋社會」框架包裝未加批判的多元治療，既無選擇規則，亦無反例界定；② 方法論批評——BPS 缺乏可驗證之因果機制，心理治療研究仍以症狀為主、缺乏生物醫學之證據評估規格；③ 建議——BPS 應保留為「臨床態度」(clinical attitude) 而非「科學模型」(scientific model)，後者須有可反駁的因果預測，前者只需引導臨床注意力方向，兩者根本不同 [B, 🟠]。Bolton & Gillett（2019, ©）與 Pilgrim（2015）等回應主張 Ghaemi 之「科學模型」標準過於狹隘，未能容納多層次因果系統的哲學複雜性；社會科學、演化生物學等已確立的科學領域同樣不符 Ghaemi 的嚴格標準 [B, 🟡]。
 
 **（二）Schwartz 與 Wiggins (1988, ©, [B]) 之「metatheoretical critique」**。兩位醫學哲學家主張 BPS 在科學方法論上含糊：缺乏可驗證之因果模型；其與一般系統論之結合本身不具備新的科學預測力；可作為臨床態度但不能作為疾病理論 [B, 🟢]。
 
@@ -123,6 +133,8 @@
 **（九）文化心理學與多元文化心理學之影響**。1990 年代起，Kleinman、Good 等人類學背景之研究強化 BPS 的文化脈絡；當代多元文化心理學 (Sue, Sue 等) 提供 BPS 之文化敏感性延伸 [B, 🟢]。
 
 **（十）與「整合醫學」(integrative medicine) 之關係**。BPS 之「心理-社會」整合傳統不同於「integrative medicine」之納入補充與替代醫療傳統；兩者雖時常被混用，後者更接近 Naturopathy、傳統醫學之整合，前者更接近系統層次整合 [B, 🟡]。
+
+**（十一）Neil McLaren 之「無實質內容論」**。McLaren（1998, ©, [B]）為澳洲精神科醫師，在〈A Critical Review of the Biopsychosocial Model〉（*Australian and New Zealand Journal of Psychiatry* 32(1): 86–92）中主張：BPS 以「模型」(model) 自居，但不符合科學模型的基本條件——它既無核心本體（無法界定「心理因素」的最小單位與邊界），亦無可反駁性（任何臨床現象皆可以某種生物-心理-社會組合描述），故 BPS 的「解釋」實質上是描述性重框架 (redescription) 而非真正的因果解釋。McLaren 結論：「以現有形式而言，BPS 之缺陷嚴重到不足以繼續在精神醫學中使用。」他進一步主張 BPS 應被以生物認知模式 (biocognitive model) 取代，後者具有更嚴格的認知科學基礎 [B, 🟠]。此批評早於 Ghaemi 2009 年之論著，預示了「BPS 僅為臨床態度而非科學模型」這一後來主流批評路線；但 McLaren 的立場比 Ghaemi 更激進，主張完全取代而非修正保留 [B, 🟡]。
 
 ## 7. 對接「人從生到死的 13 個問題領域」
 
@@ -166,6 +178,9 @@
 
 **（五）跨文化適用性**。BPS 主要由北美主流醫學傳統中發展；其在東亞、原住民、低收入國家之文化轉譯品質不等；kleinman 等提示文化變項需更多在地化研究 [B, 🟡]。
 
-**（六）本綜述之限制**。本篇受限於以下：① 未能逐字檢視 Engel 1980 年《American Journal of Psychiatry》全文章節；② 對 Ghaemi 2012 書中具體章節論證之回應未深入辯證；③ 未系統性檢視非英語文獻（德語心身醫學傳統、法語身體現象學、漢語中醫對 BPS 之接受）；④ Engel 1999 年去世前所完成之最後文章與 posthumous writings 未能系統搜尋；⑤ PNI、社會神經科學之近期 (2020 年代) 研究證據未完整網羅；⑥ ICF 與 DSM 5-TR 之最新互動應用未深入探討；⑦ BPS 在中國、台灣、日本醫學教育中之接受度缺乏可靠實證調查 [C, 🟠]。
+**（六）本綜述之限制**。本篇受限於以下：① Engel 1980 年〈Clinical Application〉論文已於 P5 補全主要論點，但未能逐字核對原文所有臨床示例細節；② 對 Ghaemi 2009 書（P3 誤記為 2012，P5 已更正）之章節層論證仍未完整展開；③ 未系統性檢視非英語文獻（德語心身醫學傳統、法語身體現象學、漢語中醫對 BPS 之接受）；④ Engel 1999 年去世前所完成之最後文章與 posthumous writings 未能系統搜尋；⑤ PNI、社會神經科學之近期 (2020 年代) 研究證據未完整網羅；⑥ ICF 與 DSM 5-TR 之最新互動應用未深入探討；⑦ BPS 在中國、台灣、日本醫學教育中之接受度缺乏可靠實證調查 [C, 🟠]。
+
+**（七）P5 查出之書目疑問**。① 書目條目「1990 | Ghaemi, S. N. | 〈The Biopsychosocial Model in Psychiatry〉, *Journal of Medical Philosophy*」無法透過 PubMed / JSTOR 核實；Ghaemi 生於 1966 年，1990 年時約 24 歲，出版可能性極低；此條目來源不明，待後續校核確認或刪除 [C, 🔴]。② Bolton & Gillett 年份 P3 誤記為 2014，實際出版年為 2019（Palgrave Macmillan），P5 已更正 [A, 🟢]。③ Ghaemi 書年份 P3 誤記為 2012，Cambridge Core 與 PubMed (PMID 19567886) 確認出版年為 2009，P5 已更正 [A, 🟢]。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Engel 生年 1912→1913）/ 書目無可疑條目 / concept_tags 已填。
+> 🟢 P5 補全：2026-07-18；補 §3（十三）Engel 1977 論證架構、（十四）1980 臨床應用篇；§2 Engel 傳記深化 + Borrell-Carrió 新增；§6（一）Ghaemi 論點展開 + （十一）McLaren 新增；§4 書目更正 Ghaemi 年份（2012→2009）+ Bolton & Gillett 年份（2014→2019）+ 新增 McLaren 1998 + Borrell-Carrió 2004；§8（七）書目疑問新增（1990 Ghaemi 條目待核）。
