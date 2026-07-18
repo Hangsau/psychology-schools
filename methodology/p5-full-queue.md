@@ -12,7 +12,7 @@
 - [x] constructivist-psychotherapy（27.8→38.9KB，2026-07-18）
 - [x] structuralism（28.5→31.7KB，2026-07-18）
 - [x] gestalt-psychology（28.8→42.0KB，2026-07-19）
-- [ ] dbt（28.8KB）
+- [x] dbt（28.8→33.6KB，2026-07-19）
 - [ ] evolutionary-psychology（28.9KB）
 - [ ] person-centered-therapy（29.0KB）
 - [ ] social-psychology（30.0KB）
