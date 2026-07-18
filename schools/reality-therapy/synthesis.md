@@ -1,6 +1,6 @@
 ## 1. 定位與歷史脈絡
 
-現實治療（Reality Therapy, RT）由美國精神科醫師 William Glasser（1925–2013）於 1960 年代在加州創立，是 20 世紀中後期美國心理治療史上一支獨樹一幟的學派。起源於 Glasser 在 Ventura 郡女子學校（Ventura School for Girls）處遇青少年犯的臨床經驗，特別受到他對傳統精神分析的不滿所推動。Glasser 早年完成一般精神科訓練並接受過精神分析取向之個人分析（personal analysis），但他逐漸認為精神分析將責任歸於潛意識、把個案放在被動位置，並不適合處理教育、矯正機構中「現在就要負責」的青少年。🔵 A：Glasser, W. (1965)《Reality Therapy》序章自述。
+現實治療（Reality Therapy, RT）由美國精神科醫師 William Glasser（1925–2013）於 1960 年代在加州創立，是 20 世紀中後期美國心理治療史上一支獨樹一幟的學派。起源於 Glasser 在加州兩處機構的臨床經驗，特別受到他對傳統精神分析的不滿所推動。其一是 1950 年代末至 1960 年代初他在洛杉磯退伍軍人事務醫院（Veterans Administration Hospital, Los Angeles）接受精神科訓練時與資深精神科醫師 G. L. Harrington 的長期合作：Harrington 公開不認同佛洛伊德式疾病模型，主張治療師應以現實中的責任與關係作為核心，是 Glasser 形成現實治療核心命題的關鍵引導者。🔵 C：Wikipedia (Reality therapy); 多個次級文獻來源一致。其二是 1962–1965 年在 Ventura 郡女子學校（Ventura School for Girls）處遇青少年犯的臨床經驗，進一步確立「選擇—責任」框架對矯正場域的適用性。Glasser 早年完成一般精神科訓練並接受過精神分析取向之個人分析（personal analysis），但他逐漸認為精神分析將責任歸於潛意識、把個案放在被動位置，並不適合處理教育、矯正機構中「現在就要負責」的青少年。🔵 A：Glasser, W. (1965)《Reality Therapy》序章自述。
 
 時間軸與關鍵節點：
 
@@ -8,7 +8,7 @@
 - **1962–1965**：於加州 Ventura School for Girls 帶青少年個案，後寫成現實治療主要技術範本。🔵 A
 - **1965**：出版《Reality Therapy: A New Approach to Psychiatry》，標誌學派正式成立。🔵 A
 - **1969**：出版《Schools Without Failure: Why It Is Done in High School What Should Be Done in Elementary School》，將方法延伸至學校教育。🔵 A
-- **1975**：《The Identity Society》——融入社會學觀點。🟢 B
+- **1972**：《The Identity Society》——融入社會學觀點，主張現代西方社會從「目標驅動」轉向「認同驅動」，是 Glasser 最早的社會批評文本。🟢 B
 - **1976**：《Positive Addiction》——把「有益的習慣」概念系統化。🟢 B
 - **1981**：《Stations of the Mind: New Directions for Mental Health Interventions》。🔵 A
 - **1984–1985**：《Take Effective Control of Your Life》《Control Theory: A New Explanation of How We Control Our Own Lives》——引入控制論（cybernetics, William T. Powers 的知覺控制理論）作為理論基礎，並首次以「控制理論（Control Theory）」這個術語命名其人性觀。🔵 A
@@ -36,7 +36,7 @@
 
 - **Robert E. Wubbolding**（活躍 1980 年代迄今）：美國執業諮商心理師，現實治療第二代最重要的理論推廣者與方法學者。主持 WDEP（Wants–Doing–Evaluation–Plan）模型的系統化工作，著有《Reality Therapy for the 21st Century》（2000）等多本教科書與技術手冊，是國際現實治療／選擇理論培訓的核心教師與機構顧問。🟢 B
 
-- **Larry R. Bumputro**（20 世紀下半葉）：Glasser 的早期合作者，長期在 William Glasser Institute 推廣認證流程，並與 Glasser 合著《Controlling Your Life: A Case Book for Responsible Behavior》。🟠 C：相關次級來源有限，難以完全證實其詳細履歷。
+- **G. L. Harrington**（活躍 1950–1970 年代）：洛杉磯退伍軍人事務醫院精神科醫師，Glasser 的導師（mentor）與最早的合作者。Harrington 公開反對佛洛伊德疾病模型，主張以責任與現實為治療核心；他與 Glasser 在 VA 醫院精神科病房共同開展了現實治療的早期實踐，兩人合作是現實治療最初形成的制度性起點。🔵 C：Wikipedia (Reality therapy) 與多個次級來源一致。
 
 - **John F. (Jack) Brickell**（活躍 1970 年代起）：Glasser 在教育應用面之早期合作者。🟠 C
 
@@ -54,7 +54,7 @@ Glasser 的整個學派建立在四個不可動搖的本體論承諾上，是區
 
 2. **需求驅動行為，但行為是「選擇」出來的**：人天生追求滿足五項基本需求；需求本身不可由外部強制滿足，可以做到的，是**選擇更有可能帶來滿足的行為**。任何一種嘗試都值得鼓勵，包括不愉快的嘗試，因為再嘗試本身已是選擇有責任的行為。🔵 A
 
-3. **一切行為都是「總行為」（total behavior）**：行為並非單一動作，而是四個不可分割的成分——**行動（acting）、思考（thinking）、感受（feeling）、生理（physiology）**——的同步流動。例如「焦慮」由四者同步構成：心跳加快（生理）、反覆推想（思考）、說話結巴（行動）、感到害怕（感受）。改變感受要從更容易掌握的「行動」與「思考」入手。🔵 A
+3. **一切行為都是「總行為」（total behavior）**：行為並非單一動作，而是四個不可分割的成分——**行動（acting）、思考（thinking）、感受（feeling）、生理（physiology）**——的同步流動。例如「焦慮」由四者同步構成：心跳加快（生理）、反覆推想（思考）、說話結巴（行動）、感到害怕（感受）。Glasser 常以汽車作比喻說明各成分的可控程度：引擎（engine）代表五項基本需求，是驅動力之源；前輪代表**行動**與**思考**，是駕駛者能直接操控的方向盤所控制的輪子；後輪代表**感受**與**生理**，跟著前輪走——駕駛者不能直接控制後輪的轉向，但可以透過操控前輪間接帶動。這個隱喻解釋了為何現實治療不從「我想感覺好一點」出發，而從「我現在能做什麼不同的行動」出發：改變感受要從更容易掌握的「行動」與「思考」入手。🔵 A：Choice Theory (1998)，車輪隱喻章節。
 
 4. **關係問題是心理問題的核心**：心理困擾很少來自孤立內在狀態，而是當前人我關係斷裂或不健全的警訊。「所有長時間持續的心理問題都是關係問題，且問題總是發生在當下（now）。」🔵 A：Choice Theory 第七條公理。
 
@@ -141,6 +141,28 @@ Robert Wubbolding 將現實治療的會談結構系統化為 WDEP，是當代現
 - **Lead Management（領導而非推動）**：把員工當成長期負責的個體，管理者的任務是建立清晰可見的品質世界，引導而非推動。🟡 B
 - **The Quality School（品質學校）**：以選擇理論為骨幹的學校經營模式，避免強制、恐懼、獎勵驅動；強調「合作學習」、「自評」、班級「品質圈」概念。🟢 B：Glasser, W. (1990)。
 
+### 3.7 品質世界（Quality World）與比較位（Comparing Place）
+
+品質世界（Quality World）是選擇理論中最具原創性的心理結構概念，由 Glasser 在《Control Theory》（1985）與《Choice Theory》（1998）中完整發展。🔵 A Glasser 把品質世界比喻為每個人腦中的「私人相簿」（personal picture album）——其中存放著一個人認為最能滿足自身基本需求的人、物、信念、活動、情境圖像。這些圖像是高度個人化的：同樣一份工作、同樣一段關係，在不同人的品質世界中可能截然不同。品質世界圖像是行為真正的驅動目標，而非外部現實本身。🔵 A：Choice Theory 第二章。
+
+品質世界圖像的來源：人在任何正向或強烈需求滿足的經驗中，都可能把引發那份滿足的事物「拍入」品質世界；反之，當某事物長期無法帶來需求滿足時，也可能「移出」品質世界。治療過程中，釐清個案品質世界中「哪些圖像仍在？哪些已改變？哪些尚未成形？」是理解需求結構的核心工具。🟢 B：Wubbolding (2000)。
+
+**比較位（Comparing Place）**：品質世界並非孤立儲存，它與外部感知持續互動。Glasser 引入「比較位」（Comparing Place，有時稱作「感知濾器」perceptual system）概念：大腦不斷比較「我目前感知到的世界」（perceived world）與「我品質世界中的圖像」之間的契合程度。當兩者相符時，個體感到滿足與平靜；當出現落差時，個體感知到需求未滿足的信號，並啟動行為以縮小落差。這個比較機制是 Glasser 從 William T. Powers 的知覺控制理論（PCT）引申而來——行為的目的在於控制感知，而非回應刺激。🟡 B：Powers, W. T. (1973)《Behavior: The Control of Perception》。
+
+品質世界與比較位的結合，使現實治療的「自我評估」（Evaluation）步驟具有獨特的理論依據：評估的本質是個案自己對照「我想要的圖像」與「我目前實際得到的」，判斷落差有多大、目前行為有多有效。治療師無需（也無法）代替個案做這個比較，因為只有個案自己才知道其品質世界的內容。🔵 A：Glasser (1998)。
+
+### 3.8 外部控制心理學（External Control Psychology）vs. 內部控制心理學（Internal Control Psychology）
+
+Glasser 在整個選擇理論框架下，對人類關係困境作出一項「文明診斷」：大多數人際痛苦的根源不是道德問題或性格缺陷，而是整個現代社會長期運作在**外部控制心理學（External Control Psychology, ECP）**的邏輯中。🔵 A：Choice Theory (1998) 序章與第一章。
+
+外部控制心理學的核心假設是：當他人（或我自己）「行為不當」時，可以透過批評、責備、威脅、懲罰或獎勵等外部手段「修正」對方的行為。這個假設在家庭、學校、組織與社會的各個層次廣泛存在。Glasser 論證這個邏輯在本質上是錯誤的：根據選擇理論，任何人唯一能「控制」的只有自己的行為，而非他人；所有試圖從外部強加改變的嘗試，都只能引發抵抗、順從而無內在承諾、或關係的損耗，絕不能帶來真正的心理改變。🔵 A
+
+外部控制心理學的七種具體行為表現，即七個致命習慣（§3.5）：批評、責備、抱怨、嘮叨、威脅、懲罰、以獎勵控制。Glasser 的診斷是：七個致命習慣皆是外部控制心理學在人際層面的操作化——這解釋了為何它們能「破壞關係」：它們的底層邏輯是「你不符合我品質世界的圖像，所以我要用外部力量讓你改變」，而這個邏輯根本上否定了對方的自主選擇能力。🟢 B
+
+**內部控制心理學（Internal Control Psychology）**即選擇理論本身的別稱：一種植基於「人只能從內部改變自己」、「每個行為都是一個選擇」的心理學。在治療框架中，內部控制心理學要求治療師放棄一切外部控制手段（包括診斷標籤、行為改造、批評、勸說），改為建立關係、引導自我評估、協助個案重構品質世界圖像，讓改變從個案自身意志中生長出來。🔵 A：Choice Theory (1998)，第三章。
+
+Glasser 把推廣「內部控制心理學取代外部控制心理學」視為 1998 年後其學術使命的核心：不只是個人治療工具，而是試圖改變整個社會文化的心理學命題。他主張：外部控制是政府、教育、家庭制度性病態的根源，個人治療的效益終究受限於社會整體文化；因此現實治療的目標超出諮商室，是一種社會心理學倡議。🟢 B：Glasser Institute 政策文件與 Wubbolding (2000) 導論章節。
+
 ---
 
 ## 4. 關鍵著作書目
@@ -152,7 +174,7 @@ Robert Wubbolding 將現實治療的會談結構系統化為 WDEP，是當代現
 | 1960 | *Mental Health or Mental Illness?* | William Glasser | A / © |
 | 1965 | *Reality Therapy: A New Approach to Psychiatry* | William Glasser | A / © |
 | 1969 | *Schools Without Failure* | William Glasser | A / © |
-| 1975 | *The Identity Society* | William Glasser | A / © |
+| 1972 | *The Identity Society* | William Glasser | A / © |
 | 1976 | *Positive Addiction* | William Glasser | A / © |
 | 1981 | *Stations of the Mind: New Directions for Mental Health Interventions* | William Glasser | A / © |
 | 1984 | *Take Effective Control of Your Life* | William Glasser | A / © |
@@ -302,7 +324,7 @@ Robert Wubbolding 將現實治療的會談結構系統化為 WDEP，是當代現
 
 5. **實證基礎的強度宣稱**：本派教材偶爾宣稱現實治療與 CBT 在多種個案群有相當效果量；然而至 2020 年代，沒有可信的大型多中心 RCT 直接對照現實治療與其他實證療法之效果差異。**此宣稱應降級為「可能有效但證據有限」，不應作為決策依據。** 🔴
 
-6. **書目細節修正空間大**：本表 (§4) 部分書目中文翻譯版本與英文版本之對應仍可能存在年度差異（例如 *Reality Therapy* 在不同再版時的章節編排）；如做學術引用，仍應**逐冊核對 OCLC / Library of Congress**。🔴
+6. **書目細節修正空間大**：本表 (§4) 部分書目中文翻譯版本與英文版本之對應仍可能存在年度差異（例如 *Reality Therapy* 在不同再版時的章節編排）；如做學術引用，仍應**逐冊核對 OCLC / Library of Congress**。P5 已更正：*The Identity Society* 年份由錯誤之 1975 改為正確之 1972（Harper & Row 初版；Amazon / Internet Archive 確認）。🟢 已更正。
 
 7. **心理衛生大語彙對接**：現實治療不太使用 DSM／ICD 詞彙，因此與機構之間的合作記錄、保險請款、研究資料庫編碼等，跨系統銜接成本高，未見系統性解套。🟠
 
@@ -321,3 +343,4 @@ Robert Wubbolding 將現實治療的會談結構系統化為 WDEP，是當代現
 12. **與人本主義／存在主義的歸類**：Glasser 與 Maslow、Rogers、Frankl 皆有方法論上的親近性，但本派最終以「選擇理論」為名創立獨立學派，不宜逕列為「人本主義治療」分支。本知識庫採「後現代」入帳，但讀者宜知其人本—存在主義底色。🟡
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Glasser 學位補入具體年份與學位名稱；「Western Reserve 大學醫學院」→「Case Western Reserve 大學」統一名稱）/ 刪 0 條可疑書目 / concept_tags 已填。
+> 🟢 P5 補全：2026-07-19；補寫 §3.7（品質世界與比較位，含 Comparing Place 理論）、§3.8（外部控制心理學 vs. 內部控制心理學）；擴寫 §3.1 總行為汽車隱喻；修 §1 補入 G. L. Harrington 與 VA 醫院脈絡；修 §2 刪除無文獻支撐之 Bumputro 條目、補入 Harrington；更正 *The Identity Society* 年份 1975→1972；§8 item 6 標已更正。

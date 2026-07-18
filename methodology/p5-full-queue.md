@@ -16,7 +16,7 @@
 - [x] evolutionary-psychology（28.9→48.9KB，2026-07-19）
 - [x] person-centered-therapy（29.0→36.8KB，2026-07-19）
 - [x] social-psychology（30.0→49.5KB，2026-07-19）
-- [ ] reality-therapy（30.1KB）
+- [x] reality-therapy（30.1→36.9KB，2026-07-19）
 - [ ] cbt（30.3KB）
 - [ ] object-relations（30.6KB）
 - [ ] attachment-theory（30.9KB）
