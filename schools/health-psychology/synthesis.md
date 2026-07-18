@@ -6,35 +6,60 @@
 
 1. **疾病型態轉變**：二十世紀中葉後，已開發國家的主要死因從急性傳染病轉為慢性病（心血管疾病、癌症、糖尿病、慢性肺病等），而慢性病與吸菸、飲食、運動、飲酒等**行為與生活型態因素**高度相關。純生物醫學模式（biomedical model）只處理生理病因，無法涵蓋這些變項。🟢（B：健康心理學教科書共同敘事，如 Shelley Taylor, *Health Psychology*）
 2. **生物醫學模式的理論批判**：精神科醫師 George Engel 於 1977 年在《Science》發表〈The Need for a New Medical Model〉，提出**生物心理社會模式**（biopsychosocial model），主張疾病須同時從生物、心理、社會三層次理解。此文成為健康心理學最常引用的理論基石。🔵（A：Engel 1977 原文）
-3. **制度化**：美國心理學會（APA）於 1978 年成立第 38 分會（Division 38, Health Psychology）🟢；Joseph Matarazzo 於 1980 年在《American Psychologist》給出廣被採用的領域定義——健康心理學是「心理學對健康促進與維持、疾病預防與治療、健康與疾病及相關失能之病因與診斷之辨識，以及醫療照護體系與健康政策形塑的教育、科學與專業貢獻之總和」。🟢（B：Matarazzo 1980）
+3. **制度化**：美國心理學會（APA）於 1978 年成立第 38 分會（Division 38, Health Psychology；今名 Society for Health Psychology），成立前有六百餘名 APA 會員連署請願 🟢 B；Joseph Matarazzo 於 1980 年在《American Psychologist》給出廣被採用的領域定義——健康心理學是「心理學對健康促進與維持、疾病預防與治療、健康與疾病及相關失能之病因與診斷之辨識，以及醫療照護體系與健康政策形塑的教育、科學與專業貢獻之總和」。🟢（B：Matarazzo 1980）此定義的重要性在於刻意涵蓋四個面向（促進／預防／病因診斷／體系政策），使領域從一開始就不限於臨床治療，而包含公共衛生與政策層 🟢。1982 年分會創辦專屬期刊《Health Psychology》，為該領域第一本專門期刊 🟢〔B：APA、期刊史料〕。歐洲方面，European Health Psychology Society（EHPS）源於 1986 年荷蘭 Tilburg 的首次專家會議，1988 年起舉辦年會 🟢〔B：EHPS 官方史〕。
 
-思想淵源上，健康心理學承接：**心身醫學**（psychosomatic medicine，1930–50 年代，Franz Alexander、Helen Flanders Dunbar 等，主張特定人格衝突對應特定疾病——此「特定性假說」後來多被放棄）🟢、**行為醫學**（behavioral medicine，1977 年耶魯會議定名，強調以行為科學技術介入疾病）🟢、Hans Selye 的**壓力生理學**，以及行為主義與社會學習理論的行為改變技術。它與行為醫學高度重疊，差別主要在學科歸屬：行為醫學是跨學科領域，健康心理學是心理學內的分支。🟢
+行為流行病學的實證背景同時成熟：Belloc 與 Breslow 依 Alameda County 資料提出與死亡率相關的七項健康習慣（睡眠七至八小時、不吸菸、適量飲酒、規律運動、維持體重、吃早餐、不吃零食；1972, *Preventive Medicine*）🟢 B；McGinnis 與 Foege 之〈Actual Causes of Death in the United States〉（1993, *JAMA*）估計美國近半死亡可歸因於可改變的行為因素（吸菸、飲食與活動、飲酒等），成為「行為是頭號死因」論證最常引用的量化依據 🟢 B。
+
+思想淵源上，健康心理學承接四條線：
+- **心身醫學**（psychosomatic medicine，1930–50 年代）：Franz Alexander 與 Helen Flanders Dunbar 等主張特定無意識衝突對應特定疾病，Alexander 在《Psychosomatic Medicine: Its Principles and Applications》（1950）中列舉七種「心身疾病」（消化性潰瘍、氣喘、類風濕性關節炎、潰瘍性結腸炎、原發性高血壓、甲狀腺機能亢進、神經性皮膚炎，後世俗稱「芝加哥七病」）——此「特定性假說」因實證不支持而多被放棄，但「心理歷程參與身體疾病」的核心問題被健康心理學以更嚴格的方法承接 🟢 B。
+- **壓力生理學**：Walter Cannon 提出戰或逃反應（fight-or-flight）與恆定（homeostasis）概念（《The Wisdom of the Body》1932）；Hans Selye 1936 年在《Nature》以短文報告「由多種有害刺激引起的症候群」，後發展為一般適應症候群與現代「壓力」概念 🔵 A。
+- **行為醫學**（behavioral medicine）：1977 年耶魯會議定名並給出正式定義，強調以行為科學技術（制約、生物回饋、自我監控）介入疾病 🟢 B。
+- **行為主義與社會學習理論**：提供行為改變的技術庫與自我效能等核心構念 🟢。
+
+健康心理學與行為醫學高度重疊，差別主要在學科歸屬：行為醫學是跨學科領域（醫學、護理、營養、心理學共享），健康心理學是心理學內的分支 🟢。與臨床心理學的分工則在對象：臨床心理學處理精神疾患，健康心理學處理身體健康與疾病中的心理歷程——雖然實務上（如慢性病共病憂鬱）兩者常合流 🟢。
 
 ## 2. 代表人物
 
-健康心理學無單一創始者，以下為公認的奠基與代表人物（生卒年標 🟡 者為記憶待核）：
+健康心理學無單一創始者，以下為公認的奠基與代表人物：
 
-- **George L. Engel（1913–1999）**：精神科醫師。1977 年提出生物心理社會模式，為領域提供理論框架。🔵
+**前驅世代（壓力生理學與心身醫學）**
+
+- **Walter B. Cannon（1871–1945）**：哈佛生理學家。提出**戰或逃反應**與**恆定**（homeostasis）概念，論證情緒（恐懼、憤怒）直接動員交感—腎上腺髓質系統——為「情緒影響身體」提供第一個嚴格的生理學機制 🔵 A。
+- **Franz Alexander（1891–1964）**：匈牙利裔精神分析師，芝加哥精神分析研究所創立者；心身醫學「特定性假說」代表人物。假說本身失敗，但其把身體疾病納入心理研究議程的方向被健康心理學承接 🟢 B。
+- **Hans Selye（1907–1982）**：奧匈出生、加拿大工作的內分泌學家。提出**一般適應症候群**（General Adaptation Syndrome, GAS）與現代「壓力」（stress）概念，為壓力—疾病研究奠基；著作《The Stress of Life》（1956）把壓力概念推向大眾與跨學科 🔵。
+
+**奠基世代（理論框架與制度化）**
+
+- **George L. Engel（1913–1999）**：Rochester 大學精神科醫師。1977 年提出生物心理社會模式，為領域提供理論框架 🔵。
 - **Joseph D. Matarazzo（1925–2025）**：APA 第 38 分會首任會長，1980 年給出領域正式定義，常被稱為健康心理學制度化的關鍵人物。🟢（卒年已三角驗證：legacy.com 訃聞確認 2025 年 1 月 23 日，享壽 99 歲）
-- **Hans Selye（1907–1982）**：內分泌學家。提出**一般適應症候群**（General Adaptation Syndrome, GAS）與現代「壓力」（stress）概念，為壓力—疾病研究奠基。🔵
-- **Richard S. Lazarus（1922–2002）**：與 Susan Folkman 建立**壓力的交互作用／認知評估模型**（transactional model of stress and coping），是健康心理學壓力研究的核心理論。🔵
-- **Neal E. Miller（1909–2002）**：實驗心理學家，內臟反應操作制約與**生物回饋**（biofeedback）研究先驅，示範心理學方法可介入自律生理歷程。🟢
-- **Shelley E. Taylor（1946– ）**：撰寫最具影響力的《Health Psychology》教科書（1986 初版）；提出正向錯覺（positive illusions）與 tend-and-befriend 壓力反應理論。🟢
-- **Aaron Antonovsky（1923–1994）**：醫療社會學家，提出**健康本源學**（salutogenesis）與**統合感**（sense of coherence），把研究焦點從「什麼致病」翻轉為「什麼維持健康」。🟢
-- **Robert Ader（1932–2011）與 Nicholas Cohen**：1975 年以味覺嫌惡制約示範**條件化免疫抑制**，開創**心理神經免疫學**（psychoneuroimmunology, PNI）。🟢
-- **Albert Bandura（1925–2021）**：其**自我效能**（self-efficacy）概念是幾乎所有健康行為改變模型的共同構件。🔵
-- **James O. Prochaska 與 Carlo DiClemente**：提出**跨理論模式**（Transtheoretical Model）／改變階段模型，源自戒菸研究。🟢
+- **Richard S. Lazarus（1922–2002）**：Berkeley 心理學家。與 Susan Folkman 建立**壓力的交互作用／認知評估模型**（transactional model of stress and coping），把壓力研究從生理學的刺激—反應框架轉為認知中介框架，是健康心理學壓力研究的核心理論 🔵。
+- **Neal E. Miller（1909–2002）**：實驗心理學家，內臟反應操作制約與**生物回饋**（biofeedback）研究先驅，示範心理學方法可介入自律生理歷程；亦是行為醫學建制的推手之一 🟢。
+- **Aaron Antonovsky（1923–1994）**：醫療社會學家，提出**健康本源學**（salutogenesis）與**統合感**（sense of coherence），把研究焦點從「什麼致病」翻轉為「什麼維持健康」🟢。
+- **Albert Bandura（1925–2021）**：其**自我效能**（self-efficacy）概念（1977 年《Psychological Review》〈Self-efficacy: Toward a unifying theory of behavioral change〉）是幾乎所有健康行為改變模型的共同構件 🔵。
+
+**當代代表（各研究綱領）**
+
+- **Shelley E. Taylor（1946– ）**：UCLA；撰寫最具影響力的《Health Psychology》教科書（1986 初版，多次改版）；提出**正向錯覺**（positive illusions——輕度自我美化的認知偏誤在適應上可能有益）與 **tend-and-befriend** 壓力反應理論（2000, *Psychological Review*：雌性靈長類在壓力下傾向照料後代與尋求社會連結而非戰或逃，機制假說涉及催產素）🟢 B。
+- **Robert Ader（1932–2011）與 Nicholas Cohen**：1975 年於《Psychosomatic Medicine》以糖精—環磷醯胺味覺制約示範**條件化免疫抑制**，開創**心理神經免疫學**（psychoneuroimmunology, PNI）🟢 A。
+- **Janice Kiecolt-Glaser 與 Ronald Glaser**：俄亥俄州立大學夫妻檔（心理學家 × 病毒免疫學家），PNI 臨床研究主力：醫學生考試壓力降低自然殺手細胞活性、長期照顧者傷口癒合較慢、婚姻衝突影響發炎指標等系列研究，把 PNI 從動物模型帶入人類實地研究 🟢 B。
+- **Sheldon Cohen**：Carnegie Mellon；以病毒攻毒典範（受控暴露於感冒病毒）證明心理壓力與社會關係預測感冒易感性（Cohen, Tyrrell & Smith, 1991, *NEJM*），為「壓力—免疫—疾病」因果鏈提供最乾淨的人類實驗證據之一；並與 Wills 合著社會支持緩衝假說的經典回顧（1985, *Psychological Bulletin*）🟢 B。
+- **Meyer Friedman（1910–2001）與 Ray Rosenman**：心臟科醫師。1959 年於《JAMA》提出 **A 型行為型態**（Type A behavior pattern）與冠心病之關聯，開啟人格—心血管疾病研究綱領（後續發展與修正見 §6）🟢 B。
+- **Howard Leventhal**：提出**常識模型**（Common-Sense Model of illness representations），論證病人對自身疾病持有的素樸理論如何驅動因應與依從行為（見 §3.6）🟢 B。
+- **James O. Prochaska 與 Carlo DiClemente**：提出**跨理論模式**（Transtheoretical Model）／改變階段模型，源自戒菸研究 🟢。
+- **Michael Marmot（1945– ）**：英國流行病學家。Whitehall 英國公務員世代研究顯示健康隨職級呈連續梯度（social gradient in health）——連「都有工作、都有健保」的群體內部也如此，確立社會地位本身（而不只貧窮線下的匱乏）為健康決定因素；主持 WHO 健康社會決定因素委員會（2008 年報告）🟢 B。
 
 ## 3. 核心理論主張
 
-健康心理學的核心主張可整理為五組：
+健康心理學的核心主張可整理為七組：
 
 ### 3.1 生物心理社會模式（biopsychosocial model）
 健康與疾病是生物因素（基因、病原、生理）、心理因素（認知、情緒、行為、人格）與社會因素（家庭、階級、文化、醫療體系）**交互作用**的產物；任何只取一層的解釋都不完整。Engel 的原始論證針對生物醫學的化約論與心身二元論：病人的主觀疾病經驗（illness）與可客觀化的疾病（disease）分屬不同層，醫療若只處理後者，會系統性忽略求醫行為、依從性、安慰劑效應等臨床上真實存在的現象。🔵（A：Engel 1977）
 
+Engel 的論證結構值得展開：他不是主張「心理社會因素也很重要」的折衷式加法，而是以系統論（von Bertalanffy 的一般系統理論）為骨架，主張自然界由分子—細胞—器官—個人—家庭—社會的層級系統構成，每一層有自身的組織原則，且相鄰層間雙向影響；生物醫學模式的錯誤在於把「疾病」定義鎖死在細胞—器官層，使得上層現象（例如喪偶後死亡率上升、症狀主訴與組織病變的落差）在概念上不可見 🟢 B。因此生物心理社會模式在 Engel 手上是一個**科學模型主張**（何謂完整的病因解釋），不只是臨床態度主張（要對病人好一點）——後者是它被通俗化後常被化約成的樣子 🟢。此模式成為健康心理學全領域的預設框架：壓力研究（心理事件如何轉譯為生理歷程）、行為改變（個人認知與社會規範如何共同決定行為）、社會決定因素（結構如何寫入身體）都是它在不同層間的具體化 🟢。
+
 ### 3.2 壓力與因應（stress and coping）
-- **Selye 的 GAS**：生物體面對持續壓力源會經歷警覺（alarm）→ 抗拒（resistance）→ 耗竭（exhaustion）三階段；長期壓力經由下視丘—腦垂體—腎上腺軸（HPA axis）與皮質醇等路徑損害健康。🔵 教科書常把 Selye 的「非特異性反應」主張過度簡化；他晚年也區分了良性壓力（eustress）與苦惱（distress）。🟢
-- **Lazarus 與 Folkman 的交互作用模型**：壓力不在刺激本身，而在**認知評估**（appraisal）——初級評估（此事是威脅／挑戰／無關？）與次級評估（我有資源應付嗎？）決定壓力反應。因應（coping）分**問題焦點**與**情緒焦點**兩大類，何者適應取決於情境可控性。🔵（A：Lazarus & Folkman 1984, *Stress, Appraisal, and Coping*）
+- **Cannon 的戰或逃**：急性威脅動員交感神經—腎上腺髓質軸（SAM axis），腎上腺素／正腎上腺素升高心率、血壓與血糖以支援即時應對；Cannon 已指出此反應在現代社會情境中可能「動員而無出口」，埋下慢性壓力病理化的問題意識 🔵。
+- **Selye 的 GAS**：生物體面對持續壓力源會經歷警覺（alarm）→ 抗拒（resistance）→ 耗竭（exhaustion）三階段；長期壓力經由下視丘—腦垂體—腎上腺軸（HPA axis）與皮質醇等路徑損害健康。🔵 教科書常把 Selye 的「非特異性反應」主張過度簡化；他晚年也區分了良性壓力（eustress）與苦惱（distress）。🟢 Selye 與 Cannon 合起來給出雙軸架構（SAM＝快軸、HPA＝慢軸），至
 
 ### 3.3 健康行為改變的社會認知模型
 - **健康信念模式**（Health Belief Model；Rosenstock 等，1950s–）：行為取決於感知易感性、感知嚴重性、感知效益、感知障礙，加上行動線索與自我效能。🟢
