@@ -10,7 +10,7 @@
 - [x] psychodrama（26.4→42.1KB，2026-07-18）
 - [x] behaviorism（27.8→45.1KB，2026-07-18）
 - [x] constructivist-psychotherapy（27.8→38.9KB，2026-07-18）
-- [ ] structuralism（28.5KB）
+- [x] structuralism（28.5→31.7KB，2026-07-18）
 - [ ] gestalt-psychology（28.8KB）
 - [ ] dbt（28.8KB）
 - [ ] evolutionary-psychology（28.9KB）
