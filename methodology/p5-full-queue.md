@@ -14,7 +14,7 @@
 - [x] gestalt-psychology（28.8→42.0KB，2026-07-19）
 - [x] dbt（28.8→33.6KB，2026-07-19）
 - [x] evolutionary-psychology（28.9→48.9KB，2026-07-19）
-- [ ] person-centered-therapy（29.0KB）
+- [x] person-centered-therapy（29.0→36.8KB，2026-07-19）
 - [ ] social-psychology（30.0KB）
 - [ ] reality-therapy（30.1KB）
 - [ ] cbt（30.3KB）
