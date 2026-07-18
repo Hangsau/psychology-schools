@@ -13,7 +13,7 @@
 - [x] structuralism（28.5→31.7KB，2026-07-18）
 - [x] gestalt-psychology（28.8→42.0KB，2026-07-19）
 - [x] dbt（28.8→33.6KB，2026-07-19）
-- [ ] evolutionary-psychology（28.9KB）
+- [x] evolutionary-psychology（28.9→48.9KB，2026-07-19）
 - [ ] person-centered-therapy（29.0KB）
 - [ ] social-psychology（30.0KB）
 - [ ] reality-therapy（30.1KB）
