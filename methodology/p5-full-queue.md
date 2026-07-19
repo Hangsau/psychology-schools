@@ -21,7 +21,7 @@
 - [x] cbt（30.3→42.3KB，2026-07-19）
 - [x] object-relations（30.6→37.2KB，2026-07-19）
 - [x] attachment-theory（30.9→37.1KB，2026-07-19）
-- [ ] act（31.9KB）
+- [x] act（31.9→39.3KB，2026-07-19）
 - [ ] sfbt（31.9KB）
 - [ ] neo-freudian（32.4KB）
 - [ ] mbsr（32.9KB）
