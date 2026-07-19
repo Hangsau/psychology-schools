@@ -19,7 +19,7 @@
 - [x] social-psychology（30.0→49.5KB，2026-07-19）
 - [x] reality-therapy（30.1→36.9KB，2026-07-19）
 - [x] cbt（30.3→42.3KB，2026-07-19）
-- [ ] object-relations（30.6KB）
+- [x] object-relations（30.6→37.2KB，2026-07-19）
 - [ ] attachment-theory（30.9KB）
 - [ ] act（31.9KB）
 - [ ] sfbt（31.9KB）

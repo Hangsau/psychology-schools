@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-18 晚（**P5 全庫深化管線運轉中**）。薄尾 10/10 ✅；深化已完成 bpsm + psychodrama；其餘 36 篇由 `tools/p5-deepen-runner.sh` 自動管線逐篇處理（隔離 `claude -p`＋自動驗證 commit push；佇列＝`methodology/p5-full-queue.md`）。**Agent tool 派發已棄用**（AUP 誤判兩度攔截）。撞牆會自動停寫 `logs/p5-runner.HALT`——接手先查該檔與佇列勾選狀態，重啟指令在佇列檔頭。P4 ③ 網站待用戶指示呈現形式。
+> 最後更新：2026-07-19（P5 全庫深化進行中）。薄尾 10/10 ✅；深化已完成 bpsm + psychodrama + **cbt（30→42KB，2026-07-19 互動 session）**；其餘篇目由 `tools/p5-deepen-runner.sh` 自動管線逐篇處理（隔離 `claude -p`＋自動驗證 commit push；佇列＝`methodology/p5-full-queue.md`）。**Agent tool 派發已棄用**（AUP 誤判兩度攔截）。撞牆會自動停寫 `logs/p5-runner.HALT`。**自動重啟（2026-07-19）**：`p5-watchdog` schtasks 任務每 20 分跑 `tools/p5-watchdog.sh`（零 LLM），reset 一過就自動重啟 runner、crash 也重啟、佇列清空自刪排程——**不再需要手動「繼續」**；接手先查佇列勾選狀態與 `logs/p5-watchdog.log`。P4 ③ 網站待用戶指示呈現形式。
 
 ## 現況
 
@@ -97,3 +97,7 @@
 - m3 草稿事實可靠度＝科普等級，需校核（尤其年代、歸屬、數字；m3 會捏造數字）。
 - 部分學派（本土 / 非西方 / 表達性藝術）英文二手資料多於一手，缺口較多，已在各篇「已知缺口」區標。
 - M3 額度被 religions-history 佔用約 800 小時，本專案不再依賴 m3；後續批次工作走 Sonnet 5 sub-agent。
+
+## P6–P8 證據保證（P5 後續工作）
+
+P5 完成後，**不可**把「30KB+、verify PASS」解讀為內容已事實證實；現有 `tools/verify.py` 僅做結構／編碼／標題檢查。下一階段改採主張級證據鏈、獨立 AI 驗證與發布閘門，先以 CBT、精神分析、本土心理學三篇試點，量測覆蓋率、來源可取得率、驗證分歧率及已知錯誤攔截率，再擴展全庫。詳見 `methodology/evidence-assurance-roadmap.md`。
