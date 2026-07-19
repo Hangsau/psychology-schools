@@ -37,7 +37,7 @@
 - [x] positive-psychology（查核型：38.5KB；2026-07-20 Opus 高品質審慎篇，查證修 §2 代表人物 3 處——Fredrickson 博士學位密西根→史丹佛 1990、「Donald Duffy」→Ryan D. Duffy、「Acacia Parks（Acacia Chu）自承離開學術界」刪未證別名與矛盾敘述並統一姓氏 Park→Parks；不強增補）
 - [x] systems-family-therapy（查核型：39.1KB；2026-07-20 Opus 已具 P3/P4 之高品質篇，查證修 §2 代表人物 2 處——John Weakland「華裔工程師」→美國化學工程師轉人類學（研究華人文化但非華裔）、Cloé Madanes「精神病學家」→阿根廷裔心理治療師；不強增補）
 - [x] naikan-therapy（清理型：39.3KB；2026-07-20 Opus 查證修創始者傳記與捏造起源——吉本伊信出生地大阪→奈良大和郡山、生卒 1916.5.25–1988.8.1、宗派大谷派→木邊派；起源「鹿兒島感化院觀察」→史實「身調べ」（師駒谷諦信，原型約 1941）；三木善彥精神科醫師→臨床心理學者 1941–2018、京都→奈良研修所）
-- [ ] existential-psychology（39.7KB）
+- [x] existential-psychology（查核型：39.7KB；2026-07-20 Opus 高品質審慎篇，查證修 §2 Yalom 著作——2021 合著書為《死亡與生命手記》非《生命的禮物》(後者=2002 獨著 The Gift of Therapy)、Staring at the Sun 中譯統一《凝視太陽》(原「日落之前」誤植)；§6.5 超個人心理學期刊創刊 1969 非 1968、學會 1972 非 1969；不強增補）
 - [ ] play-therapy（40.5KB）
 - [ ] cultural-historical-psychology（40.7KB）
 - [ ] narrative-therapy（42.8KB）
