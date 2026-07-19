@@ -29,7 +29,7 @@
 - [x] cognitive-psychology（33.6→37.5KB，2026-07-20；補演繹推理/心智模型、基模腳本語意網路、訊號偵測理論）
 - [x] mbct（清理型：33.7KB；2026-07-20 Opus 清幻覺碎片＋亂碼＋捏造歸屬，不確定值降 🟡/🟠）
 - [x] indigenous-psychology（33.9→37.2KB，2026-07-20；補何友暉方法論關係主義、黃光國請託者-資源支配者決策模型、清 §7.1 亂碼）
-- [ ] morita-therapy（34.7KB）
+- [x] morita-therapy（清理型：34.7→36.9KB；2026-07-20 Opus 清捏造遞歸引用來源「石原一彰 2015」×33／「安東祐希 2020」×5／「近藤喬一 2000」，修正新森田療法歸屬為大原健士郎、補真實書目《新しい森田療法》）
 - [ ] art-therapy（35.3KB）
 - [ ] social-constructionism（35.9KB）
 - [ ] social-learning-theory（36.5KB）
