@@ -32,7 +32,7 @@
 - [x] morita-therapy（清理型：34.7→36.9KB；2026-07-20 Opus 清捏造遞歸引用來源「石原一彰 2015」×33／「安東祐希 2020」×5／「近藤喬一 2000」，修正新森田療法歸屬為大原健士郎、補真實書目《新しい森田療法》）
 - [x] art-therapy（清理型：35.3→37.0KB；2026-07-20 Opus 查證修 Viktor/Margaret Lowenfeld 書目混淆、Kinetic School Drawing 發明人 Achteidinger→Prout & Phillips、刪捏造人名 Susanne Margolis/Muryah Gedeon/Dianne Ackerman、神經科學取向改 Hass-Cohen & Carr）
 - [x] social-constructionism（查核型：35.9KB；2026-07-20 Opus 乾淨篇，查證修 2 處共同作者名——定位理論 Bradley Smith→Luk van Langenhove、論述心理學 Mike Edwards→Derek Edwards；不強增補避免引入未證）
-- [ ] social-learning-theory（36.5KB）
+- [x] social-learning-theory（查核型：36.5KB；2026-07-20 Opus 乾淨篇，查證修 §2 Bandura 獎項錯誤——「2008 APA 終身成就獎」實為 2004 APA 傑出終身貢獻獎＋2008 Grawemeyer＋2016 國家科學獎章；不強增補）
 - [ ] multicultural-feminist-therapy（36.9KB）
 - [ ] positive-psychology（38.5KB）
 - [ ] systems-family-therapy（39.1KB）
