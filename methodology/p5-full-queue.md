@@ -33,7 +33,7 @@
 - [x] art-therapy（清理型：35.3→37.0KB；2026-07-20 Opus 查證修 Viktor/Margaret Lowenfeld 書目混淆、Kinetic School Drawing 發明人 Achteidinger→Prout & Phillips、刪捏造人名 Susanne Margolis/Muryah Gedeon/Dianne Ackerman、神經科學取向改 Hass-Cohen & Carr）
 - [x] social-constructionism（查核型：35.9KB；2026-07-20 Opus 乾淨篇，查證修 2 處共同作者名——定位理論 Bradley Smith→Luk van Langenhove、論述心理學 Mike Edwards→Derek Edwards；不強增補避免引入未證）
 - [x] social-learning-theory（查核型：36.5KB；2026-07-20 Opus 乾淨篇，查證修 §2 Bandura 獎項錯誤——「2008 APA 終身成就獎」實為 2004 APA 傑出終身貢獻獎＋2008 Grawemeyer＋2016 國家科學獎章；不強增補）
-- [ ] multicultural-feminist-therapy（36.9KB）
+- [x] multicultural-feminist-therapy（查核型：36.9KB；2026-07-20 Opus 乾淨審慎篇，查證修 §4 書目 3 處——Worell & Remer 初版 1996→1992、Hays 年份/副標對應（初版 2001／副標 Assessment...屬 2008 二版）、長作者名單實屬《Multicultural Counseling Competencies》1998 Sage 非《Counseling the Culturally Diverse》；不強增補）
 - [ ] positive-psychology（38.5KB）
 - [ ] systems-family-therapy（39.1KB）
 - [ ] naikan-therapy（39.3KB）

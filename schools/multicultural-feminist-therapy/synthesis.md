@@ -90,9 +90,9 @@
 - 《Trauma and Recovery: The Aftermath of Violence—from Domestic Abuse to Political Terror》／Judith Lewis Herman，1992，Basic Books。© 有版權。女性主義創傷理解與復原工作的關鍵著作（🔵；A）。
 - 《Subversive Dialogues: Theory in Feminist Therapy》／Laura S. Brown，1994，Basic Books。© 有版權。女性主義治療理論、權力與臨床關係的重要著作（🟢；A）。
 - 《Women of Color: Integrating Ethnic and Gender Identities in Psychotherapy》／Laura Comas-Díaz、Beverly Greene 編，1994，Guilford Press。© 有版權。種族／族裔與性別身分交織的心理治療文集（🟢；B）。
-- 《Feminist Perspectives in Therapy: An Empowerment Model for Women》／Judith Worell、Pamela Remer，1996，Wiley。© 有版權。增能模式與女性主義治療實務教材（🟢；B）。
-- 《Addressing Cultural Complexities in Practice: Assessment, Diagnosis, and Therapy》／Pamela A. Hays，1996，American Psychological Association。© 有版權。文化複雜性、評估、診斷與治療調整的重要教材（🟢；B）。
-- 《Counseling the Culturally Diverse: Theory and Practice》／Derald Wing Sue、Robert T. Carter、J. M. Casas、N. A. Fouad、M. A. Ivey、W. M. Jensen、T. LaFromboise、J. G. Manese、J. P. Ponterotto、J. G. Vasquez，1998 第 2 版，Wiley。© 有版權。多元文化諮商的代表性教科書；版次與作者排序應依實際使用版本再核對（🟡；B）。
+- 《Feminist Perspectives in Therapy: An Empowerment Model for Women》／Judith Worell、Pamela Remer，1992（初版；2003 年改版更名為 *Empowering Diverse Women*），Wiley。© 有版權。增能模式與女性主義治療實務教材（🟢；B）。
+- 《Addressing Cultural Complexities in Practice》／Pamela A. Hays，American Psychological Association。初版 2001（副標 *A Framework for Clinicians and Counselors*）；副標 *Assessment, Diagnosis, and Therapy* 為 2008 年第 2 版。© 有版權。文化複雜性、評估、診斷與治療調整的重要教材（🟢；B）。
+- 《Multicultural Counseling Competencies: Individual and Organizational Development》／Derald Wing Sue、Robert T. Carter、J. Manuel Casas、Nadya A. Fouad、Allen E. Ivey、Margaret Jensen、Teresa LaFromboise、Jeanne E. Manese、Joseph G. Ponterotto、Ena Vazquez-Nuttall，1998，Sage。© 有版權。多元文化諮商能力於個人與組織層次的代表性專書（🟢；B）。
 - 《Guidelines on Multicultural Education, Training, Research, Practice, and Organizational Change for Psychologists》／American Psychological Association，2003。© APA。多元文化心理學教育、訓練、研究與實務的專業指引（🟢；A/B）。
 - 《Multicultural Guidelines: An Ecological Approach to Context, Identity, and Intersectionality》／American Psychological Association，2017。© APA。以生態脈絡、身分與交織性更新多元文化心理實務的指引（🔵；A/B）。
 
@@ -233,3 +233,5 @@ D1 存在與意義、D7 善惡良心品格、D8 工作成就召喚與 D10 無常
 - **待補研究**：後續應補入華人女性主義心理學、原住民族與去殖民心理治療、跨性別與非二元實務、身心障礙正義、階級與住房不平等、文化適配治療的系統性回顧，以及不同文化中「增能」「互依」「家庭責任」的比較研究；目前本篇對這些主題僅提供方向，不能視為完整文獻盤點（🔴；資料待補）。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 0 處事實（代表人物生卒年 Miller 1927-2006、bell hooks 1952-2021 均已核實）/ 刪 0 條可疑書目（書目整體可信）/ concept_tags 已填。
+
+> 🟢 P5 查核：2026-07-20 Opus；乾淨且審慎標記之篇，僅修 §4 書目 3 處已 WebSearch 查證之細節——Worell & Remer《Feminist Perspectives in Therapy》初版年 1996→1992（1996 為重印；2003 改版更名 Empowering Diverse Women）；Hays《Addressing Cultural Complexities》年份／副標對應更正（初版 2001「A Framework for Clinicians and Counselors」，「Assessment, Diagnosis, and Therapy」副標屬 2008 第 2 版）；原標為《Counseling the Culturally Diverse》但所附長作者名單實屬另一書《Multicultural Counseling Competencies: Individual and Organizational Development》（Sue 等，1998，Sage），據實更正書名與作者。原則：來源中立，先查證再改，僅改已證之處、未新增未查證事實。
