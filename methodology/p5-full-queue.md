@@ -30,7 +30,7 @@
 - [x] mbct（清理型：33.7KB；2026-07-20 Opus 清幻覺碎片＋亂碼＋捏造歸屬，不確定值降 🟡/🟠）
 - [x] indigenous-psychology（33.9→37.2KB，2026-07-20；補何友暉方法論關係主義、黃光國請託者-資源支配者決策模型、清 §7.1 亂碼）
 - [x] morita-therapy（清理型：34.7→36.9KB；2026-07-20 Opus 清捏造遞歸引用來源「石原一彰 2015」×33／「安東祐希 2020」×5／「近藤喬一 2000」，修正新森田療法歸屬為大原健士郎、補真實書目《新しい森田療法》）
-- [ ] art-therapy（35.3KB）
+- [x] art-therapy（清理型：35.3→37.0KB；2026-07-20 Opus 查證修 Viktor/Margaret Lowenfeld 書目混淆、Kinetic School Drawing 發明人 Achteidinger→Prout & Phillips、刪捏造人名 Susanne Margolis/Muryah Gedeon/Dianne Ackerman、神經科學取向改 Hass-Cohen & Carr）
 - [ ] social-constructionism（35.9KB）
 - [ ] social-learning-theory（36.5KB）
 - [ ] multicultural-feminist-therapy（36.9KB）
