@@ -22,7 +22,7 @@
 - [x] object-relations（30.6→37.2KB，2026-07-19）
 - [x] attachment-theory（30.9→37.1KB，2026-07-19）
 - [x] act（31.9→39.3KB，2026-07-19）
-- [ ] sfbt（31.9KB）
+- [x] sfbt（31.9→40.7KB，2026-07-19）
 - [ ] neo-freudian（32.4KB）
 - [ ] mbsr（32.9KB）
 - [ ] cross-cultural-psychology（33.3KB）

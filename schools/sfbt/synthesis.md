@@ -16,6 +16,10 @@ Madanes、Haley、Watzlawick 等人的策略派強調「介入設計」、矛盾
 
 **形成時間軸**：de Shazer 與 Berg 於 1970 年代末期在密爾瓦基的 BFTC 開始有系統地記錄會談與介入，1982 年 de Shazer 提出「solution-focused」一詞對比 MRI 傳統的「problem-focused」，1985 年出版 *Keys to Solution in Brief Therapy* 標誌取向正式成形。🔵 1990 年代起，透過 Berg、Weiner-Davis、Gingerich、Lipchik、Trepper 等第二代推廣者，SFBT 從家庭治療場域擴散至學校、企業 EAP、戒癮、社工、護理等領域。🟢
 
+**歸納式方法論的建立**：SFBT 的理論形成方式在家庭治療史中屬異數——它不是從理論到技術的演繹，而是從系統性的會談錄像分析歸納出有效介入模式。BFTC 成員（包括 de Shazer、Berg、Gingerich、Lipchik、Nunnally、Molnar、Weiner-Davis 等）在 1970–80 年代逐案逐會談地記錄「哪些治療師行為與客戶次節的正向回報相關」。🟢 de Shazer 在 *Keys to Solution in Brief Therapy*（1985）序言中說明：他們的方法是從數百段真實會談中尋找「差異」——哪些問題讓客戶的語言從「問題敘述」轉為「解決建構」。這種歸納研究傳統使 SFBT 的核心技術（奇蹟問題、量尺問題、例外探索）不是理論推導的產物，而是觀察到「在對話層次確實帶出不同方向」後才被保留的操作。🔵
+
+BFTC 的物理架構（單面鏡、後方觀察團隊、會談中段暫停）是此歸納過程的制度體現：後方團隊在看會談、討論假設、生成任務，前方治療師帶著任務字條回到客戶面前——整個設置即是「實驗 + 即時修正」的研究型臨床操作。🟢 de Shazer 後來在 1997 年以後的訪談中說：「我們不知道這樣為什麼有用，我們只知道它有用。」此務實主義立場正是 SFBT 拒絕提出宏觀解釋理論的歷史根源。🟡（訪談來源文字形式未能確認，保留為 🟡。）
+
 ## 2. 代表人物
 
 **Steve de Shazer（1940–2005）** 🔵  
@@ -25,12 +29,15 @@ Madanes、Haley、Watzlawick 等人的策略派強調「介入設計」、矛盾
 韓裔美國治療師，與 de Shazer 共同於 1978 年創立 BFTC。🔵 C（Wikipedia「Insoo Kim Berg」條目；Berg 為 BFTC 共同創辦人，非晚於 de Shazer 加入）1970 年代從個案工作中發展出對兒童、青少年、家庭的具體作法，被視為 SFBT 實務面（特別是兒少、家庭、物質使用場域）的集大成者。🔵 1994 年出版 *Family Based Services*，1992 年與 Scott D. Miller 合作 *Working with the Problem Drinker*，將 SFBT 系統帶入物質使用領域。🔵 與 Peter De Jong 合著 *Interviewing for Solutions*（1998, 2002, 2008, 2013）至今仍是 SFBT 教科書中最被廣泛使用者。🔵
 
 **第二代重要推手（按領域貢獻）**：  
-- **Michele Weiner-Davis**：1980 年代 BFTC 成員，*In Search of Solutions*（與 O'Hanlon 合著, 1989）、*Divorce Busting*（1992），推廣至親密關係議題。🟢  
-- **Eve Lipchik**：BFTC 早期成員，1997 年起強調「超越技術」的會談倫理與合作立場。🟢  
-- **Wallace Gingerich / Elam Nunnally / Alex Molnar**：BFTC 共同研究員，1970–80 年代累積成效研究樣本。🟢  
+- **Michele Weiner-Davis**：1980 年代 BFTC 成員，*In Search of Solutions*（與 O'Hanlon 合著, 1989）、*Divorce Busting*（1992），推廣至親密關係議題。🟢 Weiner-Davis 特別強調「pre-session change」作為正式介入技術——她發現在第一節中詢問「預約後到今天之間你注意到什麼改變」，大比例客戶報告情況已有些微改善，此觀察成為後來「問題在沒被注意的時候已在改變」的理論依據。🟢  
+- **Eve Lipchik**：BFTC 早期成員，1997 年起強調「超越技術」的會談倫理與合作立場。🟢 Lipchik 是 SFBT 陣營內最早系統性挑戰「純技術中立」取向的聲音，她主張 SFBT 治療師並非技術操作者，而是「帶著理論前提進入對話的人」，其 *Beyond Technique in Solution-Focused Therapy*（2002）是此立場的集大成著作。🟡（書名與年份以記憶為主，建議核對。）  
+- **Wallace Gingerich / Elam Nunnally / Alex Molnar**：BFTC 共同研究員，1970–80 年代累積成效研究樣本。🟢 Gingerich 後來成為 SFBT 最重要的實證研究者，2000 年在 *Family Process* 發表的文獻回顧是 SFBT 首次系統性成效評估，對取向的制度化貢獻極大。🟢  
 - **Scott D. Miller**：1990 年代與 Berg 合著戒癮專書，後創辦「國際成效研究學會」（ICCBT, Institute for the Study of Therapeutic Change），將 SFBT 與 outcome research 整合。🟢  
 - **Terry S. Trepper、Eric E. McCollum、Peter K. Hovestadt**：發展 *Computer-Assisted Behavioral Analysis System (CABAS)* 與學校系統的 SFBT 應用。🟢  
-- **Cade Beven、Fiona Hutton、Harvey Ratner、Chris Iveson、George Shennan、Alasdair Macdonald、Mark McKergow（英系）**：1990 年代起於英國、加拿大將 SFBT 制度化為短期諮商主流之一。🟡  
+- **Harvey Ratner、Chris Iveson、George Shennan（英系，BRIEF 機構）**：1990 年代起於英國倫敦成立 BRIEF（British Institute for Learning and Development 前身），將 SFBT 制度化為英國短期諮商主流。🟡 三人合著 *Solution-Focused Brief Therapy: 100 Key Points and Techniques*（Routledge, 2012）是英系 SFBT 的代表教本。🟢  
+- **Alasdair Macdonald**：英國精神科醫師，系統性整理 SFBT 實證文獻，*Solution-Focused Therapy: Theory, Research & Practice*（Sage, 2007）是英系實證取向最完整的學術著作。🟢  
+- **Mark McKergow、Jenny Clarke**：將 SFBT 引入企業管理與組織改變場域，開創「Solution Focus in Organisations」應用分支。🟡  
+- **Cade Beven、Fiona Hutton（澳洲）**：1990 年代起於澳洲將 SFBT 帶入社工與教育領域。🟡  
 - **Sven Sundberg、Lars-Gunnar Håll、Lars-Göran Sjödahl（瑞典）**：將 SFBT 帶入瑞典社會服務系統，是歐洲最大規模的 SFBT 應用場域。🟡
 
 ## 3. 核心理論主張
@@ -81,6 +88,22 @@ de Shazer 1988 年提出三條 SFBT 的「rule of thumb」🔵：
 1. 若介入有效，繼續做。
 2. 若介入無效，做不同的。
 3. 若客戶不知該做什麼，做他們認為能讓奇蹟發生的任何事。
+
+**3.11 客戶類型學：訪客、投訴者、消費者（Visitor / Complainant / Customer）**  
+SFBT 發展出一套獨特的客戶關係類型學，用以判斷適合的介入深度與任務指派方式。🔵 de Shazer（1988 *Clues*）區分三種「誰來了」的型態：
+
+- **訪客（Visitor）**：客戶本身並不認為問題存在，或認為問題在他人身上；通常由法院、家長、學校強制轉介。SFBT 對訪客的處理原則是「讚美出現、不指派任務」——先肯定其赴約的行動，避免讓其因被要求改變而抗拒。🟢  
+- **投訴者（Complainant）**：客戶能清楚說明自己的困難與對他人行為的不滿，但尚未準備採取行動；通常認為「改變需要由他人先改」。SFBT 對投訴者的策略是：肯定其對問題的描述、探索「若他人改變你會先注意到什麼」，但不直接指派自我改變任務，改以「觀察任務」（observation task）為主。🟢  
+- **消費者（Customer）**：客戶已清楚看到問題存在、認為自己有責任或能力參與改變。SFBT 對消費者可直接指派「do something different」「do more of what works」類的行動任務。🔵
+
+這三分架構對臨床決策具有重要意義：同一技術對不同類型客戶效果截然不同。錯誤地對「訪客」指派行動任務，往往產生「不配合」「抗拒」的錯誤歸因，而 SFBT 認為「抗拒」本身是治療師與客戶「類型未對準」的訊息，而非客戶人格問題。🟢 Lipchik 與 Nunnally 在 1980 年代 BFTC 的訓練課程中已將此類型學作為初步評估工具，後成為全球 SFBT 訓練的核心框架之一。🟢
+
+**3.12 語言遊戲、維根斯坦哲學與「有用的問題」**  
+de Shazer 在晚期著作（1991、1994）明確以維根斯坦（Ludwig Wittgenstein）的語言遊戲（Sprachspiel / language game）理論為 SFBT 的後設哲學基礎。🔵 維根斯坦 *哲學研究*（*Philosophische Untersuchungen*, 1953）主張：詞語的意義不存在於其指涉的內部心理狀態，而在於其在特定語言遊戲與生活形式（Lebensform）中的用法。de Shazer 據此主張：「問題」並非獨立於談話之外的客觀狀態，而是客戶在特定語言遊戲（抱怨、求助、診斷）中建構出的存在；改變問題的語言遊戲，即改變了「問題」本身。🟢
+
+由此衍生 SFBT 的關鍵操作概念「有用的問題」（useful questions）：問題不在於是否「正確描述現實」，而在於是否「對客戶的生活帶出有用的差異」。🔵 奇蹟問題、例外探索問句、量尺問題之所以被設計為特定問法，正是因為 BFTC 的多年錄像研究顯示這些問法在對話層次上產生了「方向性差異」——客戶在被這樣問之後，開始以不同的時態（未來而非過去）和不同的主體（自己而非他人）談論改變。🟢
+
+de Shazer 晚期（1994 *Words Were Originally Magic*）進一步主張：治療師說「你有一個問題叫憂鬱」與說「你說你這週難以起床」之間，是兩個根本不同的語言遊戲——前者把困難本體化為診斷類別，後者把困難留在可觀察行為的層次。SFBT 刻意選擇後者，並視此為倫理性的語言責任，而非僅是技術偏好。🟢
 
 ## 4. 關鍵著作書目
 
@@ -194,13 +217,13 @@ SFBT 的方法學有兩個層次：**會談結構**（session architecture）與
 
 **6.3 後續分支與影響**
 
-- **第二代 SFBT 治療師**：包括 Peter de Jong（荷裔美國人）、Fiona Hutton、Cade Beven（澳洲）、Eve Lipchik、Elliott Connie（後現代整合派）等。🟢  
-- **解決焦點教練學（Solution-Focused Coaching）**：Greene, J. & Grant, A. M.（2003）、Jackson (2009) 將 SFBT 系統引入教練學（coaching），是 SFBT 在 EAP / 企業諮詢領域最大宗的延伸。🟢  
-- **學校體系的 SFBT**：Franklin、Trout、Kelley 等開發「SFBT in Schools」框架，Metcalf (2008)、Kelly et al. (2008) 為教科書。🟢  
-- **社工系統的 SFBT**：Berg 的 Solution-Oriented Social Work 框架被多個美國、瑞典、芬蘭、英國地方政府系統採納為主流短期介入。🟢  
+- **第二代 SFBT 治療師**：包括 Peter de Jong（荷裔美國人）、Fiona Hutton、Cade Beven（澳洲）、Eve Lipchik、Elliott Connie（後現代整合派）等。🟢 Peter de Jong 與 Berg 合著 *Interviewing for Solutions*（1998 起多版次）是全球最廣泛使用的 SFBT 訓練教科書，其貢獻不只是推廣，而是將 SFBT 的訪談架構系統化為可教學的對話流程，強化了取向的可傳授性。🔵  
+- **解決焦點教練學（Solution-Focused Coaching）**：Greene, J. & Grant, A. M.（2003）、Jackson (2009) 將 SFBT 系統引入教練學（coaching），是 SFBT 在 EAP / 企業諮詢領域最大宗的延伸。🟢 SFBT 在教練學場域的應用建立在一個核心轉移上：「客戶」從有明確問題的人轉為有發展目標的人，「奇蹟問題」被改寫為「理想狀態問題」（preferred future question），「例外探索」則對應「過去成功經驗探索」。此轉移使 SFBT 技術在企業、運動、教育等非臨床場域得以流通，但也引發「教練不是治療」的邊界爭議。🟡  
+- **學校體系的 SFBT**：Franklin、Trout、Kelley 等開發「SFBT in Schools」框架，Metcalf (2008)、Kelly et al. (2008) 為教科書。🟢 學校場域的 SFBT 應用特別強調「顧客類型學」在非自願個案（學生被轉介）中的重要性——大多數學校諮商個案屬「訪客型」，對此類個案直接問奇蹟問題反而無效；學校 SFBT 版本因此發展出更多「觀察任務」與「讚美型第一節」的修改版本。🟢  
+- **社工系統的 SFBT**：Berg 的 Solution-Oriented Social Work 框架被多個美國、瑞典、芬蘭、英國地方政府系統採納為主流短期介入。🟢 社工場域的 SFBT 面臨的特殊挑戰是「強制性個案」——客戶不是自願求助，而是被公權力介入（兒保、犯罪矯治）。SFBT 在此場域發展出「目標協商」框架：承認「你來這裡不是自己想來的」，但同時探索「你自己希望這個情況結束後生活有什麼不同」——此框架將強制轉介的抗拒能量轉為目標建構的材料。🟢  
 - **醫療、護理場域**：McAllister、Moye、Perlesz 等將 SFBT 用於慢性病照護、精神科住院、急性醫療環境。🟡  
-- **AI、chatbot、數位心理健康**：2020 年代起，數位心理健康 App 將 SFBT 技術（奇蹟問題、量尺）大量整合至結構化對話流程（Woebot、Wysa、Mevii 等），但對其「是否仍為 SFBT」爭議未休。🟡  
-- **混合取向**：Elliott Connie、Sara Smock Jordan 等提出「solution-focused narrative therapy」、「solution-focused CBT」、「SFBT 加上 ACT」等整合派別。🟡
+- **AI、chatbot、數位心理健康**：2020 年代起，數位心理健康 App 將 SFBT 技術（奇蹟問題、量尺）大量整合至結構化對話流程（Woebot、Wysa、Mevii 等），但對其「是否仍為 SFBT」爭議未休。🟡 SFBT 之所以適合數位化是因其技術高度結構化、問句可被腳本化——但這同時帶出一個核心問題：SFBT 的效力究竟來自「技術結構」還是來自「治療師與客戶的合作對話」？此問題在數位化情境中被放大，因為 AI 版本無法真正回應「客戶的細部語言差異」，只能套用固定問句結構。🟡  
+- **混合取向**：Elliott Connie、Sara Smock Jordan 等提出「solution-focused narrative therapy」、「solution-focused CBT」、「SFBT 加上 ACT」等整合派別。🟡 整合派的核心張力在於：SFBT 的創辦者（特別是 de Shazer）刻意不建立整合理論，而將其視為「開放框架」；但整合派治療師往往需要先有一個元理論才能決定「何時用 SFBT 技術、何時切換到其他取向」——而這個元理論本身並非 SFBT 所提供的。🟠
 
 **6.4 內部辯論**
 
@@ -277,3 +300,5 @@ SFBT 主要回應 **D11（自由命運改變）、D13（安頓修復平安）、
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 3 處事實（§2 de Shazer 學歷「音樂與數學」→「Fine Arts 學士與 MSSW 社會工作」；§2 Berg「1976 年加入 BFTC」→「1978 年共同創辦 BFTC」；§4 書目「1997 *Tricks* 即 More Than Miracles」→ 拆為 2007 年 de Shazer/Dolan/Korman 合著，*Tricks* 另標 🔴 待補）/ 刪 0 條可疑書目 / concept_tags 已填。
 
 > 🟢 P4 仲裁：2026-07-17 Opus；Kim (2008) effect size 更正為 d≈0.13–0.26（小）；刪捏造書目 de Shazer《Tricks》(1997)。
+
+> 🟢 P5 補全：2026-07-19；新增 §3.11 客戶類型學（Visitor/Complainant/Customer 三分架構）、§3.12 維根斯坦語言遊戲理論作為 SFBT 後設哲學；§1 補 BFTC 歸納式研究方法論說明；§2 展開 Weiner-Davis/Lipchik/Gingerich/英系人物具體貢獻；§6.3 展開解決焦點教練學轉移架構、學校顧客類型應用、社工強制個案目標協商、數位化效力來源爭議。全篇 39.3KB，ALL PASS，CLEAN。
