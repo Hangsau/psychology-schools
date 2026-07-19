@@ -27,7 +27,7 @@
 - [x] cross-cultural-psychology（33.3→48.2KB，2026-07-19）
 - [x] psychoanalysis（35.6KB；密度標竿篇本身——缺口已補、免深化，2026-07-20 打勾）
 - [x] cognitive-psychology（33.6→37.5KB，2026-07-20；補演繹推理/心智模型、基模腳本語意網路、訊號偵測理論）
-- [ ] mbct（33.7KB）
+- [x] mbct（清理型：33.7KB；2026-07-20 Opus 清幻覺碎片＋亂碼＋捏造歸屬，不確定值降 🟡/🟠）
 - [ ] indigenous-psychology（33.9KB）
 - [ ] morita-therapy（34.7KB）
 - [ ] art-therapy（35.3KB）
