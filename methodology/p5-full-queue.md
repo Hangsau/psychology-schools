@@ -60,6 +60,12 @@
 - 批次 M（查缺型）：biological-psychology / humanistic-psychology
 - biopsychosocial-model 單獨走隔離 `claude -p`
 
-## 撞牆恢復
+## 撞牆恢復（已自動化）
 
-任一批回報 hit limit：已完成篇均已逐篇 commit；勾選本檔進度、更新 HANDOFF、shotclock 排 reset+10 分單發恢復（prompt＝「讀 methodology/p5-full-queue.md 從第一個未勾項繼續」）。
+撞牆時 runner 寫 `logs/p5-runner.HALT` 後退出；`p5-watchdog` schtasks 任務每 20 分檢查，reset 一過就自動 `rm HALT` + 重啟 runner，從第一個未勾項繼續。已完成篇均已逐篇 commit，無損失。**無需人工介入**。
+若 watchdog 排程遺失（重灌／手動刪）：`python tools/p5-register-watchdog.py` 重註冊。手動即刻重啟：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`。
+
+## 失敗篇（`[!]`）處理
+
+runner 判 FAILED 會存 `logs/p5-failed-<slug>.patch` 並還原檔案。恢復：`git apply` 該 patch → 跑 verify/scan 找真正卡點 → 修好 → commit → 佇列 `[!]`→`[x]`。
+- **已知誤判**：「P5 補全」紀錄行若含簡繁「X→Y」字面對照，被更正字元本身會被 `scan-simplified.py` 掃到→誤判 FAILED。改寫紀錄行去掉該字元即過（brief 已加禁令，2026-07-19 object-relations 事故）。
