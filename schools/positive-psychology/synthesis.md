@@ -18,14 +18,14 @@
 
 - **Martin E. P. Seligman**（1942– ）🔵：賓州大學教授，APA 主席（1998），正向心理學共同命名者。早年最重要工作是「習得無助感（learned helplessness）」（1967 起，與 Bruce Overmier、S. F. Maier，B），1970 年代中期與 Lyn Abramson、John Teasdale 等提出「歸因風格（attributional style）」的修正理論（B, Abramson, Seligman & Teasdale 1978）。1990 年代末從「修復」轉向「建造」，出版《Learned Optimism》(1991)、《Authentic Happiness》(2002)、《Flourish》(2011)。📌 **避開教科書扭曲**：Seligman 並未聲稱「習得無助感模型可解釋所有人類抑鬱」；他自己在 1990 年代已修正為歸因風格模型（B, Abramson et al. 1978）。Seligman 也**從未**提出「快樂方程式 = 一個恆定基線 + 你的意圖點」這種簡化版本；他 2011 年明確以 PERMA 五要素取代「快樂」單一指標（B, Seligman 2011）。🟢
 - **Mihaly Csikszentmihalyi**（1934–2021）🔵：芝加哥大學博士，Claremont Graduate University 教授。1970 年代起以「經驗抽樣法（Experience Sampling Method, ESM）」系統研究「心流（flow）」（B, Csikszentmihalyi, Larson & Prescott 1977；Csikszentmihalyi 1990）。他將自身領域命名為「最優經驗的心理學」，主張心流是幸福感的主要來源之一，奠定正向心理學中「投入（engagement）」這個支柱。📌 **避開扭曲**：心流並不是「快樂感」或「興奮感」；Csikszentmihalyi 明確指出心流的特徵之一是「自我意識暫時消失」，因此伴隨的是深度的專注與事後反思性滿足，而非當下的愉悅（B）。🟢
-- **Barbara L. Fredrickson**（1964– ）🔵：密西根大學博士（指導：Carver、Capps），以「拓延—建構理論（broaden-and-build theory）」聞名（B, Fredrickson 1998, 2001）。她後續以「Positivity Resonance」（2013 起）研究人際關係中的微觀正向情緒共鳴（B）。
+- **Barbara L. Fredrickson**（1964– ）🔵：史丹佛大學博士（1990），曾任教於密西根大學，現為北卡羅來納大學教堂山分校教授，以「拓延—建構理論（broaden-and-build theory）」聞名（B, Fredrickson 1998, 2001）。她後續以「Positivity Resonance」（2013 起）研究人際關係中的微觀正向情緒共鳴（B）。
 - **Christopher Peterson**（1950–2012）🔵：密西根大學教授，與 Seligman 共同主持 Character Strengths and Values 計畫，2004 年出版與牛津大學出版社 / APA 合作的《Character Strengths and Virtues》（CSV, B）。Peterson 也是「歸因風格量表（ASQ）」的開發者之一。
 - **Edward Diener**（1946–2021）🔵：曾被《紐約時報》稱作「Dr. Happiness」，主觀幸福感（Subjective Well-Being, SWB）研究的核心建立者（B, Diener 1984, 與同事開發 Satisfaction with Life Scale, SWLS）。📌 **避開扭曲**：SWB 不等於「快樂得分」；它由三個獨立可分構念組成——生活滿意度（認知評價）、正向情緒頻率、負向情緒頻率（B, Diener 1984）。
 - **Donald O. Clifton**（1924–2003）🔵：內布拉斯加大學心理學家、企業顧問，2002 年獲 APA 頒布「優勢本位心理學之父暨正向心理學祖父」（father of strengths-based psychology and grandfather of positive psychology）Presidential Commendation 終身貢獻獎（🔵 APA PsycNet 紀念文；草稿舊誤稱「APA 1998 命名」已修正）。他創立 Gallup 的「優勢發現運動」，提出「如果你能改變問句，便能改變未來」的優勢觀點。其遺作《StrengthsFinder》經典化為 CliftonStrengths（©）。
 - **Sonja Lyubomirsky**（1966– ）🔵：加州大學河濱分校教授，《The How of Happiness》(2007, ©) 作者，她與 Sheldon、King 等合著〈Pursuing Happiness: The Architecture of Sustainable Change〉(2005, B) 提出「幸福點（happiness set-point）」，並指出意志性活動、行為改變可長期提升幸福感。
 - **Tal Ben-Shahar**（1970– ）🟡：哈佛大學最受歡迎的「正向心理學」與「領導心理學」課程教師之一（2002–2010），著作《Happier》(2002, ©)、《Even Happier》(2009, ©)。📌 **注意**：他是正向心理學的**普及者與課程教師**，非學術理論奠基者。
-- **Ray Fowler**、**Kennon Sheldon**、**Laura King**、**Amy Wrzesniewski**、**Bryan Dik**、**Donald Duffy** 等屬於第二代研究者，重要議題分別為使命感研究、幸福改變模型、工作中之召喚（job calling）。
-- **異議者**：**Acacia Parks（Acacia Chu）** 於 2012 年發表〈A Critical Examination of Positive Psychology〉，並自承離開正向心理學學術界（個人部落格，C/D）；**Barbara Ehrenreich** 於 2009 年出版《Bright-sided: How the Relentless Promotion of Positive Thinking Has Undermined America》(©, C/D)，是外部最知名的批判者；**Nicholas J. L. Brown**、**Alan Sokal**、**Howard S. Friedman** 於 2013 年發表在《American Psychologist》的批判論文（B）促成了「Losada 比率」的正式撤銷。
+- **Ray Fowler**、**Kennon Sheldon**、**Laura King**、**Amy Wrzesniewski**、**Bryan Dik**、**Ryan Duffy** 等屬於第二代研究者，重要議題分別為使命感研究、幸福改變模型、工作中之召喚（job calling）。
+- **異議者**：**Acacia C. Parks**（賓州大學正向心理學中心博士，後續轉向數位療癒實務）於 2012 年前後對正向心理學提出內部批判性檢視（詳見 §6.1，C/D）；**Barbara Ehrenreich** 於 2009 年出版《Bright-sided: How the Relentless Promotion of Positive Thinking Has Undermined America》(©, C/D)，是外部最知名的批判者；**Nicholas J. L. Brown**、**Alan Sokal**、**Howard S. Friedman** 於 2013 年發表在《American Psychologist》的批判論文（B）促成了「Losada 比率」的正式撤銷。
 
 ## 3. 核心理論主張
 
@@ -149,7 +149,7 @@ B, Seligman 1991《Learned Optimism》；理論基礎為 Abramson, Seligman & Te
 **批判類**：
 - Brown, N. J. L., Sokal, A. D., & Friedman, H. S. (2013). The complex dynamics of wishful thinking: The critical positivity ratio. *American Psychologist*, 68(9), 801–813.（A, © APA）——正式撤銷 Losada 比率。
 - Ehrenreich, B. (2009). *Bright-sided: How the relentless promotion of positive thinking has undermined America*. New York: Metropolitan Books.（C/D, ©）——外部批判性觀點的代表。
-- Park, A. C. (2012). A critical examination of positive psychology. [Personal blog post].（D）
+- Parks, A. C. (2012). A critical examination of positive psychology. [Personal blog post].（D，標題與出處未能獨立查證）
 - Lazarus, R. S. (2003). Does the positive psychology movement have legs? *Psychological Inquiry*, 14(2), 138–150.（A）——內部最知名的早期異議之一。
 
 **前置前驅**：
@@ -288,3 +288,5 @@ B, Seligman 1991《Learned Optimism》；理論基礎為 Abramson, Seligman & Te
 15. **本篇無法獨立查證的內部細節**：Seligman 1980 年代到 1990 年代思想轉變的具體時點、Templeton Foundation 與 Robert Wood Johnson Foundation 的具體撥款年份、Claremont Quality of Life Research Center 的成立年份等，因未親自訪問一手檔案，僅採二次來源轉述（🔴，請讀者以原始檔案為準）。
 
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 2 處事實（Clifton APA 命名年份 1998→2002、稱謂「正向心理學之父」→「優勢本位心理學之父暨正向心理學祖父」）/ 刪 0 條可疑書目 / concept_tags 已填。
+
+> 🟢 P5 查核：2026-07-20 Opus；高品質審慎篇，修 §2 代表人物 3 處已 WebSearch 查證之錯誤——Fredrickson 博士學位由「密西根大學（指導 Carver、Capps）」更正為史丹佛大學 1990（密西根為其教職而非學位；原指導者名未能查證故刪）；「Donald Duffy」更正為 Ryan D. Duffy（Dik 之召喚研究合著者）；「Acacia Parks（Acacia Chu）…自承離開學術界」——姓氏應為 Parks、括號別名未能查證且「離開學術界」與其後續數位療癒實務相矛盾，故刪別名與該敘述並統一書目姓氏 Park→Parks，該批判之標題出處未能獨立查證已加註。原則：來源中立，先查證再改，僅改已證之處、未新增未查證事實。
