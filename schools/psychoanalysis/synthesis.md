@@ -67,7 +67,7 @@
 - 🔵《圖騰與禁忌》（*Totem und Tabu*），Sigmund Freud，1913。把精神分析推入宗教人類學。**PD**：歷史版本公有領域。
 - 🟢〈論自戀：一個導論〉（*Zur Einführung des Narzißmus*），Sigmund Freud，1914。建立自戀（*Narzißmus*）作為力比多退縮之轉向，而非純粹客體愛之反向。**PD**：歷史版本公有領域。
 - 🔵《精神分析導論》（*Vorlesungen zur Einführung in die Psychoanalyse*），Sigmund Freud，1916–1917。系統性理論導論文本，覆蓋失誤、夢、神經症通論等。**PD**：歷史版本公有領域。
-- 🟢〈哀悼與憂鬱〉（*Trauer und Melancholie*），Sigmund Freud，1917。區分哀悼（Trauer，有期限的現實重建）與憂鬱（Melancholie，涉及失落客體「內投」——自我以失落客體自居後，對客體之攻擊轉向內指為自我批判）之動力差異。此文是後世憂鬱理論、哀傷心理學與客體關係理論（Klein 之内射概念）的重要前驅。**PD**：歷史版本公有領域。
+- 🟢〈哀悼與憂鬱〉（*Trauer und Melancholie*），Sigmund Freud，1917。區分哀悼（Trauer，有期限的現實重建）與憂鬱（Melancholie，涉及失落客體「內投」——自我以失落客體自居後，對客體之攻擊轉向內指為自我批判）之動力差異。此文是後世憂鬱理論、哀傷心理學與客體關係理論（Klein 之內射概念）的重要前驅。**PD**：歷史版本公有領域。
 - 🟢《超越快樂原則》（*Jenseits des Lustprinzips*），Sigmund Freud，1920。提出重複強迫與死之本能，擴張驅力理論。**PD**：歷史版本公有領域。
 - 🔵《群體心理學與自我之分析》（*Massenpsychologie und Ich-Analyse*），Sigmund Freud，1921。把精神分析推入群體與社會心理學。**PD**：歷史版本公有領域。
 - 🔵《自我與本我》（*Das Ich und das Es*），Sigmund Freud，1923。提出 id–ego–superego 結構模型。**PD**：歷史版本公有領域。
