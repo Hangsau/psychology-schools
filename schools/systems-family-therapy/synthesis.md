@@ -22,11 +22,11 @@
 
 - **Don D. Jackson（1920–1968）**。🔵 B MRI 共同創辦人（與 Virginia Satir、Gerald Zuk、Paul Watzlawick 等），提出「**家庭常規**」（family homeostasis）、「**相互因果**」（reciprocal causality）等概念；1968 年過早去世。其精神由 Watzlawick、John Weakland、Richard Fisch 在 MRI 延續，發展出 **短期家族治療**（brief therapy）。B 學術。
 
-- **Jay Haley（1923–2007）**。🔵 B 從 Bateson 計畫出身的溝通取向研究者，後與精神病學家 Cloe Madanes 結合，發展出 **策略家族治療**（strategic family therapy）。1963 年《Strategies of Psychotherapy》是早期戰略學派的代表，後續 1976、1981 年與 Madanes 合著多本著作。B 學術。
+- **Jay Haley（1923–2007）**。🔵 B 從 Bateson 計畫出身的溝通取向研究者，後與心理治療師 Cloé Madanes（阿根廷裔心理學家，1976 年與 Haley 共創華盛頓特區家族治療研究所）合作，發展出 **策略家族治療**（strategic family therapy）。1963 年《Strategies of Psychotherapy》是早期戰略學派的代表，後續 1976、1981 年與 Madanes 合著多本著作。B 學術。
 
 - **Salvador Minuchin 之外**，尚有幾位與「系統」學派密切相關、不可忽略者：🔵 B
   - **Paul Watzlawick（1921–2007）**，MRI 成員，1967 年與 Beavin、Jackson 合著《Pragmatics of Human Communication》，1974 年與 Weakland、Fisch 合著《Change》，奠定溝通理論與短期治療的地位。A 原典。
-  - **John Weakland（1919–1995）**，MRI 共同創辦人，華裔工程師／人類學背景，主導「以問題為中心」的短程介入。
+  - **John Weakland（1919–1995）**，MRI 共同創辦人，化學工程師出身、後轉人類學（曾研究華人與納瓦荷文化，但本人為美國西維吉尼亞州人），主導「以問題為中心」的短程介入。
   - **Mara Selvini Palazzoli（1916–1999）** 與 **米蘭團隊**（Luigi Boscolo、Gianfranco Cecchin、Giuliana Prata），1970 年代在義大利米蘭發展「米蘭系統家族治療」，引入 **循環提問**（circular questioning）與 **悖論處方**（paradoxical prescription）。B 學術。
   - **Carl Whitaker（1912–1995）**，強調治療師自身與家庭的「**象徵性經驗**」（symbolic experiencefulness），是體驗／存在取向家族治療的代表。
   - **Ivan Boszormenyi-Nagy（1920–2007）**，發展「**脈絡治療**」（contextual therapy），引入「看不見的忠誠」與「**公正帳本**」（ledger of merits）概念，主張跨代正義。
@@ -350,3 +350,5 @@ Satir 的技術強調整個身體與情緒的體驗：🔵 B
 > 🟢 P3 校核：2026-07-17 Sonnet 5 批次；修 1 處事實（Jay Haley 生卒年更正 1933–2022 → 1923–2007）/ 無刪書目 / concept_tags 已填。
 
 > 🟢 P4 仲裁：2026-07-17 Opus；Fromm-Reichmann 1948 原文用詞已核實；Minuchin 1965＝PCGC 主任、Family Studies Inc.＝1981 紐約創立。
+
+> 🟢 P5 查核：2026-07-20 Opus；已具 P3/P4 之高品質篇，僅修 §2 代表人物 2 處已 WebSearch 查證之錯誤——John Weakland 由「華裔工程師」更正為美國化學工程師出身後轉人類學（曾研究華人與納瓦荷文化，但本人為西維吉尼亞州人，非華裔）；Cloé Madanes 由「精神病學家」更正為阿根廷裔心理治療師／心理學家（曾任精神醫學系臨床教職但非執業精神科醫師），並補其與 Haley 1976 共創華盛頓特區家族治療研究所。原則：來源中立，先查證再改，僅改已證之處、未新增未查證事實。
