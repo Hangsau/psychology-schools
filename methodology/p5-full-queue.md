@@ -25,7 +25,7 @@
 - [x] sfbt（31.9→40.7KB，2026-07-19）
 - [x] neo-freudian（32.4→37.3KB，2026-07-19）
 - [x] mbsr（32.9→44.3KB，2026-07-19）
-- [ ] cross-cultural-psychology（33.3KB）
+- [x] cross-cultural-psychology（33.3→48.2KB，2026-07-19）
 - [ ] psychoanalysis（33.6KB；密度標竿篇——僅補明確缺口，不改風格）
 - [ ] cognitive-psychology（33.6KB）
 - [ ] mbct（33.7KB）
