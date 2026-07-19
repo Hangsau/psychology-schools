@@ -36,7 +36,7 @@
 - [x] multicultural-feminist-therapy（查核型：36.9KB；2026-07-20 Opus 乾淨審慎篇，查證修 §4 書目 3 處——Worell & Remer 初版 1996→1992、Hays 年份/副標對應（初版 2001／副標 Assessment...屬 2008 二版）、長作者名單實屬《Multicultural Counseling Competencies》1998 Sage 非《Counseling the Culturally Diverse》；不強增補）
 - [x] positive-psychology（查核型：38.5KB；2026-07-20 Opus 高品質審慎篇，查證修 §2 代表人物 3 處——Fredrickson 博士學位密西根→史丹佛 1990、「Donald Duffy」→Ryan D. Duffy、「Acacia Parks（Acacia Chu）自承離開學術界」刪未證別名與矛盾敘述並統一姓氏 Park→Parks；不強增補）
 - [x] systems-family-therapy（查核型：39.1KB；2026-07-20 Opus 已具 P3/P4 之高品質篇，查證修 §2 代表人物 2 處——John Weakland「華裔工程師」→美國化學工程師轉人類學（研究華人文化但非華裔）、Cloé Madanes「精神病學家」→阿根廷裔心理治療師；不強增補）
-- [ ] naikan-therapy（39.3KB）
+- [x] naikan-therapy（清理型：39.3KB；2026-07-20 Opus 查證修創始者傳記與捏造起源——吉本伊信出生地大阪→奈良大和郡山、生卒 1916.5.25–1988.8.1、宗派大谷派→木邊派；起源「鹿兒島感化院觀察」→史實「身調べ」（師駒谷諦信，原型約 1941）；三木善彥精神科醫師→臨床心理學者 1941–2018、京都→奈良研修所）
 - [ ] existential-psychology（39.7KB）
 - [ ] play-therapy（40.5KB）
 - [ ] cultural-historical-psychology（40.7KB）
