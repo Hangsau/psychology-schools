@@ -20,7 +20,7 @@
 - [x] reality-therapy（30.1→36.9KB，2026-07-19）
 - [x] cbt（30.3→42.3KB，2026-07-19）
 - [x] object-relations（30.6→37.2KB，2026-07-19）
-- [ ] attachment-theory（30.9KB）
+- [x] attachment-theory（30.9→37.1KB，2026-07-19）
 - [ ] act（31.9KB）
 - [ ] sfbt（31.9KB）
 - [ ] neo-freudian（32.4KB）
