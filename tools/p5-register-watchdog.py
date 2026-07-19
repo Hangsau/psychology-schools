@@ -11,7 +11,8 @@ from pathlib import Path
 
 TASK_NAME = "p5-watchdog"
 LAUNCH_TASK = "p5-runner-launch"
-BASH = r"C:\Program Files\Git\bin\bash.exe"
+PYTHONW = r"C:\Users\hangs\AppData\Local\Programs\Python\Python312\pythonw.exe"
+HIDDEN = "C:/claudehome/projects/psychology-schools/tools/p5-run-hidden.py"
 PROJ = "/c/claudehome/projects/psychology-schools"
 INTERVAL_MIN = 20
 
@@ -23,6 +24,18 @@ LAUNCH_RUN = (
 )
 
 
+def action_xml(payload: str) -> str:
+    """task action：pythonw.exe（無 console）跑隱形啟動器→bash payload，全程不彈黑框。"""
+    cmd = xml_escape(PYTHONW)
+    args = xml_escape(f'"{HIDDEN}" "{payload}"')
+    return f"""  <Actions Context="Author">
+    <Exec>
+      <Command>{cmd}</Command>
+      <Arguments>{args}</Arguments>
+    </Exec>
+  </Actions>"""
+
+
 def xml_escape(t: str) -> str:
     return (t.replace("&", "&amp;").replace("<", "&lt;")
             .replace(">", "&gt;").replace('"', "&quot;"))
@@ -30,8 +43,6 @@ def xml_escape(t: str) -> str:
 
 def task_xml(start: datetime) -> str:
     sb = start.strftime("%Y-%m-%dT%H:%M:%S")
-    cmd = xml_escape(BASH)
-    args = xml_escape(f'-lc "{RUN}"')
     return f"""<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
@@ -57,20 +68,13 @@ def task_xml(start: datetime) -> str:
     <Enabled>true</Enabled>
     <Hidden>false</Hidden>
   </Settings>
-  <Actions Context="Author">
-    <Exec>
-      <Command>{cmd}</Command>
-      <Arguments>{args}</Arguments>
-    </Exec>
-  </Actions>
+{action_xml(RUN)}
 </Task>"""
 
 
 def launch_task_xml() -> str:
     """on-demand（無觸發器）runner 任務；由 watchdog 以 schtasks //Run 觸發，
     讓 runner 跑在自己的 job object 裡、不會隨 watchdog 任務結束被回收。"""
-    cmd = xml_escape(BASH)
-    args = xml_escape(f'-lc "{LAUNCH_RUN}"')
     return f"""<?xml version="1.0" encoding="UTF-16"?>
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
@@ -86,12 +90,7 @@ def launch_task_xml() -> str:
     <Enabled>true</Enabled>
     <Hidden>false</Hidden>
   </Settings>
-  <Actions Context="Author">
-    <Exec>
-      <Command>{cmd}</Command>
-      <Arguments>{args}</Arguments>
-    </Exec>
-  </Actions>
+{action_xml(LAUNCH_RUN)}
 </Task>"""
 
 
