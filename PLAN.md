@@ -57,8 +57,14 @@ religions-history 已確立一根軸：**人從生到死的 13 個問題領域**
 | **P2** | 逐學派綜述（48 學派）— m3 引擎產草稿 | ✓（48/48，2026-07-16，verify ALL PASS）|
 | **P3** | 批次校核草稿，升級為驗證版 — **Sonnet 5 批次為主，Opus 只做仲裁** | 進行中 |
 | **P4** | 語義索引（domain-index / concept-index）+ 網站 | 待（**前置缺口**：48 篇 `meta.json` 的 `concept_tags` 全空，P3 批次須順手補齊，否則 concept-index 是 0 條目）|
+| **P5** | 全庫內容深化（密度與既有缺口補全） | 進行中；不等同事實驗證 |
+| **P6** | 主張級證據鏈試點（CBT／精神分析／本土心理學） | 待 P5 凍結正文後執行 |
+| **P7** | 獨立 AI 檢索、驗證與來源交叉核對 | 待 P6 schema 與量測通過 |
+| **P8** | 證據發布閘門、回歸測試與公開品質儀表板 | 待 P7 完成 |
 
 **引擎已退役**：`tools/run-engine.sh`（claude-m3）已跑完全隊列並停止，watchdog 排程已停用。M3 額度被 religions-history 佔用約 800 小時，本專案後續不再依賴 m3。
+
+**專業化下一步**：P5 的字數與結構驗收不能當成事實驗證。P6–P8 採「主張級證據鏈」：每個高風險主張連到可重現來源，經獨立檢索與兩路驗證後才可發布為已證實。詳細設計見 `methodology/evidence-assurance-roadmap.md`。
 
 **配額路由（P3 起適用）**：
 - `claude -p`（無 env 覆蓋）走 Pro 訂閱 OAuth ＝ **無額外金錢消費**，只吃 5H 訂閱窗（2026-07-16 查 credentials 證實；舊認知「-p 走 API per-token 額外付費」作廢）。

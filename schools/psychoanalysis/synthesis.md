@@ -36,6 +36,8 @@
 
 **伊底帕斯情結（Ödipuskomplex, Oedipus complex）**：性蕾期的特徵願望是對異性父母產生性愛戀、對同性父母產生敵意，並伴隨閹割焦慮（castration anxiety, *Kastrationsangst*，男童）或陰莖嫉羨（penis envy，女童；此概念後來成最具爭議的內容之一）。伊底帕斯情結的解決方式主要並非超我，而是透過認同（identification）將同性父母的價值觀與禁令內化，並把對異性父母的性愛戀轉移為更廣泛的對象選擇模式。🔵〔A：Freud, 1908, 1910〕
 
+**自戀（narcissism, *Narzißmus*）**：〈論自戀：一個導論〉（*Zur Einführung des Narzißmus*，1914）是弗洛伊德理論演進的關鍵樞紐。弗洛伊德提出力比多不只指向外在客體（客體力比多 object libido），也能指向自體（自我力比多 ego libido）：嬰兒最初的心理狀態是力比多全然指向自身的「原始自戀」（primary narcissism, *primärer Narzißmus*），正常心性發展的路徑是力比多逐漸從自體外投至客體。精神病（psychosis）中力比多從外在客體全面退縮，誇大妄想（megalomania, *Größenwahn*）即自我力比多充斥自體之結果；繼發性自戀（secondary narcissism）則指已指向客體的力比多再次退回自體，見於某些憂鬱狀態。弗洛伊德同時在此文建立「自我理想」（*Ichideal*）概念：個體從原始自戀的全能感失落後，把被迫放棄的理想化全能感投射到自我理想意象，此意象構成自尊評估之基準。此概念後成為結構模型超我理論的先驅，也是科胡特（Kohut）自體心理學的出發點，並奠定客體關係理論討論「已內化客體」的詞彙基礎。🟢〔A：Freud, 1914；B：精神分析史學〕
+
 **結構模型（id / ego / superego）**：《自我與本我》（1923）將心理改分為三系統：本我（id, *Es*）為原始願望驅力，遵循原級歷程，無時空邏輯；自我（ego, *Ich*）為與現實接觸的執行結構，遵循次級歷程（secondary process：邏輯、時間、現實檢驗）；超我（superego, *Über-Ich*）為內化的道德與理想要求，源自伊底帕斯情結解決中的認同。焦慮不再僅是壓抑產物，而是自我在閹割、超我與現實三類危險間承擔的警報信號（signal anxiety）。🟢〔A：Freud, 1923, 1926〕
 
 **本能力論（theory of drives, *Trieb*）**：《超越快樂原則》（1920）提出對立於生之本能（Eros）外的死之本能（Thanatos），以解釋重複強迫（repetition compulsion）、受虐與破壞等不能由快樂原則完全說明的現象；生之本能與死之本能會以不同比例融合於具體驅力中。此理論為精神分析內部爭議之一源。🟡〔A：Freud, 1920；B：精神分析驅力理論爭論〕
@@ -65,10 +67,12 @@
 - 🔵《圖騰與禁忌》（*Totem und Tabu*），Sigmund Freud，1913。把精神分析推入宗教人類學。**PD**：歷史版本公有領域。
 - 🟢〈論自戀：一個導論〉（*Zur Einführung des Narzißmus*），Sigmund Freud，1914。建立自戀（*Narzißmus*）作為力比多退縮之轉向，而非純粹客體愛之反向。**PD**：歷史版本公有領域。
 - 🔵《精神分析導論》（*Vorlesungen zur Einführung in die Psychoanalyse*），Sigmund Freud，1916–1917。系統性理論導論文本，覆蓋失誤、夢、神經症通論等。**PD**：歷史版本公有領域。
+- 🟢〈哀悼與憂鬱〉（*Trauer und Melancholie*），Sigmund Freud，1917。區分哀悼（Trauer，有期限的現實重建）與憂鬱（Melancholie，涉及失落客體「內投」——自我以失落客體自居後，對客體之攻擊轉向內指為自我批判）之動力差異。此文是後世憂鬱理論、哀傷心理學與客體關係理論（Klein 之内射概念）的重要前驅。**PD**：歷史版本公有領域。
 - 🟢《超越快樂原則》（*Jenseits des Lustprinzips*），Sigmund Freud，1920。提出重複強迫與死之本能，擴張驅力理論。**PD**：歷史版本公有領域。
 - 🔵《群體心理學與自我之分析》（*Massenpsychologie und Ich-Analyse*），Sigmund Freud，1921。把精神分析推入群體與社會心理學。**PD**：歷史版本公有領域。
 - 🔵《自我與本我》（*Das Ich und das Es*），Sigmund Freud，1923。提出 id–ego–superego 結構模型。**PD**：歷史版本公有領域。
 - 🟢《抑制、症狀與焦慮》（*Hemmung, Symptom und Angst*），Sigmund Freud，1926。重新定位焦慮為信號反應，並修正壓抑理論。**PD**：歷史版本公有領域。
+- 🟢《幻覺的未來》（*Die Zukunft einer Illusion*），Sigmund Freud，1927。以精神分析視角解讀宗教：宗教是對人類無助感的集體回應，神明意象源自對全能父親保護之幼兒性願望投射；此文與《圖騰與禁忌》（1913）、《摩西與一神教》（1939）共構弗洛伊德宗教心理學論述序列。**PD**：歷史版本公有領域。
 - 🟢《文明及其不滿》（*Das Unbehagen in der Kultur*），Sigmund Freud，1930。廣為流通之文化批評，觸及文明對性慾與攻擊之壓制、人類幸福的可能性邊界。**PD**：歷史版本公有領域。
 - 🟢《摩西與一神教》（*Der Mann Moses und die monotheistische Religion*），Sigmund Freud，1939。把精神分析應用於宗教起源歷史化論述。**PD**：歷史版本公有領域。
 - 🟢《精神分析大綱》（*Abriß der Psychoanalyse*），Sigmund Freud，1940（遺著）。晚期對全系統之概述。**PD**：歷史版本公有領域。

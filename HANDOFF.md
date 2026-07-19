@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-19（P5 全庫深化進行中）。薄尾 10/10 ✅；深化已完成 bpsm + psychodrama + **cbt（30→42KB，2026-07-19 互動 session）**；其餘篇目由 `tools/p5-deepen-runner.sh` 自動管線逐篇處理（隔離 `claude -p`＋自動驗證 commit push；佇列＝`methodology/p5-full-queue.md`）。**Agent tool 派發已棄用**（AUP 誤判兩度攔截）。撞牆會自動停寫 `logs/p5-runner.HALT`。**自動重啟（2026-07-19）**：`p5-watchdog` schtasks 任務每 20 分跑 `tools/p5-watchdog.sh`（零 LLM），reset 一過就自動重啟 runner、crash 也重啟、佇列清空自刪排程——**不再需要手動「繼續」**；接手先查佇列勾選狀態與 `logs/p5-watchdog.log`。P4 ③ 網站待用戶指示呈現形式。
+> 最後更新：2026-07-20（P5 全庫深化進行中；自動接續機制已移除）。薄尾 10/10 ✅；深化進度看 `methodology/p5-full-queue.md` 勾選狀態（2026-07-20：19/38 完成，下一篇＝psychoanalysis）。**自動接續已於 2026-07-20 拿掉**：`p5-watchdog` / `p5-runner-launch` schtasks 任務、`tools/p5-watchdog.sh` / `p5-run-hidden.py` / `p5-register-watchdog.py` / `p5-deepen-runner.sh` 全數刪除（實測未能推進佇列，用戶要求移除）。**深化改為在 session 內手動逐篇做**（同 cbt / health-psychology 已驗證模式：直寫 → `tools/verify.py` → commit → push）。**Agent tool 派發不用**（AUP 誤判兩度攔截）。P4 ③ 網站待用戶指示呈現形式。
 
 ## 現況
 

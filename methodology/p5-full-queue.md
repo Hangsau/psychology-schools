@@ -1,9 +1,8 @@
 # P5 全庫深化 pass — 佇列與進度
 
 > 品質標準、事實紀律、操作紀律**全同** `p5-batch-spec.md`（§3 逐概念完整段落、30KB+、只要學派內容本身、禁臨床案例/教學延伸、既有 🟢🔵 與 P3/P4/P5 紀錄行禁改禁刪）。
-> 執行模式（2026-07-18 改版）：**全篇走 `tools/p5-deepen-runner.sh` 管線**——逐篇隔離 `claude -p`（通用指示檔 `p5-deepen-brief.md`）→ 腳本自動 verify/scan/size 檢查 → commit + push → 勾佇列。Agent tool 派發已兩度被 AUP 誤判攔截（批次 A 派發即死、批次 D 中途死），棄用；`claude -p` 隔離 3/3 成功。
-> 撞牆自動停（寫 `logs/p5-runner.HALT`）；失敗篇標 `[!]`、diff 存 patch、不阻塞後續。
-> **自動重啟（2026-07-19 新增）**：`p5-watchdog` schtasks 任務每 20 分跑一次 `tools/p5-watchdog.sh`（零 LLM）——偵測到 runner 不在＋HALT 的 reset 時刻已過就自動重啟；runner crash 也重啟；佇列清空自刪排程。**不再需要手動 `繼續`**。手動重啟仍可：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`；重註冊 watchdog：`python tools/p5-register-watchdog.py`；watchdog 日誌 `logs/p5-watchdog.log`。
+> 執行模式（2026-07-20 改版）：**在 session 內手動逐篇深化**——直寫 `synthesis.md`（品質規格＝`p5-deepen-brief.md`）→ `PYTHONIOENCODING=utf-8 python tools/verify.py <slug>` + `scan-simplified.py` → commit + push → 佇列打勾。同 cbt / health-psychology 已驗證模式。
+> **自動接續管線已於 2026-07-20 移除**：`p5-deepen-runner.sh`（`claude -p` 迴圈）＋ `p5-watchdog` / `p5-runner-launch` schtasks ＋ `p5-run-hidden.py` / `p5-register-watchdog.py` 全數刪除。原因：實測未能推進佇列（07-19→07-20 卡在 19/38 沒動），用戶要求拿掉。Agent tool 派發亦不用（AUP 誤判兩度攔截）。
 
 ## 佇列（薄→厚；完成打勾）
 
@@ -60,12 +59,10 @@
 - 批次 M（查缺型）：biological-psychology / humanistic-psychology
 - biopsychosocial-model 單獨走隔離 `claude -p`
 
-## 撞牆恢復（已自動化）
+## 撞牆恢復（手動）
 
-撞牆時 runner 寫 `logs/p5-runner.HALT` 後退出；`p5-watchdog` schtasks 任務每 20 分檢查，reset 一過就自動 `rm HALT` + 重啟 runner，從第一個未勾項繼續。已完成篇均已逐篇 commit，無損失。**無需人工介入**。
-若 watchdog 排程遺失（重灌／手動刪）：`python tools/p5-register-watchdog.py` 重註冊。手動即刻重啟：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`。
+深化在 session 內做，撞 5H 牆時當篇已 commit 的不受影響（逐篇 commit push）。恢復＝下個視窗重開 session，從佇列第一個未勾項繼續。無自動重啟機制。
 
-## 失敗篇（`[!]`）處理
+## 手動深化注意
 
-runner 判 FAILED 會存 `logs/p5-failed-<slug>.patch` 並還原檔案。恢復：`git apply` 該 patch → 跑 verify/scan 找真正卡點 → 修好 → commit → 佇列 `[!]`→`[x]`。
-- **已知誤判**：「P5 補全」紀錄行若含簡繁「X→Y」字面對照，被更正字元本身會被 `scan-simplified.py` 掃到→誤判 FAILED。改寫紀錄行去掉該字元即過（brief 已加禁令，2026-07-19 object-relations 事故）。
+- **簡繁誤判**：「P5 補全」紀錄行若含簡繁「X→Y」字面對照，被更正字元本身會被 `scan-simplified.py` 掃到→誤報。改寫紀錄行去掉該字元即過（brief 已加禁令，2026-07-19 object-relations 事故）。
