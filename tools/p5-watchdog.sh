@@ -16,8 +16,11 @@ log() { echo "[wd $(date '+%F %T')] $*" >> "$WLOG"; }
 relaunch() {
   log "RELAUNCH: $*"
   rm -f "$HALT" "$LOCK"
-  nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &
-  disown
+  # 用 schtasks //Run 觸發獨立的 on-demand runner 任務，讓 runner 跑在自己的 job object，
+  # 不會隨本 watchdog 任務結束被 Task Scheduler 連同 process tree 回收。
+  schtasks //Run //TN "p5-runner-launch" >/dev/null 2>&1 \
+    && log "  → schtasks Run p5-runner-launch OK" \
+    || log "  → schtasks Run FAILED"
 }
 
 # 1) 佇列清空 → 收工，移除 watchdog 排程
