@@ -2,7 +2,8 @@
 
 > 品質標準、事實紀律、操作紀律**全同** `p5-batch-spec.md`（§3 逐概念完整段落、30KB+、只要學派內容本身、禁臨床案例/教學延伸、既有 🟢🔵 與 P3/P4/P5 紀錄行禁改禁刪）。
 > 執行模式（2026-07-18 改版）：**全篇走 `tools/p5-deepen-runner.sh` 管線**——逐篇隔離 `claude -p`（通用指示檔 `p5-deepen-brief.md`）→ 腳本自動 verify/scan/size 檢查 → commit + push → 勾佇列。Agent tool 派發已兩度被 AUP 誤判攔截（批次 A 派發即死、批次 D 中途死），棄用；`claude -p` 隔離 3/3 成功。
-> 撞牆自動停（寫 `logs/p5-runner.HALT`）；失敗篇標 `[!]`、diff 存 patch、不阻塞後續。重啟：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`
+> 撞牆自動停（寫 `logs/p5-runner.HALT`）；失敗篇標 `[!]`、diff 存 patch、不阻塞後續。
+> **自動重啟（2026-07-19 新增）**：`p5-watchdog` schtasks 任務每 20 分跑一次 `tools/p5-watchdog.sh`（零 LLM）——偵測到 runner 不在＋HALT 的 reset 時刻已過就自動重啟；runner crash 也重啟；佇列清空自刪排程。**不再需要手動 `繼續`**。手動重啟仍可：`nohup bash tools/p5-deepen-runner.sh >> logs/p5-runner.log 2>&1 &`；重註冊 watchdog：`python tools/p5-register-watchdog.py`；watchdog 日誌 `logs/p5-watchdog.log`。
 
 ## 佇列（薄→厚；完成打勾）
 

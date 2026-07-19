@@ -33,10 +33,10 @@ while true; do
     --model claude-sonnet-4-6 --permission-mode bypassPermissions > "$runlog" 2>&1
   rc=$?
 
-  # 撞牆偵測：停整條管線
+  # 撞牆偵測：停整條管線。重啟由獨立 watchdog（tools/p5-watchdog.sh）在 reset 後自動接手。
   if grep -qi "hit your limit" "$runlog"; then
     reset_info=$(grep -io "resets [^\"]*" "$runlog" | head -1)
-    log "QUOTA WALL on $slug ($reset_info) — halting"
+    log "QUOTA WALL on $slug ($reset_info) — halting (watchdog 將於 reset 後自動重啟)"
     { echo "halted_at=$(date '+%F %T')"; echo "slug=$slug"; echo "$reset_info"; } > "$HALT"
     break
   fi
