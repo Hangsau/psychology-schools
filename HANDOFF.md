@@ -1,9 +1,9 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-20（P5 全庫深化進行中；自動接續機制已移除）。薄尾 10/10 ✅；深化進度看 `methodology/p5-full-queue.md` 勾選狀態（2026-07-20：21/38 完成——本日新增 cognitive-psychology 深化 37.5KB、psychoanalysis 標竿篇打勾；下一篇＝mbct）。
+> 最後更新：2026-07-20（P5 全庫深化進行中；自動接續機制已移除）。薄尾 10/10 ✅；深化進度看 `methodology/p5-full-queue.md` 勾選狀態（2026-07-20：24/38 完成——本日新增 cognitive-psychology 37.5KB、psychoanalysis 標竿篇、mbct 清理、indigenous-psychology 37.2KB、morita-therapy 清理；下一篇＝art-therapy）。
 >
-> **⚠️ 2026-07-20 發現：m3 幻覺殘留未清（影響剩餘深化性質）**。mbct（33.7KB）雖已過 P3，仍含多處 m3 亂碼／捏造碎片：「熱情 pī 模式」「Padesky 雙軌治療呼吸」（L33）、「共激發達瑟頓（dash）」（L35）、「由 Matthew 前導…Salvo 形式」（L69，捏造人名）、「化學、工程跨界」（L100）、「SEBI／默 1960s Leonard Eron theoder」（L164）。→ 剩餘 m3 產篇的深化＝「逐句清幻覺＋補概念」雙工，非單純加字；比乾淨篇（如 cognitive-psychology）重。接手每篇先通讀抓亂碼再深化。**自動接續已於 2026-07-20 拿掉**：`p5-watchdog` / `p5-runner-launch` schtasks 任務、`tools/p5-watchdog.sh` / `p5-run-hidden.py` / `p5-register-watchdog.py` / `p5-deepen-runner.sh` 全數刪除（實測未能推進佇列，用戶要求移除）。**深化改為在 session 內手動逐篇做**（同 cbt / health-psychology 已驗證模式：直寫 → `tools/verify.py` → commit → push）。**Agent tool 派發不用**（AUP 誤判兩度攔截）。P4 ③ 網站待用戶指示呈現形式。
+> **⚠️ 2026-07-20 發現：既有篇目含未清幻覺碎片（影響剩餘深化性質）**。mbct（33.7KB）雖已過 P3，仍含多處亂碼／捏造碎片：「熱情 pī 模式」「Padesky 雙軌治療呼吸」（L33）、「共激發達瑟頓（dash）」（L35）、「由 Matthew 前導…Salvo 形式」（L69，捏造人名）、「化學、工程跨界」（L100）、「SEBI／默 1960s Leonard Eron theoder」（L164）。**來源中立看待——本庫幾乎都是 Claude 執筆，這些是需修的幻覺，不歸因 M3**（見全域記憶 feedback_dont_blame_m3_own_hallucinations）。→ 剩餘篇深化＝「逐句清幻覺＋補概念」雙工，比乾淨篇（如 cognitive-psychology）重；且**補寫時要防自己新增幻覺**（人名/年代/書目先查證）。接手每篇先通讀抓幻覺再深化。**自動接續已於 2026-07-20 拿掉**：`p5-watchdog` / `p5-runner-launch` schtasks 任務、`tools/p5-watchdog.sh` / `p5-run-hidden.py` / `p5-register-watchdog.py` / `p5-deepen-runner.sh` 全數刪除（實測未能推進佇列，用戶要求移除）。**深化改為在 session 內手動逐篇做**（同 cbt / health-psychology 已驗證模式：直寫 → `tools/verify.py` → commit → push）。**Agent tool 派發不用**（AUP 誤判兩度攔截）。P4 ③ 網站待用戶指示呈現形式。
 
 ## 現況
 
