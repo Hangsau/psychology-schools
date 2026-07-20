@@ -49,6 +49,18 @@ def paragraphs(text: str) -> list[tuple[int, str, str]]:
     return result
 
 
+def claim_units(text: str) -> list[tuple[int, str, str]]:
+    """Split prose paragraphs into sentences; keep bibliography bullets intact."""
+    units = []
+    for lineno, section, para in paragraphs(text):
+        if para.startswith("-") or section.startswith("4."):
+            units.append((lineno, section, para))
+            continue
+        sentences = [part.strip() for part in re.split(r"(?<=[。！？])", para) if part.strip()]
+        units.extend((lineno, section, sentence) for sentence in sentences)
+    return units
+
+
 def reasons(section: str, text: str) -> list[str]:
     found = []
     if YEAR.search(text):
@@ -79,7 +91,7 @@ def inventory(root: Path, slug: str) -> dict:
     text = (school / "synthesis.md").read_text(encoding="utf-8")
     anchors = load_anchors(school / "claims.jsonl")
     candidates = []
-    for lineno, section, para in paragraphs(text):
+    for lineno, section, para in claim_units(text):
         why = reasons(section, para)
         if not why:
             continue

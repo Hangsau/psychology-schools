@@ -52,6 +52,18 @@ class HighRiskInventoryTests(unittest.TestCase):
             report = MODULE.inventory(root, "demo")
             self.assertEqual(report["candidate_count"], 2)
 
+    def test_multiple_risky_sentences_are_separate_units(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            school = root / "schools" / "demo"
+            school.mkdir(parents=True)
+            school.joinpath("synthesis.md").write_text(
+                "## 2. 人物\n\n甲於 1950 年提出模型。乙於 1960 年發展量表。\n",
+                encoding="utf-8",
+            )
+            report = MODULE.inventory(root, "demo")
+            self.assertEqual(report["candidate_count"], 2)
+
 
 if __name__ == "__main__":
     unittest.main()
