@@ -39,7 +39,7 @@
   ],
   "status": "reviewed",
   "review_state": "reviewed",
-  "evidence_state": {"stage": "in_progress", "high_risk_claims_total": 6, "corroborated": 5, "disputed": 0, "insufficient": 0, "retrieved": 1, "unverified": 0, "checked_at": "2026-07-20"},
+  "evidence_state": {"stage": "in_progress", "high_risk_claims_total": 10, "corroborated": 7, "disputed": 0, "insufficient": 0, "retrieved": 3, "unverified": 0, "checked_at": "2026-07-20"},
   "confidence_overall": "🟡",
   "sources_tier_summary": "B 為主（楊國樞、黃光國學術著作、期刊論文），少量 🟡 待補細節（APIPA 組織沿革、第二代學者生年等）",
   "generated_by": "claude-m3 (MiniMax-M3)",

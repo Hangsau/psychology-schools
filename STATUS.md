@@ -1,6 +1,6 @@
 # STATUS — 刊版
 
-> 引擎自動更新。最後更新：2026-07-20 12:07
+> 引擎自動更新。最後更新：2026-07-20 12:21
 
 ## 進度
 
@@ -12,7 +12,7 @@
 - 🔴 疑失敗 error（<400B，查 logs/engine.log）：0
 - P5 全庫深化：**32/38**（剩 6 篇）
 - P6 主張級證據試點：3 篇進行中；0 篇高風險覆蓋完成；0 篇達發布門檻；45 篇未開始
-- 已登錄高風險主張：14（corroborated 8 / retrieved 6 / disputed 0 / insufficient 0 / unverified 0）
+- 已登錄高風險主張：18（corroborated 10 / retrieved 8 / disputed 0 / insufficient 0 / unverified 0）
 
 ## 明細
 

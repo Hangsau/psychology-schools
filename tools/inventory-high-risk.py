@@ -120,6 +120,8 @@ def main() -> int:
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument("--json", action="store_true")
     parser.add_argument("--summary-only", action="store_true")
+    parser.add_argument("--section-prefix")
+    parser.add_argument("--reason", choices=["date", "number", "efficacy", "attribution", "absolute", "bibliographic"])
     args = parser.parse_args()
     reports = [inventory(args.root, slug) for slug in args.slugs]
     if args.json:
@@ -130,6 +132,10 @@ def main() -> int:
             if args.summary_only:
                 continue
             for item in report["candidates"]:
+                if args.section_prefix and not item["section"].startswith(args.section_prefix):
+                    continue
+                if args.reason and args.reason not in item["reasons"]:
+                    continue
                 if not item["covered_by"]:
                     why = ",".join(item["reasons"])
                     print(f"  L{item['line']} [{why}] {item['preview']}")
