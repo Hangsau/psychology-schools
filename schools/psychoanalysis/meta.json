@@ -43,7 +43,8 @@
   ],
   "status": "reviewed",
   "review_state": "reviewed",
-  "confidence_overall": "🟢",
+  "evidence_state": {"stage": "in_progress", "high_risk_claims_total": 4, "corroborated": 1, "disputed": 0, "insufficient": 0, "retrieved": 3, "unverified": 0, "checked_at": "2026-07-20"},
+  "confidence_overall": "🟡",
   "sources_tier_summary": "A 原典為主（Freud 全集），B 史學與臨床研究（Shedler、Sulloway）輔助，冰山扭曲已正確避開",
   "generated_by": "claude-m3 (MiniMax-M3)",
   "generated_at": "2026-07-16T14:01:31"

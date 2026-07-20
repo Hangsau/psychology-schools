@@ -41,6 +41,25 @@ def school_state(slug):
         return "error", size
     return review, size
 
+def evidence_summary(queue):
+    stages = {"not_started": 0, "in_progress": 0, "high_risk_claims_covered": 0, "evidence_release": 0}
+    verdicts = {"total": 0, "corroborated": 0, "disputed": 0, "insufficient": 0, "retrieved": 0, "unverified": 0}
+    for entry in queue:
+        meta = os.path.join(SCHOOLS, entry["slug"], "meta.json")
+        state = {"stage": "not_started"}
+        try:
+            loaded = json.load(open(meta, encoding="utf-8"))
+            if isinstance(loaded.get("evidence_state"), dict):
+                state = loaded["evidence_state"]
+        except (OSError, ValueError):
+            pass
+        stage = state.get("stage", "not_started")
+        stages[stage if stage in stages else "not_started"] += 1
+        verdicts["total"] += state.get("high_risk_claims_total", 0) or 0
+        for key in ("corroborated", "disputed", "insufficient", "retrieved", "unverified"):
+            verdicts[key] += state.get(key, 0) or 0
+    return stages, verdicts
+
 def main():
     q = load_queue()
     rows, counts = [], {"queued":0,"draft":0,"reviewed":0,"error":0}
@@ -57,6 +76,7 @@ def main():
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     bar = "█"*(pct//5) + "░"*(20-pct//5)
     p5_done, p5_left = p5_counts()
+    evidence_stages, evidence_verdicts = evidence_summary(q)
     p5_line = (
         f"- P5 全庫深化：**{p5_done}/{p5_done + p5_left}**（剩 {p5_left} 篇）"
         if p5_done is not None else
@@ -77,7 +97,13 @@ def main():
         f"- ⬜ 待產 queued：{counts['queued']}",
         f"- 🔴 疑失敗 error（<400B，查 logs/engine.log）：{counts['error']}",
         p5_line,
-        "- P6 主張級證據保證：尚未開始",
+        (f"- P6 主張級證據試點：{evidence_stages['in_progress']} 篇進行中；"
+         f"{evidence_stages['high_risk_claims_covered']} 篇高風險覆蓋完成；"
+         f"{evidence_stages['evidence_release']} 篇達發布門檻；"
+         f"{evidence_stages['not_started']} 篇未開始"),
+        (f"- 已登錄高風險主張：{evidence_verdicts['total']}（corroborated {evidence_verdicts['corroborated']} / "
+         f"retrieved {evidence_verdicts['retrieved']} / disputed {evidence_verdicts['disputed']} / "
+         f"insufficient {evidence_verdicts['insufficient']} / unverified {evidence_verdicts['unverified']}）"),
         "",
         "## 明細",
         "",

@@ -40,6 +40,7 @@
   ],
   "status": "reviewed",
   "review_state": "reviewed",
+  "evidence_state": {"stage": "in_progress", "high_risk_claims_total": 4, "corroborated": 2, "disputed": 0, "insufficient": 0, "retrieved": 2, "unverified": 0, "checked_at": "2026-07-20"},
   "confidence_overall": "🟢",
   "sources_tier_summary": "A 原典（Beck、Ellis 原著）為主，B 學術二手廣泛支撐，Cochrane 系統回顧",
   "generated_by": "claude-m3 (MiniMax-M3)",

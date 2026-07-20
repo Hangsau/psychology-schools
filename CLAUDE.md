@@ -9,14 +9,15 @@
 
 ## 當前階段
 
-**P3 已完成；P4 語義索引已完成、網站待決；當前＝P5 全庫深化（32/38，剩 6 篇）。**
+**P3 已完成；P4 語義索引已完成、網站待決；P5 暫停在 32/38；當前＝P6 品質穩定化試點。**
 
 - 48 學派均已有綜述並標為 `reviewed`；此狀態只表示做過 P3 校核，**不表示主張已獲可重現證據保證**。
 - 2026-07-20 高風險抽驗確認既有綠燈過度樂觀：抽樣中仍有錯誤書目、人物學歷錯置、術語對應錯誤及把單一／模糊來源標成 🔵🟢 的情形。品質基線見 `HANDOFF.md`。
 - P5 canonical 進度看 `methodology/p5-full-queue.md`；剩餘 `play-therapy`、`cultural-historical-psychology`、`narrative-therapy`、`gestalt-therapy`、`biological-psychology`、`humanistic-psychology`。
 - `tools/verify.py` 只驗結構／編碼／標題；`scan-simplified.py` 只驗簡繁。`ALL PASS`、30KB+、`reviewed` 均不得寫成「事實已驗證」。
 - 引擎與自動接續機制均已退役；後續採 session 內手動工作。
-- P5 凍結正文後才進 P6 主張級證據鏈試點；在 P6–P8 門檻通過前，不得對外標示為 evidence-verified。
+- 原規劃為 P5 凍結後進 P6；因抽驗已證明擴寫會放大污染，2026-07-20 決定暫停 P5、提前做 P6 試點。在 P6–P8 門檻通過前，不得對外標示為 evidence-verified。
+- P6 試點為 `cbt`、`psychoanalysis`、`indigenous-psychology`；進度必須以 `claims.jsonl` 與 `meta.json.evidence_state` 為準，執行 `python tools/verify-claims.py --strict --require-claims <slug>` 驗收。
 
 ## 工作守則
 
