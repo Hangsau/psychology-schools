@@ -101,7 +101,7 @@ def inventory(root: Path, slug: str) -> dict:
             "section": section,
             "reasons": why,
             "covered_by": covered_by,
-            "preview": para[:180],
+            "preview": para[:500],
         })
     return {
         "slug": slug,
