@@ -9,12 +9,14 @@
 
 ## 當前階段
 
-**P2 完成（48/48，2026-07-16）。當前＝P3 批次校核。**
+**P3 已完成；P4 語義索引已完成、網站待決；當前＝P5 全庫深化（32/38，剩 6 篇）。**
 
-- 48 學派清單見 `00-overview/schools-inventory.md`；狀態看 `STATUS.md`
-- 引擎（`tools/run-engine.sh` + claude-m3）已退役；M3 額度被 religions-history 佔用，本專案不再用 m3
-- P3 執行者＝**Sonnet 5 sub-agent 批次**（規格 `methodology/p3-batch-spec.md`），Opus 只仲裁；每批驗收即 commit+push
-- 草稿全標 🟡 draft，校核後升級 🟢；`meta.json` 的 `concept_tags` 須在 P3 補齊（P4 前置）
+- 48 學派均已有綜述並標為 `reviewed`；此狀態只表示做過 P3 校核，**不表示主張已獲可重現證據保證**。
+- 2026-07-20 高風險抽驗確認既有綠燈過度樂觀：抽樣中仍有錯誤書目、人物學歷錯置、術語對應錯誤及把單一／模糊來源標成 🔵🟢 的情形。品質基線見 `HANDOFF.md`。
+- P5 canonical 進度看 `methodology/p5-full-queue.md`；剩餘 `play-therapy`、`cultural-historical-psychology`、`narrative-therapy`、`gestalt-therapy`、`biological-psychology`、`humanistic-psychology`。
+- `tools/verify.py` 只驗結構／編碼／標題；`scan-simplified.py` 只驗簡繁。`ALL PASS`、30KB+、`reviewed` 均不得寫成「事實已驗證」。
+- 引擎與自動接續機制均已退役；後續採 session 內手動工作。
+- P5 凍結正文後才進 P6 主張級證據鏈試點；在 P6–P8 門檻通過前，不得對外標示為 evidence-verified。
 
 ## 工作守則
 

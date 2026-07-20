@@ -1,12 +1,21 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""生 STATUS.md 刊版：掃 scripts/schools.json 隊列 + schools/ 實況，出進度總表。"""
+"""生 STATUS.md 刊版：掃隊列、正文與 P5 checklist，輸出分層狀態。"""
 import json, os, datetime, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUEUE = os.path.join(ROOT, "scripts", "schools.json")
 SCHOOLS = os.path.join(ROOT, "schools")
 OUT = os.path.join(ROOT, "STATUS.md")
+P5_QUEUE = os.path.join(ROOT, "methodology", "p5-full-queue.md")
+
+def p5_counts():
+    """P5 checklist 是深化進度的 canonical source；缺檔時明確回傳未知。"""
+    try:
+        text = open(P5_QUEUE, encoding="utf-8").read()
+    except OSError:
+        return None, None
+    return text.count("- [x] "), text.count("- [ ] ")
 
 def load_queue():
     with open(QUEUE, encoding="utf-8") as f:
@@ -39,7 +48,7 @@ def main():
         slug = e["slug"]
         st, size = school_state(slug)
         counts[st] += 1
-        icon = {"queued":"⬜","draft":"🟡","reviewed":"🟢","error":"🔴"}[st]
+        icon = {"queued":"⬜","draft":"🟡","reviewed":"🟦","error":"🔴"}[st]
         rows.append(f"| {icon} | `{slug}` | {e['name_zh']} | {e['category']} | {st} | {size//1024 if size else 0}KB |")
 
     total = len(q)
@@ -47,6 +56,12 @@ def main():
     pct = int(100*done/total) if total else 0
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     bar = "█"*(pct//5) + "░"*(20-pct//5)
+    p5_done, p5_left = p5_counts()
+    p5_line = (
+        f"- P5 全庫深化：**{p5_done}/{p5_done + p5_left}**（剩 {p5_left} 篇）"
+        if p5_done is not None else
+        "- P5 全庫深化：未知（找不到 methodology/p5-full-queue.md）"
+    )
 
     lines = [
         "# STATUS — 刊版",
@@ -57,10 +72,12 @@ def main():
         "",
         f"`{bar}` **{done}/{total}** ({pct}%) 已產綜述",
         "",
-        f"- 🟢 已校核 reviewed：{counts['reviewed']}",
+        f"- 🟦 P3 已校核 reviewed：{counts['reviewed']}（不等同證據已驗證）",
         f"- 🟡 草稿 draft（待校核）：{counts['draft']}",
         f"- ⬜ 待產 queued：{counts['queued']}",
         f"- 🔴 疑失敗 error（<400B，查 logs/engine.log）：{counts['error']}",
+        p5_line,
+        "- P6 主張級證據保證：尚未開始",
         "",
         "## 明細",
         "",
@@ -69,7 +86,7 @@ def main():
         *rows,
         "",
         "---",
-        "> 🟡 草稿由 `claude-m3` 產生，事實需 P3 人工/Opus 校核（見 methodology/verification-sop.md）。",
+        "> ⚠️ `reviewed`、30KB+ 與 `tools/verify.py` ALL PASS 只表示流程／結構門檻；2026-07-20 高風險抽驗仍發現錯誤書目、人物學歷錯置與過強主張。P6 前不得稱為 evidence-verified，詳見 HANDOFF.md。",
     ]
     with open(OUT, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")

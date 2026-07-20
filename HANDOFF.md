@@ -1,7 +1,7 @@
 # psychology-schools — 交接狀態
 
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
-> 最後更新：2026-07-20（P5 全庫深化進行中；自動接續機制已移除）。薄尾 10/10 ✅；深化進度看 `methodology/p5-full-queue.md` 勾選狀態（2026-07-20：24/38 完成——本日新增 cognitive-psychology 37.5KB、psychoanalysis 標竿篇、mbct 清理、indigenous-psychology 37.2KB、morita-therapy 清理；下一篇＝art-therapy）。
+> 最後更新：2026-07-20。P5 全庫深化 **32/38**；canonical 進度看 `methodology/p5-full-queue.md`。剩 6 篇，下一篇為 `play-therapy`。自動接續機制已移除。
 >
 > **⚠️ 2026-07-20 發現：既有篇目含未清幻覺碎片（影響剩餘深化性質）**。mbct（33.7KB）雖已過 P3，仍含多處亂碼／捏造碎片：「熱情 pī 模式」「Padesky 雙軌治療呼吸」（L33）、「共激發達瑟頓（dash）」（L35）、「由 Matthew 前導…Salvo 形式」（L69，捏造人名）、「化學、工程跨界」（L100）、「SEBI／默 1960s Leonard Eron theoder」（L164）。**來源中立看待——本庫幾乎都是 Claude 執筆，這些是需修的幻覺，不歸因 M3**（見全域記憶 feedback_dont_blame_m3_own_hallucinations）。→ 剩餘篇深化＝「逐句清幻覺＋補概念」雙工，比乾淨篇（如 cognitive-psychology）重；且**補寫時要防自己新增幻覺**（人名/年代/書目先查證）。接手每篇先通讀抓幻覺再深化。**自動接續已於 2026-07-20 拿掉**：`p5-watchdog` / `p5-runner-launch` schtasks 任務、`tools/p5-watchdog.sh` / `p5-run-hidden.py` / `p5-register-watchdog.py` / `p5-deepen-runner.sh` 全數刪除（實測未能推進佇列，用戶要求移除）。**深化改為在 session 內手動逐篇做**（同 cbt / health-psychology 已驗證模式：直寫 → `tools/verify.py` → commit → push）。**Agent tool 派發不用**（AUP 誤判兩度攔截）。P4 ③ 網站待用戶指示呈現形式。
 
@@ -9,8 +9,28 @@
 
 - **P0 骨架**：✓ repo + 四份文件 + 方法論 + schema
 - **P1 inventory**：✓ classification（13 類 / ~48 學派）+ 三張清單 + 13 領域對接表 + 概念詞彙
-- **P2 綜述**：✅ **48/48 完成，verify ALL PASS**。46 篇由 m3 引擎產（🟡 待校核）、person-centered-therapy 與 health-psychology 由 Opus 直寫（品質較高，仍標 🟡 待 P3）。
+- **P2 綜述**：✅ 48/48 具有固定 8 段結構，`verify.py` 通過；這只代表結構完整。
+- **P3 校核**：✅ 48/48 `reviewed`，但 2026-07-20 抽驗證明此欄位不可解讀為逐主張已查證。
+- **P4**：✅ domain/concept 索引與對接層完成；網站待用戶決定呈現形式。
+- **P5 深化**：進行中，32/38；剩 `play-therapy`、`cultural-historical-psychology`、`narrative-therapy`、`gestalt-therapy`、`biological-psychology`、`humanistic-psychology`。
 - **引擎狀態**：**已停止**（m3 引擎 process 已 kill、`psych-schools-watchdog` schtasks 已 DISABLE、engine.pid 已清）。原因見下「配額路由事故」。系統現進 idle，不會自行重啟。
+
+## 2026-07-20 獨立品質抽驗
+
+本輪不採信 `reviewed`、P3/P5 紀錄行或 `ALL PASS` 自述，改抽查 8 篇高風險文章的人物、書目、年代、療效、理論歸屬與高信心標記：`humanistic-psychology`、`biological-psychology`、`health-psychology`、`person-centered-therapy`、`indigenous-psychology`、`mbct`、`psychoanalysis`、`play-therapy`。
+
+結論：**結構與概念覆蓋大致良好，但來源可追溯性與事實標記校準不合格；不能把全庫稱為「驗證版」。** 八篇皆有完整 8 段，且多數核心理論敘述可辨識；但高風險抽樣可直接找到多個實質錯誤：
+
+- `psychoanalysis`：把凝縮 `Verdichtung` 與移置 `Verschiebung` 的德文對應寫反；Schreber 個案誤寫成不存在的「Darwin Schulze」。該篇原被當作 P5 密度標竿。
+- `humanistic-psychology`：把 Moustakas 1994 的方法論書誤列為不存在的《Existential Psychotherapy and the Interpretation of Dreams》（正確書目是 *Phenomenological Research Methods*）；另有 ACT「直接從 Rogers 與 Gendlin 出發」等未充分支持的傳承敘述。
+- `indigenous-psychology`：人物學歷有成串錯置。楊國樞臺大畢業與伊利諾博士年份錯；黃光國被寫成臺大心理博士，實為夏威夷大學社會心理學博士；陸洛被寫成臺大博士及楊國樞學生，臺大官方資料為牛津大學心理學博士。
+- `mbct`：把 Williams 等 2014 的 JCCP 隨機拆解試驗誤列為 BMJ 348:g2613「systematic review and network meta-analysis」。
+- `play-therapy`：Bratton 等 2005 後設分析期刊誤寫為 *Journal of Professional Counseling*，正確為 *Professional Psychology: Research and Practice* 36(4), 376–390；Landreth 2012 第三版錯列 Bratton 與 Baggerly 為共同作者，出版社資料顯示作者仍為 Landreth；另有疑似不存在的 2019 SAGE handbook。
+- `biological-psychology`：整體歷史骨架較穩，但把程序性記憶簡化定位到「皮質」與權威記憶系統模型不符；應以基底核、小腦及相關皮質網絡表述。
+- `health-psychology`：八篇中書目可追溯性相對最佳；Holt-Lunstad 2010 的樣本數與 OR 正確，但正文把原文「與既有風險因子相當」升格為「超越吸菸、飲酒、運動不足」，屬措辭過強。
+- `person-centered-therapy`：抽驗核心歷史、六條件與 Rogers 生涯大致吻合，是本輪相對穩定樣本；主要缺陷是正文幾乎沒有可重取識別碼，讀者難以重現其 A/B 級標記。
+
+這是風險導向樣本，不是 48 篇全數錯誤率估計；但已足以否證「48/48 reviewed＝內容可信」的狀態語意。P6 前應先修正狀態模型，P6 試點再量測真正的主張覆蓋率與錯誤攔截率。
 
 ## 配額路由事故 + 計費結論（2026-07-16，重要）
 
