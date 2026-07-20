@@ -13,7 +13,7 @@
 - **P3 校核**：✅ 48/48 `reviewed`，但 2026-07-20 抽驗證明此欄位不可解讀為逐主張已查證。
 - **P4**：✅ domain/concept 索引與對接層完成；網站待用戶決定呈現形式。
 - **P5 深化**：進行中，32/38；剩 `play-therapy`、`cultural-historical-psychology`、`narrative-therapy`、`gestalt-therapy`、`biological-psychology`、`humanistic-psychology`。
-- **P6 品質穩定化試點**：已啟動，P5 暫停。`claims-schema.json`、`verify-claims.py` 與 strict 結構模式已完成；CBT／精神分析／本土心理學首批共登錄 14 條高風險主張（8 corroborated、6 retrieved），三篇均仍為 `in_progress`，不得解讀成全篇覆蓋。
+- **P6 品質穩定化試點**：已啟動，P5 暫停。`claims-schema.json`、`verify-claims.py`、strict 結構模式與 `inventory-high-risk.py` 已完成；CBT／精神分析／本土心理學首批共登錄 14 條高風險主張（8 corroborated、6 retrieved）。高召回盤點共列出 225 個候選單位，只有 13 個候選段落／條目已有 anchor 覆蓋，212 個仍待人工裁決；三篇均維持 `in_progress`。
 - **引擎狀態**：**已停止**（m3 引擎 process 已 kill、`psych-schools-watchdog` schtasks 已 DISABLE、engine.pid 已清）。原因見下「配額路由事故」。系統現進 idle，不會自行重啟。
 
 ## 2026-07-20 獨立品質抽驗

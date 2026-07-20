@@ -15,7 +15,7 @@
 
 地理上，類似的本土化運動在世界各地同步展開 🟢(B)：
 
-- **印度**：Durganand Sinha（1932–2014）於 1970s 提出 **Indian Indigenous Psychology**，強調從印度教經典、種姓制度、家族系統重新理解人格與社會行為
+- **印度**：Durganand Sinha（1922–1998）於 1970s 推動印度心理學本土化，強調從當地社會問題與文化脈絡重新理解人格與社會行為
 - **韓國**：Han Min-sup 等推動「Korean Indigenous Psychology」
 - **菲律賓**：Enriquez 於 1975 年提出 **Sikolohiyang Pilipino（Filipino Psychology）**，強調從本土語言（Tagalog）取徑，創造 *kapwa*（共享自我）等核心概念 🔵(B)
 - **非洲**：South African Psychology Society 1980s 推動非洲心理學；Naomi Mkhize、Augustine Nwoye 等學者提出 Ubuntu 心理學
@@ -322,7 +322,7 @@
 
 ### 8.1 未查證或來源待補
 
-- 楊國樞具體**博士論文題目、指導教授** 🟠(B)——筆者有「美國伊利諾大學 1966 年博士」之資訊，但未親查其論文題目與具體指導教授，故學術血統的細節未列。**資料待補**。
+- 楊國樞具體**博士論文題目、指導教授** 🟠(B)——已由臺大訪談與校友資料交叉確認其於 1969 年取得美國伊利諾大學博士，但未親查其論文題目與具體指導教授，故學術血統的細節未列。**資料待補**。
 - 楊中芳**耶魯博士學位具體年代** 🟠(B)——多數資料稱其為耶魯大學社會心理學博士，但具體論文與年代未親查。
 - **APIPA（Asian Association of Indigenous Psychologies）** 的正式成立時間與歷任理事長完整名單 🟠(B)——多數資料指向 2000 年前後，但完整組織沿革未親查原始文件。**資料待補**。
 - **黃光國《人情與面子》原文 1987 *American Journal of Sociology* 一文**具體卷期已標出 92(4), 944–974，但未親自翻閱驗證每一引文。
