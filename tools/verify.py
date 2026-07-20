@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """綜述完整性檢查：8 段是否齊全、是否有簡體、是否過小。不改檔，只回報。"""
-import os, glob, sys, re
+import argparse, os, glob, sys, re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SCHOOLS = os.path.join(ROOT, "schools")
@@ -37,9 +37,15 @@ def check(path):
     return issues
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("slugs", nargs="*", help="只檢查指定 slug")
+    parser.add_argument("--strict", action="store_true", help="有問題時以非零退出碼阻擋")
+    args = parser.parse_args()
     bad = 0
     for syn in sorted(glob.glob(os.path.join(SCHOOLS, "*", "synthesis.md"))):
         slug = os.path.basename(os.path.dirname(syn))
+        if args.slugs and slug not in args.slugs:
+            continue
         issues = check(syn)
         if issues:
             bad += 1
@@ -48,7 +54,7 @@ def main():
         print("ALL PASS")
     else:
         print(f"{bad} file(s) with issues")
-    sys.exit(0)  # 只回報不擋
+    sys.exit(1 if bad and args.strict else 0)
 
 if __name__ == "__main__":
     main()

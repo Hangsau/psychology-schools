@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Hangsau/psychology-schools/methodology/claims-schema.json",
+  "title": "psychology-schools high-risk evidence claim",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id", "claim", "type", "risk", "source_ids", "source_independence",
+    "verdict", "confidence", "checked_at", "checker", "text_anchor"
+  ],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+-[0-9]{3}$"},
+    "claim": {"type": "string", "minLength": 4},
+    "type": {
+      "enum": ["biographical", "bibliographic", "chronological", "quantitative", "causal", "efficacy", "attribution", "absolute"]
+    },
+    "risk": {"enum": ["high"]},
+    "source_ids": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^(doi:|isbn:|pmid:|url:https://)"}
+    },
+    "source_independence": {"enum": ["none", "single", "dependent", "independent"]},
+    "evidence_quote": {"type": "string", "maxLength": 200},
+    "verdict": {"enum": ["unverified", "retrieved", "corroborated", "disputed", "insufficient"]},
+    "confidence": {"enum": ["low", "medium", "high"]},
+    "checked_at": {"type": "string", "format": "date"},
+    "checker": {"type": "string", "minLength": 3},
+    "text_anchor": {"type": "string", "minLength": 4}
+  }
+}

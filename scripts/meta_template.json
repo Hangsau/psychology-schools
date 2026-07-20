@@ -14,6 +14,16 @@
   "keywords": [],
   "status": "queued",
   "review_state": "pending",
+  "evidence_state": {
+    "stage": "not_started",
+    "high_risk_claims_total": 0,
+    "corroborated": 0,
+    "disputed": 0,
+    "insufficient": 0,
+    "retrieved": 0,
+    "unverified": 0,
+    "checked_at": null
+  },
   "confidence_overall": "",
   "sources_tier_summary": "",
   "generated_by": "",
