@@ -1,5 +1,7 @@
 # psychology-schools — AI 工作守則
 
+> **封存狀態：`archived_legacy`；`evidence_release: false`；由 `psychology-knowledge-atlas` 取代。** 本 repo 只供歷史追溯、錯誤回歸種子與舊資料研究，不再新增或續做 P5/P6。不得直接恢復舊引擎或 `indigenous-psychology` §3a。
+
 > 給未來接手的 Claude / m3 / 其他 AI agent。
 > 計畫見 [`PLAN.md`](./PLAN.md)，狀態快照見 [`HANDOFF.md`](./HANDOFF.md)，導航見 [`MAP.md`](./MAP.md)。
 
@@ -9,7 +11,7 @@
 
 ## 當前階段
 
-**P3 已完成；P4 語義索引已完成、網站待決；P5 暫停在 32/38；當前＝P6 品質穩定化試點。**
+**Legacy archive：P3 已完成；P4 語義索引已完成；P5 暫停在 32/38；P6 試點未完成。以下內容保留為歷史背景。**
 
 - 48 學派均已有綜述並標為 `reviewed`；此狀態只表示做過 P3 校核，**不表示主張已獲可重現證據保證**。
 - 2026-07-20 高風險抽驗確認既有綠燈過度樂觀：抽樣中仍有錯誤書目、人物學歷錯置、術語對應錯誤及把單一／模糊來源標成 🔵🟢 的情形。品質基線見 `HANDOFF.md`。

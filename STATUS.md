@@ -1,5 +1,7 @@
 # STATUS — 刊版
 
+> **封存：`archived_legacy`｜`evidence_release: false`｜由 `psychology-knowledge-atlas` 取代。以下數字是停止維護時的歷史快照，不代表證據發布狀態。**
+
 > 引擎自動更新。最後更新：2026-07-20 12:25
 
 ## 進度

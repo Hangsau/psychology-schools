@@ -1,5 +1,7 @@
 # psychology-schools — 計畫
 
+> **狀態：`archived_legacy`；`evidence_release: false`；後繼專案：`psychology-knowledge-atlas`。本計畫停止執行，以下保留為歷史紀錄。**
+
 > 心理學學派**完整內容**資料庫（非概念、非簡介）。
 > 獨立 repo，與 `religions-history` 共用「人的 13 個問題領域」對接軸。
 > 啟動：2026-07-16

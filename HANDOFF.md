@@ -1,5 +1,13 @@
 # psychology-schools — 交接狀態
 
+## ARCHIVED LEGACY — 2026-07-22
+
+本 repo 已停止作為 canonical 心理學知識庫，狀態為 `archived_legacy`、`evidence_release: false`，由 `C:\claudehome\projects\psychology-knowledge-atlas` 取代。舊 GitHub repo 仍保留正常狀態，必須等新版可 clone 且驗收通過後才能設定 Archived。
+
+切換方向前的完整 dirty worktree 已保存於 branch `archival/wip-atlas-migration-2026-07-22`、commit `eb115a5`。`indigenous-psychology` §3a 是未完成半成品，不得續做或宣稱完成；Axline 學歷修正已從 WIP 分離保留。
+
+後續工作只在新版 repo 進行。以下 ACTIVE WORK 與 P5/P6 資訊均為歷史快照。
+
 ## ACTIVE WORK — 接手先看
 
 ```yaml

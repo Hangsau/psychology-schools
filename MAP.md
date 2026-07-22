@@ -1,5 +1,7 @@
 # psychology-schools — 導航地圖
 
+> **Legacy archive：本 repo 已由 `psychology-knowledge-atlas` 取代。以下導航只供追溯舊資料；禁止依舊決策索引啟動 P5/P6 或退役引擎。**
+
 > 冷啟動用。要做 X 先查 §2 決策索引 + §4 踩雷點，避免窮舉讀檔。
 
 ## 1. 結構
