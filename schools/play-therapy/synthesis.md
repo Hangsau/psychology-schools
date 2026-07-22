@@ -32,7 +32,7 @@
 - **Donald W. Winnicott（1896-1971）**：倫敦分析師；1953〈過渡性客體〉、1971《遊戲與現實》。把遊戲從「症狀解讀」的對象提升到「存在的臨在狀態」。A 級原典 🔵。
 - **Erik H. Erikson（1902-1994）**：精神分析-社會心理發展學派；1950 年《兒童與社會》（*Childhood and Society*，1963 二版）；把「遊戲」（play）列為學齡前期 psychosocial task 之一。A 級 🔵。
 - **Clark E. Moustakas（1923-2012）**：密歇根；存在-人本兒童心理治療系統化奠基者；1959 年《兒童心理治療：活著的關係》。A 級 🟢。
-- **Virginia Mae Axline（1911-1988）**：俄亥俄州立大學博士；CCPT 創始者。1947 年《Play Therapy》、1964 年《Dibs in Search of Self》（化名個案敘事，後廣為引用的兒童自我追尋案例）、1969 年《Play Therapy: The Inner World of the Child》修訂版。A 級原典 🔵。
+- **Virginia Mae Axline（1911-1988）**：俄亥俄州立大學心理學碩士（1941，隨 Rogers 共事），後於哥倫比亞大學師範學院取得教育博士（Ed.D., 1950）；CCPT 創始者。1947 年《Play Therapy》、1964 年《Dibs in Search of Self》（化名個案敘事，後廣為引用的兒童自我追尋案例）、1969 年《Play Therapy: The Inner World of the Child》修訂版。A 級原典 🔵。
 - **Charles E. Schaefer**（生歿年資料待補 🟠）：紐約 Fairleigh Dickinson 大學（注意拼法）；與 O'Connor 共同創立 APT（1982）；與 O'Connor 合編 *Handbook of Play Therapy*（1983，注意原書名與年份）（後多次再版）。B 級 🟢；具體生歿年需二次查證。🟠
 - **Garry L. Landreth**（生歿年資料待補 🟠）：UNT Regents Professor Emeritus；1987/1988 創立 CPT-UNT（🔵 UNT 官網）；1991 年《Play Therapy: The Art of the Relationship》（2012 第三版由 Routledge 出版）；2006 年與 Bratton 發表 CPRT（Child-Parent Relationship Therapy）操作手冊。把「The Relationship is the Cure」做成臨床口號與督導公約。A 級 🟢。
 - **Sue C. Bratton**：UNT CPT-UNT；CCPT 量表、學校本位研究、filial 訓練模式實證研究主力。B 級 🟢。

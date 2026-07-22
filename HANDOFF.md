@@ -1,6 +1,16 @@
 # psychology-schools — 交接狀態
 
-## ACTIVE WORK — 接手先看
+## ⚠️ 2026-07-22：等待換 session 執行的新方向
+
+使用者已要求先保存「全新建立 `psychology-knowledge-atlas`、舊 `psychology-schools` 封存但不刪除」的方案，稍後換正常 session 處理。完整計畫與驗收清單見：
+
+[`.implementation_psychology-knowledge-atlas-migration.md`](./.implementation_psychology-knowledge-atlas-migration.md)
+
+**接手禁止直接續做下方舊 P6 `section-3a`。** 下一個 session 應先重查 Git 狀態與上述計畫；只有使用者確認「開始」後，才依清單先保存 WIP、保護 `play-therapy` 的 Axline 修改、建立舊 repo 封存 checkpoint，再建立全新 repo。建立新版並驗收前，不得刪除或 GitHub Archive 舊 repo。
+
+本次只記錄計畫，尚未清理半成品、commit、push、建立 GitHub repo 或修改 `religions-history`。
+
+## 舊 ACTIVE WORK — 已被新方向暫停，僅供辨識半成品
 
 ```yaml
 phase: P6
