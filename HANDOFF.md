@@ -5,20 +5,20 @@
 ```yaml
 phase: P6
 school: indigenous-psychology
-unit: section-2-candidates-L42-L57
-base_commit: 98a6161f12898e8450a15d1cca97de32d32917fa
-status: validated
+unit: section-3a-candidates-L66-L113
+base_commit: 8eae09c13f10512fb62b3ac7f0f602086cf8243e
+status: started
 target_files:
   - HANDOFF.md
   - schools/indigenous-psychology/synthesis.md
   - schools/indigenous-psychology/claims.jsonl
   - schools/indigenous-psychology/meta.json
-expected_result: 裁決 §2 尚未覆蓋的 6 個候選（L42、L46、L54–L57），同步正文、claims 與 meta
+expected_result: 裁決 §3 前半尚未覆蓋的 7 個候選（L66、L75、L96、L98、L100、L106、L113），同步正文、claims 與 meta
 completed_items:
   - recovery-protocol（commit 4340201，已 push）
   - indigenous-psychology §1 候選 11/11 已裁決；新增 claims 013–021，修正南非組織史與 Māori 地理混寫；strict structure/claims PASS；§1 無未覆蓋候選
   - indigenous-psychology §2 候選 6/6 已裁決；新增 claims 022–027，修正楊中芳博士學校、移除未證生年／書目與 Uichol Kim 會議敘述；strict structure/claims PASS；§2 無未覆蓋候選
-next_action: 先提交本批；再建立 §3 候選的 write-ahead checkpoint
+next_action: 從 L66 楊國樞與 Pike／emic-etic 歸屬開始，核對原典後再處理三層任務、面子／關係／權威性格及多元自我模型
 validation_environment_note: 2026-07-22 受管 Windows sandbox 中，Python tempfile 建出的 0o700 目錄無法再進入，導致 11 tests 在 setup 失敗；strict structure/claims validators 正常通過。不得把此環境失敗記成測試通過。
 dirty_worktree_at_start:
   - schools/play-therapy/synthesis.md（既有 Axline 學歷修改；不屬本輪、不得加入 commit）
