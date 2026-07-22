@@ -5,19 +5,19 @@
 ```yaml
 phase: P6
 school: indigenous-psychology
-unit: recovery-protocol-then-section-1
-base_commit: 8ae8e4e01abb648852a52f97aecb2c7ac0d2b8e7
+unit: section-1-candidates-L3-L29
+base_commit: 4340201c84bfd3309a1c457b1975ba014359d1bb
 status: started
 target_files:
-  - CLAUDE.md
   - HANDOFF.md
-  - MAP.md
   - schools/indigenous-psychology/synthesis.md
   - schools/indigenous-psychology/claims.jsonl
   - schools/indigenous-psychology/meta.json
-expected_result: 先建立可中斷恢復協定，再從本土心理學 §1 高風險候選開始逐項裁決
-completed_items: []
-next_action: 驗證並提交恢復協定；之後輸出 indigenous-psychology §1 候選清單
+expected_result: 裁決 §1 尚未覆蓋的 11 個候選（L3、L11、L12、L18–L21、L23、L25、L27、L29），同步正文、claims 與 meta
+completed_items:
+  - recovery-protocol（commit 4340201，已 push）
+next_action: 從 L3 楊國樞生卒與倡議年代開始；逐項記錄來源，查不到不得保留高信心語氣
+validation_environment_note: 2026-07-22 受管 Windows sandbox 中，Python tempfile 建出的 0o700 目錄無法再進入，導致 11 tests 在 setup 失敗；strict structure/claims validators 正常通過。不得把此環境失敗記成測試通過。
 dirty_worktree_at_start:
   - schools/play-therapy/synthesis.md（既有 Axline 學歷修改；不屬本輪、不得加入 commit）
 ```
