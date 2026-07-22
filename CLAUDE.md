@@ -19,6 +19,13 @@
 - 原規劃為 P5 凍結後進 P6；因抽驗已證明擴寫會放大污染，2026-07-20 決定暫停 P5、提前做 P6 試點。在 P6–P8 門檻通過前，不得對外標示為 evidence-verified。
 - P6 試點為 `cbt`、`psychoanalysis`、`indigenous-psychology`；進度必須以 `claims.jsonl` 與 `meta.json.evidence_state` 為準，執行 `python tools/verify-claims.py --strict --require-claims <slug>` 驗收。
 
+### 中斷恢復（強制）
+
+- 開工前先讀 `HANDOFF.md` 頂端 `ACTIVE WORK`。若 `status` 不是 `validated`，必須先依 `base_commit`、`git status`、`git diff` 判斷半成品，完成或明確處置後才開始新單位。
+- 每個小批次採 write-ahead checkpoint：先把篇目、章節／候選範圍、基準 commit、目標檔、預期結果與下一步寫入 `ACTIVE WORK`，再修改正文或證據資料。
+- 未同步 `synthesis.md`、`claims.jsonl`、`meta.json` 且未通過 strict validator 前，一律維持 `started`／`in_progress`，不得宣稱完成。
+- 模型或作者名稱只記 provenance，不作錯誤歸因。錯誤紀錄必須指向具體文字、commit 與查證證據；不得把 Claude、MiniMax-M3 或任何模型概括為整批問題來源。
+
 ## 工作守則
 
 ### 1. 寫任何學派綜述前

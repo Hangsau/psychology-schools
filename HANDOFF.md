@@ -1,5 +1,29 @@
 # psychology-schools — 交接狀態
 
+## ACTIVE WORK — 接手先看
+
+```yaml
+phase: P6
+school: indigenous-psychology
+unit: recovery-protocol-then-section-1
+base_commit: 8ae8e4e01abb648852a52f97aecb2c7ac0d2b8e7
+status: started
+target_files:
+  - CLAUDE.md
+  - HANDOFF.md
+  - MAP.md
+  - schools/indigenous-psychology/synthesis.md
+  - schools/indigenous-psychology/claims.jsonl
+  - schools/indigenous-psychology/meta.json
+expected_result: 先建立可中斷恢復協定，再從本土心理學 §1 高風險候選開始逐項裁決
+completed_items: []
+next_action: 驗證並提交恢復協定；之後輸出 indigenous-psychology §1 候選清單
+dirty_worktree_at_start:
+  - schools/play-therapy/synthesis.md（既有 Axline 學歷修改；不屬本輪、不得加入 commit）
+```
+
+接手規則：若此區 `status` 不是 `validated`，先比對 `base_commit`、`git status` 與 `git diff`；現有 diff 視為可能半成品，不得直接提交或開始別篇。完成當前 unit 並通過該篇 strict validator 與測試後，才更新 checkpoint 指向下一單位。尚未寫入檔案的研究推理不視為已完成，必要時重新查證。
+
 > 狀態快照。即時進度看 [`STATUS.md`](./STATUS.md)（引擎自動更新）。
 > 最後更新：2026-07-20。P5 全庫深化 **32/38**；canonical 進度看 `methodology/p5-full-queue.md`。剩 6 篇，下一篇為 `play-therapy`。自動接續機制已移除。
 >
