@@ -7,7 +7,7 @@ phase: P6
 school: indigenous-psychology
 unit: section-1-candidates-L3-L29
 base_commit: 4340201c84bfd3309a1c457b1975ba014359d1bb
-status: started
+status: validated
 target_files:
   - HANDOFF.md
   - schools/indigenous-psychology/synthesis.md
@@ -16,7 +16,8 @@ target_files:
 expected_result: 裁決 §1 尚未覆蓋的 11 個候選（L3、L11、L12、L18–L21、L23、L25、L27、L29），同步正文、claims 與 meta
 completed_items:
   - recovery-protocol（commit 4340201，已 push）
-next_action: 從 L3 楊國樞生卒與倡議年代開始；逐項記錄來源，查不到不得保留高信心語氣
+  - indigenous-psychology §1 候選 11/11 已裁決；新增 claims 013–021，修正南非組織史與 Māori 地理混寫；strict structure/claims PASS；§1 無未覆蓋候選
+next_action: 先提交本批；再建立 §2 候選的 write-ahead checkpoint
 validation_environment_note: 2026-07-22 受管 Windows sandbox 中，Python tempfile 建出的 0o700 目錄無法再進入，導致 11 tests 在 setup 失敗；strict structure/claims validators 正常通過。不得把此環境失敗記成測試通過。
 dirty_worktree_at_start:
   - schools/play-therapy/synthesis.md（既有 Axline 學歷修改；不屬本輪、不得加入 commit）
