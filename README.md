@@ -2,7 +2,7 @@
 
 > 狀態：`archived_legacy`  
 > 證據發布：`evidence_release: false`  
-> 後繼專案：[`psychology-knowledge-atlas`](../psychology-knowledge-atlas/)
+> 後繼專案：[`psychology-knowledge-atlas`](https://github.com/Hangsau/psychology-knowledge-atlas)
 
 本庫是 2026 年建立的 48 項心理學學派／理論／治療取向 AI 綜述實驗。它保留完整 Git 歷史、舊文章、品質稽核與已知錯誤，供追溯與新版 regression seeds 使用；不再作為心理學知識的 canonical 來源。
 
